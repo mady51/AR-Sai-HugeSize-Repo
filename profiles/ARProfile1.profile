@@ -2,13 +2,13 @@
 <Profile xmlns="http://soap.sforce.com/2006/04/metadata">
     <applicationVisibilities>
         <application>standard__AppLauncher</application>
-        <default>false</default>
-        <visible>true</visible>
+        <default>False</default>
+        <visible>True</visible>
     </applicationVisibilities>
     <applicationVisibilities>
         <application>standard__Chatter</application>
-        <default>false</default>
-        <visible>true</visible>
+        <default>True</default>
+        <visible>False</visible>
     </applicationVisibilities>
     <applicationVisibilities>
         <application>standard__Community</application>
