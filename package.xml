@@ -1,8 +1,175 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+<?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>50.0</version>
+    <types>
+        <members>A0</members>
+        <members>A000</members>
+        <members>A0001</members>
+        <members>A0071</members>
+        <members>A01234567</members>
+        <members>A025</members>
+        <members>A090</members>
+        <members>A1</members>
+        <members>A161</members>
+        <members>AAClsABPSiWR</members>
+        <members>Feb10</members>
+        <members>Feb22ndCls1</members>
+        <members>febthCls1</members>
+        <name>ApexClass</name>
+    </types>
     <types>
         <members>SaiTrigger</members>
         <name>ApexTrigger</name>
+    </types>
+    <types>
+        <members>Account.Apppro1</members>
+        <members>Account.AprrovprocessTest1</members>
+        <name>ApprovalProcess</name>
+    </types>
+    <types>
+        <members>ACCObjTest1__c.Pf3__c</members>
+        <members>ACR5__c.F3__c</members>
+        <members>ACR5__c.field1__c</members>
+        <members>ACR5__c.field2__c</members>
+        <members>ACR5__c.pf1__c</members>
+        <members>A_b__c.A_Bfeild__c</members>
+        <members>Feb21Obj1__c.F1__c</members>
+        <members>Feb21Obj1__c.F2__c</members>
+        <members>Feb22ndObj1__c.F1__c</members>
+        <members>Feb22ndObj1__c.F2__c</members>
+        <members>KBj1__c.F1__c</members>
+        <members>TestCsutomMetadata1__mdt.F1__c</members>
+        <members>feb8thObj1__c.F1__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>AC1</members>
+        <members>AC2</members>
+        <members>ACL11</members>
+        <members>ACL12</members>
+        <members>Feb8thCl1</members>
+        <members>KMl1</members>
+        <members>SSlabel1</members>
+        <members>c2</members>
+        <members>feb8tCl1</members>
+        <name>CustomLabel</name>
+    </types>
+    <types>
+        <members>A2__c</members>
+        <members>ACR5__c</members>
+        <members>A_b__c</members>
+        <members>Feb21Obj1__c</members>
+        <members>Feb22ndObj1__c</members>
+        <members>KBj1__c</members>
+        <members>SMobj1__c</members>
+        <members>TestCsutomMetadata1__mdt</members>
+        <members>feb8thObj1__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>TestCustomPerm1</members>
+        <name>CustomPermission</name>
+    </types>
+    <types>
+        <members>EmailTemp1</members>
+        <members>T2</members>
+        <members>TempFolder1</members>
+        <members>unfiled$public/Sait1</members>
+        <name>EmailTemplate</name>
+    </types>
+    <types>
+        <members>Pradeep_External_Data_Sourcc</members>
+        <name>ExternalDataSource</name>
+    </types>
+    <types>
+        <members>Test1</members>
+        <name>GlobalValueSet</name>
+    </types>
+    <types>
+        <members>ACCObjTest1__c-ACCObjTest1 Layout</members>
+        <members>ACCObjTest1__c-Custom-Layout1</members>
+        <members>ACCObjTest1__c-sai</members>
+        <members>ACR5__c-ACR5 Layout</members>
+        <members>A_b__c-A%26b Layout</members>
+        <members>Account-Account %28Marketing%29 Layout</members>
+        <members>Account-Account %28Sales%29 Layout</members>
+        <members>Account-Account %28Support%29 Layout</members>
+        <members>Account-Account Layout</members>
+        <members>Feb21Obj1__c-Feb21Obj1 Layout</members>
+        <members>Feb22ndObj1__c-Feb22ndObj1 Layout</members>
+        <members>KBj1__c-KBj1 Layout</members>
+        <members>TestCsutomMetadata1__mdt-TestCustomMetadata1 Layout</members>
+        <members>feb8thObj1__c-feb8thObj1 Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>TestNC1</members>
+        <name>NamedCredential</name>
+    </types>
+    <types>
+        <members>PRS1</members>
+        <members>PRS2</members>
+        <members>feb8th</members>
+        <name>PermissionSet</name>
+    </types>
+    <types>
+        <members>ARProfile1</members>
+        <members>ARProfile10</members>
+        <members>ARProfile2</members>
+        <members>ATESTProfile1</members>
+        <members>Admin</members>
+        <members>AdminClone</members>
+        <members>Analytics Cloud Integration User</members>
+        <members>Analytics Cloud Security User</members>
+        <members>CFPProfile</members>
+        <members>CloneProfile1</members>
+        <members>ContractManager</members>
+        <members>Cross Org Data Proxy User</members>
+        <members>Custom%3A Marketing Profile</members>
+        <members>Custom%3A Sales Profile</members>
+        <members>Custom%3A Support Profile</members>
+        <members>CustomProfile1</members>
+        <members>Force%2Ecom - App Subscription User</members>
+        <members>Force%2Ecom - Free User</members>
+        <members>Identity User</members>
+        <members>MarketingProfile</members>
+        <members>Partner App Subscription User</members>
+        <members>ProfileTest1</members>
+        <members>ProfileTest123</members>
+        <members>Profileest</members>
+        <members>QAProfile1</members>
+        <members>ReadOnly</members>
+        <members>SaiJun19thprofile</members>
+        <members>SolutionManager</members>
+        <members>Standard</members>
+        <members>StandardAul</members>
+        <members>System AdministratorClone</members>
+        <members>Test1</members>
+        <members>Test1557</members>
+        <members>Test1Profile</members>
+        <members>TestCreateProfile</members>
+        <members>Work%2Ecom Only User</members>
+        <members>clone profile</members>
+        <members>feb8th</members>
+        <members>sp1</members>
+        <name>Profile</name>
+    </types>
+    <types>
+        <members>ARProfile10_profilePasswordPolicy1559371796234</members>
+        <members>ARProfile1_profilePasswordPolicy1520692602097</members>
+        <name>ProfilePasswordPolicy</name>
+    </types>
+    <types>
+        <members>ARProfile10_profileSessionSetting1559371796328</members>
+        <members>ARProfile1_profileSessionSetting1520692602184</members>
+        <name>ProfileSessionSetting</name>
+    </types>
+    <types>
+        <members>ACCObjTest1__c.SairecordType1</members>
+        <members>ACCObjTest1__c.SairecordType2</members>
+        <name>RecordType</name>
+    </types>
+    <types>
+        <members>SaiOobj1__c.Rule1</members>
+        <name>SharingOwnerRule</name>
     </types>
 </Package>
