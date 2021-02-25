@@ -1,11 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <Profile xmlns="http://soap.sforce.com/2006/04/metadata">
     <classAccesses>
         <apexClass>A0</apexClass>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
         <apexClass>A000</apexClass>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
         <apexClass>A025</apexClass>
@@ -28,7 +29,6 @@
         <enabled>false</enabled>
     </classAccesses>
     <custom>true</custom>
-    <description>111111</description>
     <externalDataSourceAccesses>
         <enabled>false</enabled>
         <externalDataSource>Pradeep_External_Data_Sourcc</externalDataSource>
@@ -114,7 +114,18 @@
     <layoutAssignments>
         <layout>feb8thObj1__c-feb8thObj1 Layout</layout>
     </layoutAssignments>
-    <loginHours/>
+    <loginIpRanges>
+        <endAddress>255.255.255.200</endAddress>
+        <startAddress>1.0.0.2</startAddress>
+    </loginIpRanges>
+    <loginIpRanges>
+        <endAddress>255.255.255.201</endAddress>
+        <startAddress>1.0.0.3</startAddress>
+    </loginIpRanges>
+    <loginIpRanges>
+        <endAddress>255.255.255.203</endAddress>
+        <startAddress>1.0.0.4</startAddress>
+    </loginIpRanges>
     <recordTypeVisibilities>
         <default>true</default>
         <recordType>ACCObjTest1__c.SairecordType1</recordType>
@@ -192,10 +203,6 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>EditEvent</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>EditMyReports</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>

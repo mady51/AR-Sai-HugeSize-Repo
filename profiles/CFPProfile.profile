@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <Profile xmlns="http://soap.sforce.com/2006/04/metadata">
     <classAccesses>
         <apexClass>A0</apexClass>
@@ -28,7 +29,6 @@
         <enabled>false</enabled>
     </classAccesses>
     <custom>true</custom>
-    <description>111111</description>
     <externalDataSourceAccesses>
         <enabled>false</enabled>
         <externalDataSource>Pradeep_External_Data_Sourcc</externalDataSource>
@@ -114,7 +114,6 @@
     <layoutAssignments>
         <layout>feb8thObj1__c-feb8thObj1 Layout</layout>
     </layoutAssignments>
-    <loginHours/>
     <recordTypeVisibilities>
         <default>true</default>
         <recordType>ACCObjTest1__c.SairecordType1</recordType>
@@ -124,6 +123,10 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>ActivitiesAccess</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>AddDirectMessageMembers</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
@@ -195,10 +198,6 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
-        <name>EditMyReports</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
         <name>EditOppLineItemUnitPrice</name>
     </userPermissions>
     <userPermissions>
@@ -256,6 +255,10 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>OverrideForecasts</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>RemoveDirectMessageMembers</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
