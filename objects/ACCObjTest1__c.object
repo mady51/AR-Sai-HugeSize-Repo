@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
     <actionOverrides>
         <actionName>Accept</actionName>
@@ -272,6 +271,31 @@
         </valueSet>
     </fields>
     <fields>
+        <fullName>Pf3__c</fullName>
+        <description>dsfsdfsd</description>
+        <externalId>false</externalId>
+        <label>Pf3</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>test</fullName>
+                    <default>false</default>
+                    <label>test</label>
+                </value>
+                <value>
+                    <fullName>1</fullName>
+                    <default>true</default>
+                    <label>1</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
+    <fields>
         <fullName>Plt3__c</fullName>
         <description>Add Comment</description>
         <externalId>false</externalId>
@@ -343,10 +367,10 @@
             </values>
         </picklistValues>
         <picklistValues>
-            <picklist>PLt1__c</picklist>
+            <picklist>Pf3__c</picklist>
             <values>
-                <fullName>2</fullName>
-                <default>true</default>
+                <fullName>test</fullName>
+                <default>false</default>
             </values>
         </picklistValues>
         <picklistValues>
@@ -391,9 +415,9 @@
             </values>
         </picklistValues>
         <picklistValues>
-            <picklist>PLt1__c</picklist>
+            <picklist>Pf3__c</picklist>
             <values>
-                <fullName>2</fullName>
+                <fullName>test</fullName>
                 <default>false</default>
             </values>
         </picklistValues>

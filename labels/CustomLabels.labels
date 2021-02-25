@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
     <labels>
         <fullName>AAtest456</fullName>
@@ -10,9 +9,9 @@
     <labels>
         <fullName>AC1</fullName>
         <language>en_US</language>
-        <protected>false</protected>
+        <protected>true</protected>
         <shortDescription>ac111</shortDescription>
-        <value>12111122</value>
+        <value>2</value>
     </labels>
     <labels>
         <fullName>AC133</fullName>
@@ -26,7 +25,7 @@
         <language>en_US</language>
         <protected>true</protected>
         <shortDescription>AC211</shortDescription>
-        <value>231124e44444</value>
+        <value>feb8th</value>
     </labels>
     <labels>
         <fullName>AC56</fullName>
@@ -82,14 +81,14 @@
         <language>en_US</language>
         <protected>true</protected>
         <shortDescription>ACL11</shortDescription>
-        <value>112111111</value>
+        <value>11</value>
     </labels>
     <labels>
         <fullName>ACL12</fullName>
         <language>en_US</language>
         <protected>true</protected>
         <shortDescription>ACL12</shortDescription>
-        <value>12132111</value>
+        <value>1</value>
     </labels>
     <labels>
         <fullName>ACL2</fullName>
@@ -633,6 +632,13 @@
         <value>TestCl1</value>
     </labels>
     <labels>
+        <fullName>Feb8thCl1</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Feb8thCl1</shortDescription>
+        <value>1</value>
+    </labels>
+    <labels>
         <fullName>Fgv1</fullName>
         <language>en_US</language>
         <protected>true</protected>
@@ -679,6 +685,13 @@
         <language>en_US</language>
         <protected>true</protected>
         <shortDescription>KL1</shortDescription>
+        <value>1</value>
+    </labels>
+    <labels>
+        <fullName>KMl1</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>KMl1</shortDescription>
         <value>1</value>
     </labels>
     <labels>
@@ -1195,6 +1208,13 @@
         <value>1</value>
     </labels>
     <labels>
+        <fullName>SSlabel1</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>SSlabel1</shortDescription>
+        <value>to see you go test123</value>
+    </labels>
+    <labels>
         <fullName>STAB203_Label</fullName>
         <language>en_US</language>
         <protected>true</protected>
@@ -1571,7 +1591,7 @@
         <language>en_US</language>
         <protected>true</protected>
         <shortDescription>c2</shortDescription>
-        <value>1</value>
+        <value>12</value>
     </labels>
     <labels>
         <fullName>cd1</fullName>
@@ -1628,6 +1648,13 @@
         <protected>true</protected>
         <shortDescription>fdf</shortDescription>
         <value>d</value>
+    </labels>
+    <labels>
+        <fullName>feb8tCl1</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>feb8tCl1</shortDescription>
+        <value>1</value>
     </labels>
     <labels>
         <fullName>gggg</fullName>
