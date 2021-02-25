@@ -17,6 +17,10 @@
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
+        <apexClass>A0071</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>A012378</apexClass>
         <enabled>true</enabled>
     </classAccesses>
@@ -38,6 +42,10 @@
     </classAccesses>
     <classAccesses>
         <apexClass>A13</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>A150</apexClass>
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
@@ -112,6 +120,11 @@
     <fieldPermissions>
         <editable>false</editable>
         <field>Feb22ndObj1__c.F2__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Feb25Obj1__c.F1__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -194,6 +207,15 @@
         <modifyAllRecords>false</modifyAllRecords>
         <object>Feb22ndObj1__c</object>
         <viewAllRecords>false</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>Feb25Obj1__c</object>
+        <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
         <allowCreate>true</allowCreate>
