@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>48.0</version>
+<?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <version>50.0</version>
     <types>
         <members>A0</members>
         <members>A000</members>
@@ -143,6 +142,7 @@
         <members>BusinessClass</members>
         <members>BusinessClassTest</members>
         <members>C1</members>
+        <members>Casehelper</members>
         <members>ChangePasswordController</members>
         <members>ChangePasswordControllerTest</members>
         <members>CommunitiesLandingController</members>
@@ -764,6 +764,7 @@
         <members>Case.ParentId</members>
         <members>Case.Priority</members>
         <members>Case.Reason</members>
+        <members>Case.ServiceContractId</members>
         <members>Case.Status</members>
         <members>Case.Subject</members>
         <members>Case.SuppliedCompany</members>
@@ -3311,6 +3312,9 @@
         <name>NotificationTypeConfig</name>
     </types>
     <types>
+        <members>PRS007</members>
+        <members>PRS008</members>
+        <members>PRS009</members>
         <members>PRS1</members>
         <members>PRS2</members>
         <members>PradeepPermSet1</members>
