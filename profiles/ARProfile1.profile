@@ -5,7 +5,17 @@
         <default>true</default>
         <visible>false</visible>
     </applicationVisibilities>
+ <applicationVisibilities>
+        <application>standard__AppLauncher</application>
+        <default>true</default>
+        <visible>false</visible>
+    </applicationVisibilities>
     <applicationVisibilities>
+         <applicationVisibilities>
+        <application>standard__AppLauncher</application>
+        <default>true</default>
+        <visible>false</visible>
+    </applicationVisibilities>
         <application>standard__Chatter</application>
         <default>true</default>
         <visible>false</visible>
