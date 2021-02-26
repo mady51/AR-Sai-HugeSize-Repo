@@ -4,13 +4,9 @@ public Account createAccount(String name)  //method to create account
 {
 //Test comment for Account A01234
 //Test1
-Account a0123= new Account();
-a0123.Name = name;
-return a0123;
-//this is the test comment4
-//Test112345cxzcnjxzcjnkxzck4
-//ShamsTesting1111111
-//007
-//dsdvsdv
+Account a1 = new Account();
+a1 .Name = name;
+return a1 ;
+//na3711111111
 }
 }
