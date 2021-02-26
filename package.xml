@@ -2418,6 +2418,20 @@
         <name>WaveDashboard</name>
     </types>
     <types>
+        <members>ACOBJT1__c.Button1</members>
+        <members>Account.Billing</members>
+        <name>WebLink</name>
+    </types>
+    <types>
+        <members>DBObj1__c.TestEmailAlert1</members>
+        <name>WorkflowAlert</name>
+    </types>
+    <types>
+        <members>AR_Obj200__c.WorkFlowFieldUpdateTeste</members>
+        <members>DBObj1__c.WorkFlowFieldUpdateTest2</members>
+        <name>WorkflowFieldUpdate</name>
+    </types>
+    <types>
         <members>Worldwide_Fundraising_Starter</members>
         <name>WaveXmd</name>
     </types>
