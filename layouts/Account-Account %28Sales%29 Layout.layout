@@ -47,11 +47,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>AccountLookUpField__c</field>
-            </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
-                <field>MyCoolCheckBox__c</field>
+                <field>AccountField__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
@@ -233,11 +229,6 @@
     <relatedContent>
         <relatedContentItems>
             <layoutItem>
-                <component>wits:newsPanel</component>
-            </layoutItem>
-        </relatedContentItems>
-        <relatedContentItems>
-            <layoutItem>
                 <component>runtime_sales_social:socialPanel</component>
             </layoutItem>
         </relatedContentItems>
@@ -297,21 +288,44 @@
         <relatedList>RelatedPartnerList</relatedList>
     </relatedLists>
     <relatedLists>
-        <fields>MEMBER_NAME</fields>
-        <fields>TEAM_MEMBER_ROLE</fields>
-        <relatedList>RelatedAccountSalesTeam</relatedList>
+        <fields>NAME</fields>
+        <relatedList>QaObj1__c.AccountLookupField1__c</relatedList>
     </relatedLists>
     <relatedLists>
         <fields>NAME</fields>
-        <relatedList>ACR2__c.LookUpField2__c</relatedList>
+        <relatedList>QaObj1__c.AccountMasterField2__c</relatedList>
     </relatedLists>
     <relatedLists>
-        <fields>CreatedDate</fields>
-        <fields>StepStatus</fields>
-        <fields>OriginalActor</fields>
-        <fields>Actor</fields>
-        <fields>Comments</fields>
-        <relatedList>RelatedProcessHistoryList</relatedList>
+        <fields>NAME</fields>
+        <relatedList>QaObj2__c.AccountLookupField1__c</relatedList>
+    </relatedLists>
+    <relatedLists>
+        <fields>NAME</fields>
+        <relatedList>QaObj2__c.AccountMasterField1__c</relatedList>
+    </relatedLists>
+    <relatedLists>
+        <fields>NAME</fields>
+        <relatedList>QaObj3__c.Lookfield1__c</relatedList>
+    </relatedLists>
+    <relatedLists>
+        <fields>NAME</fields>
+        <relatedList>QaObj3__c.MasterField1__c</relatedList>
+    </relatedLists>
+    <relatedLists>
+        <fields>NAME</fields>
+        <relatedList>QAObj4__c.lookupField1__c</relatedList>
+    </relatedLists>
+    <relatedLists>
+        <fields>NAME</fields>
+        <relatedList>QAObj4__c.MasterField1__c</relatedList>
+    </relatedLists>
+    <relatedLists>
+        <fields>NAME</fields>
+        <relatedList>QaObj5__c.LookupField1__c</relatedList>
+    </relatedLists>
+    <relatedLists>
+        <fields>NAME</fields>
+        <relatedList>QaObj5__c.MasterField1__c</relatedList>
     </relatedLists>
     <relatedObjects>ParentId</relatedObjects>
     <runAssignmentRulesDefault>false</runAssignmentRulesDefault>
