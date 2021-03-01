@@ -2055,6 +2055,10 @@
         <name>RecordType</name>
     </types>
     <types>
+        <members>Test1</members>
+        <name>RemoteSiteSetting</name>
+    </types>
+    <types>
         <members>AccountFolder</members>
         <members>AccountFolder/TestReport3</members>
         <members>LeadFolder</members>
