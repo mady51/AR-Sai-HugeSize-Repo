@@ -2808,6 +2808,7 @@
     </types>
     <types>
         <members>ApexDevNet</members>
+        <members>Test1</members>
         <name>RemoteSiteSetting</name>
     </types>
     <types>
