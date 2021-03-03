@@ -2,12 +2,12 @@
 <Profile xmlns="http://soap.sforce.com/2006/04/metadata">
     <applicationVisibilities>
         <application>ALDCRMv2</application>
-        <default>True</default>
+        <default>false</default>
         <visible>true</visible>
     </applicationVisibilities>
     <applicationVisibilities>
         <application>ALDSalesV1</application>
-        <default>False</default>
+        <default>true</default>
         <visible>false</visible>
     </applicationVisibilities>
     <applicationVisibilities>
@@ -22438,6 +22438,16 @@
         <recordType>Credit_Check__c.Credit_Check_Standard</recordType>
         <visible>false</visible>
     </recordTypeVisibilities>
+	<recordTypeVisibilities>
+        <default>false</default>
+        <recordType>Credit_Check__c.Credit_Check_Standard</recordType>
+        <visible>false</visible>
+    </recordTypeVisibilities>
+	<recordTypeVisibilities>
+        <default>false</default>
+        <recordType>Credit_Check__c.Credit_Check_Standard</recordType>
+        <visible>false</visible>
+    </recordTypeVisibilities>
     <recordTypeVisibilities>
         <default>false</default>
         <recordType>Credit_Check__c.Credit_Check_Ukraine</recordType>
@@ -23290,6 +23300,11 @@
         <visible>false</visible>
     </recordTypeVisibilities>
     <recordTypeVisibilities>
+        <default>false</default>
+        <recordType>q_credit_line__c.UKRAINE</recordType>
+        <visible>false</visible>
+    </recordTypeVisibilities>
+	 <recordTypeVisibilities>
         <default>false</default>
         <recordType>q_credit_line__c.UKRAINE</recordType>
         <visible>false</visible>
