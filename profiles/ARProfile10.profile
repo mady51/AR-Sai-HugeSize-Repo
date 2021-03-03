@@ -4,6 +4,10 @@
         <apexClass>A0</apexClass>
         <enabled>false</enabled>
     </classAccesses>
+       <classAccesses>
+        <apexClass>A0</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
     <classAccesses>
         <apexClass>A0001</apexClass>
         <enabled>false</enabled>
@@ -49,6 +53,11 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
+        <editable>false</editable>
+        <field>DLObj1__c.Field4__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+       <fieldPermissions>
         <editable>false</editable>
         <field>DLObj1__c.Field4__c</field>
         <readable>false</readable>
