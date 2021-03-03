@@ -22834,6 +22834,21 @@
         <recordType>Opportunity.Opportunity_Italy_Renewal</recordType>
         <visible>false</visible>
     </recordTypeVisibilities>
+	 <recordTypeVisibilities>
+        <default>false</default>
+        <recordType>Opportunity.Opportunity_Italy_Renewal</recordType>
+        <visible>false</visible>
+    </recordTypeVisibilities>
+	 <recordTypeVisibilities>
+        <default>false</default>
+        <recordType>Opportunity.Opportunity_Italy_Renewal</recordType>
+        <visible>false</visible>
+    </recordTypeVisibilities>
+	 <recordTypeVisibilities>
+        <default>false</default>
+        <recordType>Opportunity.Opportunity_Italy_Renewal</recordType>
+        <visible>false</visible>
+    </recordTypeVisibilities>
     <recordTypeVisibilities>
         <default>false</default>
         <recordType>Opportunity.Opportunity_Remarketing</recordType>
