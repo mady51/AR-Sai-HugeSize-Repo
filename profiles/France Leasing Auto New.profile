@@ -20475,7 +20475,7 @@
         <layout>AccountContactRelation-Account Contact Relationship Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>AccountContactRole-å®¢æ·èç³»äººè§è² å¸å±</layout>
+        <layout>AccountContactRole-Ã¥Â®Â¢Ã¦ÂÂ·Ã¨ÂÂÃ§Â³Â»Ã¤ÂºÂºÃ¨Â§ÂÃ¨ÂÂ² Ã¥Â¸ÂÃ¥Â±Â</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>AccountTeamMember-Account Team Member Layout</layout>
@@ -20547,7 +20547,7 @@
         <layout>ChannelProgramMember-Channel Program Member Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>CollaborationGroup-PrÃ©sentation Groupe</layout>
+        <layout>CollaborationGroup-PrÃÂ©sentation Groupe</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>CommunityMemberLayout-Community Member Layout</layout>
@@ -20646,7 +20646,7 @@
         <layout>FAQ__kav-FAQ Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>FeedItem-Ð­Ð»ÐµÐ¼ÐµÐ½Ñ Ð»ÐµÐ½ÑÑ%3A Ð¼Ð°ÐºÐµÑ</layout>
+        <layout>FeedItem-ÃÂ­ÃÂ»ÃÂµÃÂ¼ÃÂµÃÂ½ÃÂ ÃÂ»ÃÂµÃÂ½ÃÂÃÂ%3A ÃÂ¼ÃÂ°ÃÂºÃÂµÃÂ</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Fleet__c-Fleet Layout</layout>
@@ -20721,7 +20721,7 @@
         <layout>Opportunity-Country A</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>OpportunityContactRole-Formato FunciÃ³n del contacto de oportunidades</layout>
+        <layout>OpportunityContactRole-Formato FunciÃÂ³n del contacto de oportunidades</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>OpportunityLineItem-Opportunity Product Layout</layout>
@@ -20887,7 +20887,7 @@
         <layout>UserAppMenuItem-Application Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>UserProvisioningRequest-PrÃ©sentation Demande de provisionnement utilisateur</layout>
+        <layout>UserProvisioningRequest-PrÃÂ©sentation Demande de provisionnement utilisateur</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>customPermission__mdt-Custom Permission Layout</layout>
@@ -22433,16 +22433,6 @@
         <recordType>Credit_Check__c.Credit_Check_Russia</recordType>
         <visible>false</visible>
     </recordTypeVisibilities>
-    <recordTypeVisibilities>
-        <default>false</default>
-        <recordType>Credit_Check__c.Credit_Check_Standard</recordType>
-        <visible>false</visible>
-    </recordTypeVisibilities>
-	<recordTypeVisibilities>
-        <default>false</default>
-        <recordType>Credit_Check__c.Credit_Check_Standard</recordType>
-        <visible>false</visible>
-    </recordTypeVisibilities>
 	<recordTypeVisibilities>
         <default>false</default>
         <recordType>Credit_Check__c.Credit_Check_Standard</recordType>
@@ -23300,11 +23290,6 @@
         <visible>false</visible>
     </recordTypeVisibilities>
     <recordTypeVisibilities>
-        <default>false</default>
-        <recordType>q_credit_line__c.UKRAINE</recordType>
-        <visible>false</visible>
-    </recordTypeVisibilities>
-	 <recordTypeVisibilities>
         <default>false</default>
         <recordType>q_credit_line__c.UKRAINE</recordType>
         <visible>false</visible>
