@@ -150,6 +150,7 @@
         <members>CommunitiesSelfRegConfirmControllerTest</members>
         <members>CommunitiesSelfRegController</members>
         <members>CommunitiesSelfRegControllerTest</members>
+        <members>CreateContactFrmEmail</members>
         <members>D0</members>
         <members>D3</members>
         <members>D4</members>
