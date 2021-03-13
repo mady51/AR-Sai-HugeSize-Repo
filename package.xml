@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>49.0</version>
+<?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <version>51.0</version>
     <types>
         <members>A0</members>
         <members>A000</members>
@@ -2537,10 +2536,13 @@
     <types>
         <members>PRS1</members>
         <members>PRS2</members>
+        <members>PermissionSet44773</members>
+        <members>PermissionSet6877</members>
         <members>custom_permission2</members>
         <name>PermissionSet</name>
     </types>
     <types>
+        <members>04JanProfile</members>
         <members>API User</members>
         <members>ARProfile1</members>
         <members>ARProfile10</members>
