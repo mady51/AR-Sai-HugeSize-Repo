@@ -1385,6 +1385,8 @@
         <members>MaintenancePlan.WorkOrderGenerationMethod</members>
         <members>MaintenancePlan.WorkOrderGenerationStatus</members>
         <members>MaintenancePlan.WorkTypeId</members>
+        <members>Mar1811__c.f1__c</members>
+        <members>Mar1811__c.f2__c</members>
         <members>Mar20Obj2__c.Mar20Obj2Field1__c</members>
         <members>Mar20Obj2__c.Mar20Obj2Field2__c</members>
         <members>Mar20Obj3__c.Mar20Obj3Field1__c</members>
@@ -2662,6 +2664,7 @@
         <members>MacroUsage</members>
         <members>MaintenanceAsset</members>
         <members>MaintenancePlan</members>
+        <members>Mar1811__c</members>
         <members>Mar20Obj2__c</members>
         <members>Mar20Obj3__c</members>
         <members>Mar21Obj2__c</members>
