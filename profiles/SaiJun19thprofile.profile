@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Profile xmlns="http://soap.sforce.com/2006/04/metadata">
     <applicationVisibilities>
         <application>AppTest1</application>
@@ -4500,6 +4499,14 @@
         <layout>ACCObjTest1__c-ACCObjTest1 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>ACCObjTest1__c-ACCObjTest1 Layout</layout>
+        <recordType>ACCObjTest1__c.SairecordType1</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>ACCObjTest1__c-ACCObjTest1 Layout</layout>
+        <recordType>ACCObjTest1__c.SairecordType2</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>ACCObjt1__c-ACCObjt1 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -5150,21 +5157,7 @@
     <layoutAssignments>
         <layout>zb1__c-zb1 Layout</layout>
     </layoutAssignments>
-    <loginIpRanges>
-        <description>sd111</description>
-        <endAddress>124.123.166.68</endAddress>
-        <startAddress>124.123.166.68</startAddress>
-    </loginIpRanges>
-    <loginIpRanges>
-        <description>azSD</description>
-        <endAddress>124.123.166.69</endAddress>
-        <startAddress>124.123.166.69</startAddress>
-    </loginIpRanges>
-    <loginIpRanges>
-        <description>AZsxd</description>
-        <endAddress>124.123.166.70</endAddress>
-        <startAddress>124.123.166.70</startAddress>
-    </loginIpRanges>
+    <loginHours/>
     <objectPermissions>
         <allowCreate>true</allowCreate>
         <allowDelete>true</allowDelete>

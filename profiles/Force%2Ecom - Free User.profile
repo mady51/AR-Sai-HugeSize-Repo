@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Profile xmlns="http://soap.sforce.com/2006/04/metadata">
     <applicationVisibilities>
         <application>AppTest1</application>
@@ -4500,6 +4499,14 @@
         <layout>ACCObjTest1__c-ACCObjTest1 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>ACCObjTest1__c-ACCObjTest1 Layout</layout>
+        <recordType>ACCObjTest1__c.SairecordType1</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>ACCObjTest1__c-ACCObjTest1 Layout</layout>
+        <recordType>ACCObjTest1__c.SairecordType2</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>ACCObjt1__c-ACCObjt1 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -5150,6 +5157,7 @@
     <layoutAssignments>
         <layout>zb1__c-zb1 Layout</layout>
     </layoutAssignments>
+    <loginHours/>
     <pageAccesses>
         <apexPage>AnswersHome</apexPage>
         <enabled>false</enabled>

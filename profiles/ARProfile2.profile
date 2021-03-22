@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Profile xmlns="http://soap.sforce.com/2006/04/metadata">
     <applicationVisibilities>
         <application>AppTest1</application>
@@ -4501,6 +4500,14 @@
         <layout>ACCObjTest1__c-ACCObjTest1 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>ACCObjTest1__c-ACCObjTest1 Layout</layout>
+        <recordType>ACCObjTest1__c.SairecordType1</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>ACCObjTest1__c-ACCObjTest1 Layout</layout>
+        <recordType>ACCObjTest1__c.SairecordType2</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>ACCObjt1__c-ACCObjt1 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -5151,18 +5158,7 @@
     <layoutAssignments>
         <layout>zb1__c-zb1 Layout</layout>
     </layoutAssignments>
-    <loginIpRanges>
-        <endAddress>255.255.255.200</endAddress>
-        <startAddress>1.0.0.2</startAddress>
-    </loginIpRanges>
-    <loginIpRanges>
-        <endAddress>255.255.255.202</endAddress>
-        <startAddress>1.0.0.3</startAddress>
-    </loginIpRanges>
-    <loginIpRanges>
-        <endAddress>255.255.255.201</endAddress>
-        <startAddress>1.0.0.3</startAddress>
-    </loginIpRanges>
+    <loginHours/>
     <objectPermissions>
         <allowCreate>false</allowCreate>
         <allowDelete>true</allowDelete>

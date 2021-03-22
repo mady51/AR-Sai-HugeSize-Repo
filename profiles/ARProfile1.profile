@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Profile xmlns="http://soap.sforce.com/2006/04/metadata">
     <applicationVisibilities>
         <application>AppTest1</application>
@@ -4501,6 +4500,14 @@
         <layout>ACCObjTest1__c-ACCObjTest1 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>ACCObjTest1__c-ACCObjTest1 Layout</layout>
+        <recordType>ACCObjTest1__c.SairecordType2</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>ACCObjTest1__c-Custom-Layout1</layout>
+        <recordType>ACCObjTest1__c.SairecordType1</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>ACCObjt1__c-ACCObjt1 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -5152,39 +5159,6 @@
         <layout>zb1__c-zb1 Layout</layout>
     </layoutAssignments>
     <loginHours/>
-    <loginIpRanges>
-        <endAddress>255.234.123.223</endAddress>
-        <startAddress>0.0.0.0</startAddress>
-    </loginIpRanges>
-    <loginIpRanges>
-        <endAddress>255.255.255.201</endAddress>
-        <startAddress>1.0.0.2</startAddress>
-    </loginIpRanges>
-    <loginIpRanges>
-        <endAddress>255.255.255.207</endAddress>
-        <startAddress>1.0.0.9</startAddress>
-    </loginIpRanges>
-    <loginIpRanges>
-        <endAddress>255.234.123.229</endAddress>
-        <startAddress>1.1.1.1</startAddress>
-    </loginIpRanges>
-    <loginIpRanges>
-        <endAddress>255.234.123.222</endAddress>
-        <startAddress>2.2.2.2</startAddress>
-    </loginIpRanges>
-    <loginIpRanges>
-        <description>test</description>
-        <endAddress>255.234.123.222</endAddress>
-        <startAddress>3.3.3.3</startAddress>
-    </loginIpRanges>
-    <loginIpRanges>
-        <endAddress>255.234.123.227</endAddress>
-        <startAddress>6.6.6.6</startAddress>
-    </loginIpRanges>
-    <loginIpRanges>
-        <endAddress>255.234.123.228</endAddress>
-        <startAddress>7.7.7.7</startAddress>
-    </loginIpRanges>
     <objectPermissions>
         <allowCreate>false</allowCreate>
         <allowDelete>false</allowDelete>
