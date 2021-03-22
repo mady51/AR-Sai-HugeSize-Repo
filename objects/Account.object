@@ -228,7 +228,7 @@
     <enableEnhancedLookup>true</enableEnhancedLookup>
     <enableFeeds>true</enableFeeds>
     <enableHistory>false</enableHistory>
-    <externalSharingModel>Private</externalSharingModel>
+    <externalSharingModel>ReadWrite</externalSharingModel>
     <fields>
         <fullName>AccountLookUpField__c</fullName>
         <deleteConstraint>SetNull</deleteConstraint>
@@ -364,6 +364,16 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>MyCoolCheckBox__c</fullName>
+        <defaultValue>false</defaultValue>
+        <description>Some Description</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Hello World!</inlineHelpText>
+        <label>MyCoolCheckBox</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
         <fullName>NaicsCode</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
@@ -389,11 +399,6 @@
         <trackFeedHistory>false</trackFeedHistory>
         <type>Number</type>
         <unique>false</unique>
-    </fields>
-    <fields>
-        <fullName>OperatingHoursId</fullName>
-        <trackFeedHistory>false</trackFeedHistory>
-        <type>Lookup</type>
     </fields>
     <fields>
         <fullName>OwnerId</fullName>
@@ -534,28 +539,6 @@
     <fields>
         <fullName>YearStarted</fullName>
         <trackFeedHistory>false</trackFeedHistory>
-    </fields>
-    <fields>
-        <fullName>field1__c</fullName>
-        <description>this is text field</description>
-        <externalId>false</externalId>
-        <inlineHelpText>tetsing custom1</inlineHelpText>
-        <label>field1</label>
-        <length>20</length>
-        <required>false</required>
-        <trackFeedHistory>false</trackFeedHistory>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
-    <fields>
-        <fullName>field2__c</fullName>
-        <description>this is custom2</description>
-        <externalId>false</externalId>
-        <inlineHelpText>thi is custom2</inlineHelpText>
-        <label>field2</label>
-        <required>false</required>
-        <trackFeedHistory>false</trackFeedHistory>
-        <type>Url</type>
     </fields>
     <listViews>
         <fullName>AllAccounts</fullName>
