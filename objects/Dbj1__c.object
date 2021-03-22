@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
     <actionOverrides>
         <actionName>Accept</actionName>
@@ -142,7 +143,6 @@
     <allowInChatterGroups>false</allowInChatterGroups>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <deploymentStatus>Deployed</deploymentStatus>
-    <deprecated>false</deprecated>
     <description>new wd111sf11f</description>
     <enableActivities>false</enableActivities>
     <enableBulkApi>true</enableBulkApi>
@@ -153,10 +153,10 @@
     <enableSearch>true</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
+    <externalSharingModel>ReadWrite</externalSharingModel>
     <fields>
         <fullName>F1__c</fullName>
-        <deprecated>false</deprecated>
-        <description>may4th</description>
+        <description>new98</description>
         <externalId>false</externalId>
         <label>F1</label>
         <length>37</length>
@@ -167,13 +167,22 @@
     </fields>
     <fields>
         <fullName>F2__c</fullName>
-        <deprecated>false</deprecated>
         <description>New33344555</description>
         <externalId>false</externalId>
         <label>F2</label>
         <required>false</required>
         <trackTrending>false</trackTrending>
         <type>Email</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>F3__c</fullName>
+        <externalId>false</externalId>
+        <label>F3</label>
+        <length>5</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
         <unique>false</unique>
     </fields>
     <label>Dbj1</label>

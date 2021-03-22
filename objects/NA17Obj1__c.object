@@ -152,6 +152,7 @@
     <enableSearch>false</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
+    <externalSharingModel>Private</externalSharingModel>
     <fields>
         <fullName>F1__c</fullName>
         <externalId>false</externalId>
@@ -159,16 +160,6 @@
         <required>false</required>
         <trackTrending>false</trackTrending>
         <type>Email</type>
-        <unique>false</unique>
-    </fields>
-    <fields>
-        <fullName>F2__c</fullName>
-        <externalId>false</externalId>
-        <label>F2</label>
-        <length>8</length>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Text</type>
         <unique>false</unique>
     </fields>
     <label>NA17Obj1</label>

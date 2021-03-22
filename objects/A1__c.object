@@ -143,6 +143,7 @@
     <allowInChatterGroups>false</allowInChatterGroups>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <deploymentStatus>Deployed</deploymentStatus>
+    <description>vxcvxcvxcvxcvxcv</description>
     <enableActivities>false</enableActivities>
     <enableBulkApi>true</enableBulkApi>
     <enableFeeds>false</enableFeeds>
@@ -152,29 +153,14 @@
     <enableSearch>false</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
-    <fields>
-        <fullName>Text2__c</fullName>
-        <externalId>false</externalId>
-        <label>Test2</label>
-        <length>50</length>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
+    <externalSharingModel>Private</externalSharingModel>
     <label>A1</label>
     <nameField>
         <label>A1 Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>A1</pluralLabel>
+    <pluralLabel>A1s</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
-    <validationRules>
-        <fullName>Rule2</fullName>
-        <active>true</active>
-        <errorConditionFormula>$User.IsActive</errorConditionFormula>
-        <errorMessage>inserted validation for rule2</errorMessage>
-    </validationRules>
     <visibility>Public</visibility>
 </CustomObject>

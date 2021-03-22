@@ -9,12 +9,16 @@
         <value>Dbj1s</value>
     </caseValues>
     <fields>
-        <label><!-- F1 --></label>
+        <label>Test f1 2nd</label>
         <name>F1__c</name>
     </fields>
     <fields>
-        <label><!-- F2 --></label>
+        <label>Test1</label>
         <name>F2__c</name>
+    </fields>
+    <fields>
+        <label>test 2nd</label>
+        <name>F3__c</name>
     </fields>
     <recordTypes>
         <label><!-- Dbj_RC1 --></label>

@@ -272,6 +272,31 @@
         </valueSet>
     </fields>
     <fields>
+        <fullName>Pf3__c</fullName>
+        <description>dsfsdfsd</description>
+        <externalId>false</externalId>
+        <label>Pf3</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>test</fullName>
+                    <default>false</default>
+                    <label>test</label>
+                </value>
+                <value>
+                    <fullName>1</fullName>
+                    <default>true</default>
+                    <label>1</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
+    <fields>
         <fullName>Plt3__c</fullName>
         <description>Add Comment</description>
         <externalId>false</externalId>
@@ -350,6 +375,13 @@
             </values>
         </picklistValues>
         <picklistValues>
+            <picklist>Pf3__c</picklist>
+            <values>
+                <fullName>test</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
             <picklist>Plt3__c</picklist>
             <values>
                 <fullName>latest</fullName>
@@ -394,6 +426,13 @@
             <picklist>PLt1__c</picklist>
             <values>
                 <fullName>2</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>Pf3__c</picklist>
+            <values>
+                <fullName>test</fullName>
                 <default>false</default>
             </values>
         </picklistValues>

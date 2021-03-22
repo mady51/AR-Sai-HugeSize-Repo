@@ -54,6 +54,18 @@
         </picklistValues>
     </fields>
     <fields>
+        <label><!-- Pf3 --></label>
+        <name>Pf3__c</name>
+        <picklistValues>
+            <masterLabel>1</masterLabel>
+            <translation><!-- 1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>test</masterLabel>
+            <translation><!-- test --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
         <label><!-- Plt3 --></label>
         <name>Plt3__c</name>
         <picklistValues>
