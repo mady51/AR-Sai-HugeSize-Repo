@@ -198,6 +198,16 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>Mar20Obj2__c.Mar20Obj2Field1__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Mar20Obj2__c.Mar20Obj2Field2__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>Oct14Test1__c.F1__c</field>
         <readable>true</readable>
     </fieldPermissions>
