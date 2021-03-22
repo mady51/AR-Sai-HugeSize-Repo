@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
     <actionOverrides>
         <actionName>Accept</actionName>
@@ -347,51 +346,9 @@
         <description>test</description>
         <label>SairecordType1</label>
         <picklistValues>
-            <picklist>N1__c</picklist>
-            <values>
-                <fullName>12345</fullName>
-                <default>false</default>
-            </values>
-        </picklistValues>
-        <picklistValues>
-            <picklist>PLNew1__c</picklist>
-            <values>
-                <fullName>007</fullName>
-                <default>true</default>
-            </values>
-        </picklistValues>
-        <picklistValues>
-            <picklist>PLnew3__c</picklist>
-            <values>
-                <fullName>sd</fullName>
-                <default>false</default>
-            </values>
-        </picklistValues>
-        <picklistValues>
-            <picklist>PLt1__c</picklist>
-            <values>
-                <fullName>2</fullName>
-                <default>true</default>
-            </values>
-        </picklistValues>
-        <picklistValues>
             <picklist>Pf3__c</picklist>
             <values>
                 <fullName>test</fullName>
-                <default>false</default>
-            </values>
-        </picklistValues>
-        <picklistValues>
-            <picklist>Plt3__c</picklist>
-            <values>
-                <fullName>latest</fullName>
-                <default>true</default>
-            </values>
-        </picklistValues>
-        <picklistValues>
-            <picklist>pl1__c</picklist>
-            <values>
-                <fullName>fg</fullName>
                 <default>false</default>
             </values>
         </picklistValues>
@@ -402,51 +359,9 @@
         <description>zxc</description>
         <label>SairecordType2</label>
         <picklistValues>
-            <picklist>N1__c</picklist>
-            <values>
-                <fullName>12345</fullName>
-                <default>false</default>
-            </values>
-        </picklistValues>
-        <picklistValues>
-            <picklist>PLNew1__c</picklist>
-            <values>
-                <fullName>007</fullName>
-                <default>false</default>
-            </values>
-        </picklistValues>
-        <picklistValues>
-            <picklist>PLnew3__c</picklist>
-            <values>
-                <fullName>sd</fullName>
-                <default>false</default>
-            </values>
-        </picklistValues>
-        <picklistValues>
-            <picklist>PLt1__c</picklist>
-            <values>
-                <fullName>2</fullName>
-                <default>false</default>
-            </values>
-        </picklistValues>
-        <picklistValues>
             <picklist>Pf3__c</picklist>
             <values>
                 <fullName>test</fullName>
-                <default>false</default>
-            </values>
-        </picklistValues>
-        <picklistValues>
-            <picklist>Plt3__c</picklist>
-            <values>
-                <fullName>latest</fullName>
-                <default>true</default>
-            </values>
-        </picklistValues>
-        <picklistValues>
-            <picklist>pl1__c</picklist>
-            <values>
-                <fullName>fg</fullName>
                 <default>false</default>
             </values>
         </picklistValues>
