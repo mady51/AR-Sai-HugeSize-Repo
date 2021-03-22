@@ -143,6 +143,7 @@
     <allowInChatterGroups>false</allowInChatterGroups>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <deploymentStatus>Deployed</deploymentStatus>
+    <description>test</description>
     <enableActivities>false</enableActivities>
     <enableBulkApi>true</enableBulkApi>
     <enableFeeds>false</enableFeeds>
@@ -158,9 +159,10 @@
         <description>test</description>
         <externalId>false</externalId>
         <label>F1</label>
+        <length>80</length>
         <required>false</required>
         <trackTrending>false</trackTrending>
-        <type>Email</type>
+        <type>Text</type>
         <unique>false</unique>
     </fields>
     <fields>

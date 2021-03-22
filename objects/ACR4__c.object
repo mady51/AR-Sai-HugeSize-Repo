@@ -163,7 +163,7 @@
         <externalId>false</externalId>
         <label>Field1</label>
         <required>false</required>
-        <trackTrending>true</trackTrending>
+        <trackTrending>false</trackTrending>
         <type>Phone</type>
     </fields>
     <fields>
