@@ -2684,6 +2684,10 @@
         <name>StaticResource</name>
     </types>
     <types>
+        <members>Test_Territory_Model.Test_Territory_Rule1</members>
+        <name>Territory2Rule</name>
+    </types>
+    <types>
         <members>en_US</members>
         <name>Translations</name>
     </types>
@@ -2729,9 +2733,5 @@
         <members>ACCObjt1__c.QuoteLineItem</members>
         <members>Opportunity.test eork flow1</members>
         <name>WorkflowRule</name>
-    </types>
-     <types>
-        <members>Test_Territory_Model.Test_Territory_Rule1</members>
-        <name>Territory2Rule</name>
     </types>
 </Package>
