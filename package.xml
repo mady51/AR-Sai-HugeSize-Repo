@@ -2730,4 +2730,8 @@
         <members>Opportunity.test eork flow1</members>
         <name>WorkflowRule</name>
     </types>
+    <types>
+        <members>Test_Territory_Model.Test_Territory_Rule1</members>
+        <name>Territory2Rule</name>
+    </types>
 </Package>
