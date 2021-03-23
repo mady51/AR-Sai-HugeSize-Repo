@@ -1,12 +1,9 @@
 public Class A12
 {
-public Account createAccount(String name)  //method to create account
+public Account createAccount(String name)
 {
-//
-Account a1211 = new Account();
-a1211.Name = name;
-return a1211;
-//this is the test comment1
-//sai
+Account a1211213111111= new Account();
+a1211213111111.Name = name;
+return a1211213111111;
 }
 }
