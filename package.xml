@@ -239,6 +239,7 @@
         <members>SKVClass2</members>
         <members>SRclass1</members>
         <members>STAB203Class</members>
+        <members>STcls1</members>
         <members>Sa89</members>
         <members>Sai007cls1</members>
         <members>Sai007clstestclass</members>
@@ -2345,10 +2346,13 @@
     <types>
         <members>AAtest456</members>
         <members>AC1</members>
+        <members>AC100</members>
+        <members>AC11</members>
         <members>AC133</members>
         <members>AC2</members>
         <members>AC56</members>
         <members>AC67</members>
+        <members>AC8</members>
         <members>ACCL1</members>
         <members>ACCL3</members>
         <members>ACCTest</members>
@@ -2445,8 +2449,9 @@
         <members>SL12</members>
         <members>SS1</members>
         <members>SS2</members>
-        <members>SSlabel1</members>
         <members>STAB203_Label</members>
+        <members>STCL1</members>
+        <members>SV1</members>
         <members>SaiCustomlabel10</members>
         <members>SaiCustomlabel3</members>
         <members>SaiKLabel1</members>
