@@ -1365,11 +1365,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Obj300__c.EmailField1__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
         <field>Obj4__c.Field4__c</field>
         <readable>true</readable>
     </fieldPermissions>

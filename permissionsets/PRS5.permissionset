@@ -602,11 +602,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>Obj300__c.EmailField1__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
         <field>Obj4__c.Field4__c</field>
         <readable>false</readable>
     </fieldPermissions>

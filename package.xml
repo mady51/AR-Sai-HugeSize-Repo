@@ -703,7 +703,6 @@
         <members>Obj170__c.Field1__c</members>
         <members>Obj2001__c.field1__c</members>
         <members>Obj29th_1__c.Field1__c</members>
-        <members>Obj300__c.EmailField1__c</members>
         <members>Obj4__c.Field4__c</members>
         <members>Obj5__c.DateField__c</members>
         <members>Obj5__c.PhoneField__c</members>
@@ -1682,7 +1681,6 @@
         <members>Obj2001__c-Obj2001 Layout</members>
         <members>Obj29th_1__c-Obj29th-1 Layout</members>
         <members>Obj2__c-obj2 Layout</members>
-        <members>Obj300__c-Obj300 Layout</members>
         <members>Obj500__c-Obj500 Layout</members>
         <members>Obj5__c-Obj5 Layout</members>
         <members>Obj789__c-Obj789 Layout</members>
