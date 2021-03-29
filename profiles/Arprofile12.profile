@@ -97,10 +97,6 @@
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
-        <apexClass>A101</apexClass>
-        <enabled>false</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>A12</apexClass>
         <enabled>false</enabled>
     </classAccesses>
@@ -346,10 +342,6 @@
     </classAccesses>
     <classAccesses>
         <apexClass>A91</apexClass>
-        <enabled>false</enabled>
-    </classAccesses>
-    <classAccesses>
-        <apexClass>A92</apexClass>
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>

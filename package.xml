@@ -35,7 +35,6 @@
         <members>A09876</members>
         <members>A1</members>
         <members>A10</members>
-        <members>A101</members>
         <members>A12</members>
         <members>A13</members>
         <members>A14</members>
@@ -104,7 +103,6 @@
         <members>A900</members>
         <members>A908</members>
         <members>A91</members>
-        <members>A92</members>
         <members>A98</members>
         <members>A981</members>
         <members>A989</members>
@@ -905,7 +903,6 @@
     <types>
         <members>AAtest456</members>
         <members>AC1</members>
-        <members>AC100</members>
         <members>AC11</members>
         <members>AC133</members>
         <members>AC2</members>
@@ -925,7 +922,6 @@
         <members>ACL25</members>
         <members>ACL3</members>
         <members>ACL4</members>
-        <members>ACL5</members>
         <members>ACL50</members>
         <members>ACL501</members>
         <members>ACL51</members>
@@ -2232,6 +2228,10 @@
     <types>
         <members>TerritoryModel1</members>
         <name>Territory2Model</name>
+    </types>
+    <types>
+        <members>TerritoryModel1.TRL1</members>
+        <name>Territory2Rule</name>
     </types>
     <types>
         <members>TerritoryTyp1</members>

@@ -15,13 +15,6 @@
         <value>007</value>
     </labels>
     <labels>
-        <fullName>AC100</fullName>
-        <language>en_US</language>
-        <protected>true</protected>
-        <shortDescription>AC100</shortDescription>
-        <value>123</value>
-    </labels>
-    <labels>
         <fullName>AC11</fullName>
         <language>en_US</language>
         <protected>true</protected>
@@ -153,13 +146,6 @@
         <protected>true</protected>
         <shortDescription>ACL4</shortDescription>
         <value>rl11</value>
-    </labels>
-    <labels>
-        <fullName>ACL5</fullName>
-        <language>en_US</language>
-        <protected>true</protected>
-        <shortDescription>ACL54</shortDescription>
-        <value>511</value>
     </labels>
     <labels>
         <fullName>ACL50</fullName>

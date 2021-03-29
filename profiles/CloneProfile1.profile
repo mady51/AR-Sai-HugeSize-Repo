@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <Profile xmlns="http://soap.sforce.com/2006/04/metadata">
     <applicationVisibilities>
         <application>AppTest1</application>
@@ -130,10 +131,6 @@
     </classAccesses>
     <classAccesses>
         <apexClass>A10</apexClass>
-        <enabled>false</enabled>
-    </classAccesses>
-    <classAccesses>
-        <apexClass>A101</apexClass>
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
@@ -402,10 +399,6 @@
     </classAccesses>
     <classAccesses>
         <apexClass>A91</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
-        <apexClass>A92</apexClass>
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
