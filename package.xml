@@ -8,6 +8,7 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>ACR5__c.F3__c</members>
         <members>Dbj1__c.f2__c</members>
         <name>CustomField</name>
     </types>
