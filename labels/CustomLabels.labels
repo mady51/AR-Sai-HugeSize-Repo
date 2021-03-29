@@ -5,14 +5,14 @@
         <language>en_US</language>
         <protected>true</protected>
         <shortDescription>AAtest456</shortDescription>
-        <value>007</value>
+        <value>111</value>
     </labels>
     <labels>
         <fullName>AC1</fullName>
         <language>en_US</language>
         <protected>true</protected>
         <shortDescription>ac111</shortDescription>
-        <value>311</value>
+        <value>1</value>
     </labels>
     <labels>
         <fullName>AC100</fullName>
@@ -33,7 +33,7 @@
         <language>en_US</language>
         <protected>true</protected>
         <shortDescription>AC133</shortDescription>
-        <value>1</value>
+        <value>111</value>
     </labels>
     <labels>
         <fullName>AC2</fullName>
@@ -740,6 +740,13 @@
         <value>1</value>
     </labels>
     <labels>
+        <fullName>STAB203_Label</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>STAB203 Label</shortDescription>
+        <value>Test</value>
+    </labels>
+    <labels>
         <fullName>STCL1</fullName>
         <language>en_US</language>
         <protected>true</protected>
@@ -752,13 +759,6 @@
         <protected>true</protected>
         <shortDescription>SSlabel1</shortDescription>
         <value>to see you go test123</value>
-    </labels>
-    <labels>
-        <fullName>STAB203_Label</fullName>
-        <language>en_US</language>
-        <protected>true</protected>
-        <shortDescription>STAB203 Label</shortDescription>
-        <value>Test</value>
     </labels>
     <labels>
         <fullName>SaiCustomlabel10</fullName>
