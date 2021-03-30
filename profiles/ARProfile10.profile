@@ -4,6 +4,26 @@
         <default>false</default>
         <visible>false</visible>
     </applicationVisibilities>
+      <applicationVisibilities>
+        <application>AppTest1</application>
+        <default>false</default>
+        <visible>false</visible>
+    </applicationVisibilities>
+      <applicationVisibilities>
+        <application>AppTest1</application>
+        <default>false</default>
+        <visible>false</visible>
+    </applicationVisibilities>
+      <applicationVisibilities>
+        <application>AppTest1</application>
+        <default>false</default>
+        <visible>false</visible>
+    </applicationVisibilities>
+      <applicationVisibilities>
+        <application>AppTest1</application>
+        <default>false</default>
+        <visible>false</visible>
+    </applicationVisibilities>
     <applicationVisibilities>
         <application>standard__AppLauncher</application>
         <default>false</default>
@@ -18,6 +38,11 @@
         <application>standard__Community</application>
         <default>false</default>
         <visible>true</visible>
+    </applicationVisibilities>
+      <applicationVisibilities>
+        <application>AppTest1</application>
+        <default>false</default>
+        <visible>false</visible>
     </applicationVisibilities>
     <applicationVisibilities>
         <application>standard__Content</application>
