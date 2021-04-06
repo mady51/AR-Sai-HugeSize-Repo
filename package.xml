@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>48.0</version>
+    <version>51.0</version>
     <types>
         <members>A0</members>
         <members>A000</members>
@@ -462,6 +462,7 @@
     <types>
         <members>ACCObjTest1__c.ACCField1__c</members>
         <members>ACCObjTest1__c.ACCField2__c</members>
+        <members>ACCObjTest1__c.Apr6thpicklist1__c</members>
         <members>ACCObjTest1__c.AutorabitExtId__c</members>
         <members>ACCObjTest1__c.N1__c</members>
         <members>ACCObjTest1__c.PLNew1__c</members>
