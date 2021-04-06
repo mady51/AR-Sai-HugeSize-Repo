@@ -200,9 +200,9 @@
             <valueSetDefinition>
                 <sorted>false</sorted>
                 <value>
-                    <fullName>123456789</fullName>
+                    <fullName>1234567890</fullName>
                     <default>false</default>
-                    <label>123456789</label>
+                    <label>1234567890</label>
                 </value>
                 <value>
                     <fullName>1</fullName>
@@ -430,6 +430,10 @@
             </values>
             <values>
                 <fullName>123456789</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>1234567890</fullName>
                 <default>false</default>
             </values>
             <values>
