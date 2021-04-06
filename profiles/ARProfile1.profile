@@ -1127,6 +1127,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>ACCObjTest1__c.Are_you_a_Admin__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>ACCObjTest1__c.AutorabitExtId__c</field>
         <readable>false</readable>
     </fieldPermissions>

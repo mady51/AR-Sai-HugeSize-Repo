@@ -6,6 +6,11 @@
     </classAccesses>
     <custom>true</custom>
     <description>111111</description>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>ACCObjTest1__c.Are_you_a_Admin__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
     <userLicense>Salesforce</userLicense>
     <userPermissions>
         <enabled>true</enabled>

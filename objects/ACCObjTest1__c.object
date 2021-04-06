@@ -175,6 +175,14 @@
         <type>Phone</type>
     </fields>
     <fields>
+        <fullName>Are_you_a_Admin__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Are you a Admin</label>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
         <fullName>AutorabitExtId__c</fullName>
         <description>Ex11ternal Id created by AutoRABIT</description>
         <externalId>true</externalId>
