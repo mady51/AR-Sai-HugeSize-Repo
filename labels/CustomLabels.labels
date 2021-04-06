@@ -26,14 +26,14 @@
         <language>en_US</language>
         <protected>true</protected>
         <shortDescription>AC11</shortDescription>
-        <value>123e4</value>
+        <value>1</value>
     </labels>
     <labels>
         <fullName>AC133</fullName>
         <language>en_US</language>
         <protected>true</protected>
         <shortDescription>AC133</shortDescription>
-        <value>1222</value>
+        <value>4</value>
     </labels>
     <labels>
         <fullName>AC2</fullName>
