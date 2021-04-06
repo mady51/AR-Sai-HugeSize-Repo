@@ -1196,6 +1196,11 @@
     <custom>true</custom>
     <description>add</description>
     <fieldPermissions>
+        <editable>true</editable>
+        <field>A1__c.F1__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
         <editable>false</editable>
         <field>ACCObjTest1__c.ACCField1__c</field>
         <readable>false</readable>
@@ -4836,6 +4841,15 @@
         <endAddress>255.234.123.228</endAddress>
         <startAddress>7.7.7.7</startAddress>
     </loginIpRanges>
+    <objectPermissions>
+        <allowCreate>false</allowCreate>
+        <allowDelete>false</allowDelete>
+        <allowEdit>false</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>false</modifyAllRecords>
+        <object>A1__c</object>
+        <viewAllRecords>false</viewAllRecords>
+    </objectPermissions>
     <objectPermissions>
         <allowCreate>true</allowCreate>
         <allowDelete>true</allowDelete>
