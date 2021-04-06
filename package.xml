@@ -545,6 +545,7 @@
     <types>
         <members>ACCObjTest1__c.ACCField1__c</members>
         <members>ACCObjTest1__c.ACCField2__c</members>
+        <members>ACCObjTest1__c.Apr6thpicklist1__c</members>
         <members>ACCObjTest1__c.AutorabitExtId__c</members>
         <members>ACCObjTest1__c.N1__c</members>
         <members>ACCObjTest1__c.PLNew1__c</members>
