@@ -226,6 +226,11 @@
                     <default>false</default>
                     <label>10</label>
                 </value>
+                <value>
+                    <fullName>11</fullName>
+                    <default>false</default>
+                    <label>11</label>
+                </value>
             </valueSetDefinition>
         </valueSet>
     </fields>
@@ -384,6 +389,10 @@
             </values>
             <values>
                 <fullName>10</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>11</fullName>
                 <default>false</default>
             </values>
             <values>
