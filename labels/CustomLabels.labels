@@ -1,60 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
     <labels>
-        <fullName>AC1</fullName>
-        <language>en_US</language>
-        <protected>false</protected>
-        <shortDescription>ac111</shortDescription>
-        <value>117</value>
-    </labels>
-    <labels>
-        <fullName>AC2</fullName>
-        <language>en_US</language>
-        <protected>true</protected>
-        <shortDescription>AC211</shortDescription>
-        <value>007</value>
-    </labels>
-    <labels>
-        <fullName>ACCt3</fullName>
-        <language>en_US</language>
-        <protected>true</protected>
-        <shortDescription>ACCt3</shortDescription>
-        <value>3k</value>
-    </labels>
-    <labels>
-        <fullName>ACL101</fullName>
-        <language>en_US</language>
-        <protected>true</protected>
-        <shortDescription>ACL101</shortDescription>
-        <value>1</value>
-    </labels>
-    <labels>
-        <fullName>ACL11</fullName>
-        <language>en_US</language>
-        <protected>true</protected>
-        <shortDescription>ACL11</shortDescription>
-        <value>11123123</value>
-    </labels>
-    <labels>
-        <fullName>ACL12</fullName>
-        <language>en_US</language>
-        <protected>true</protected>
-        <shortDescription>ACL12</shortDescription>
-        <value>1232</value>
-    </labels>
-    <labels>
-        <fullName>ACL24</fullName>
-        <language>en_US</language>
-        <protected>true</protected>
-        <shortDescription>ACL24</shortDescription>
-        <value>12111111</value>
-    </labels>
-    <labels>
         <fullName>ACL25</fullName>
         <language>en_US</language>
         <protected>true</protected>
         <shortDescription>ACL25</shortDescription>
-        <value>76511111</value>
+        <value>123</value>
     </labels>
     <labels>
         <fullName>CustomLabelTest2</fullName>
