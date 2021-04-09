@@ -49,6 +49,8 @@
     </types>
     <types>
         <members>ACL25</members>
+        <members>APXL1</members>
+        <members>APXL2</members>
         <members>CustomLabelTest2</members>
         <members>CustomlabelSB3</members>
         <members>DL1</members>
