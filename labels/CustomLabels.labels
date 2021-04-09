@@ -8,6 +8,20 @@
         <value>123</value>
     </labels>
     <labels>
+        <fullName>APXL1</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>APXL1</shortDescription>
+        <value>123456789</value>
+    </labels>
+    <labels>
+        <fullName>APXL2</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>APXL2</shortDescription>
+        <value>123456789</value>
+    </labels>
+    <labels>
         <fullName>CustomLabelTest2</fullName>
         <language>en_US</language>
         <protected>true</protected>
