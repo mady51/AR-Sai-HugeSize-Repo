@@ -32,6 +32,7 @@
         <name>ApexPage</name>
     </types>
     <types>
+        <members>A1__c.F1__c</members>
         <members>ACDemoOBj1__c.Ftest12__c</members>
         <members>DLCObj18__c.Field1__c</members>
         <members>DLCObj18__c.Field2__c</members>
@@ -55,6 +56,7 @@
         <name>CustomLabel</name>
     </types>
     <types>
+        <members>A1__c</members>
         <members>ACDemoOBj1__c</members>
         <members>DLCObj18__c</members>
         <members>DLObj1__c</members>
