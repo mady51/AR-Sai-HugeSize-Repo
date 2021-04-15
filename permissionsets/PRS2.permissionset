@@ -8,6 +8,14 @@
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
+        <apexClass>A17</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>A17</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>A18</apexClass>
         <enabled>true</enabled>
     </classAccesses>
@@ -76,6 +84,16 @@
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
+        <editable>false</editable>
+        <field>ACR2__c.LookUpField1__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+     <fieldPermissions>
+        <editable>false</editable>
+        <field>ACR2__c.LookUpField1__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+     <fieldPermissions>
         <editable>false</editable>
         <field>ACR2__c.LookUpField1__c</field>
         <readable>false</readable>
