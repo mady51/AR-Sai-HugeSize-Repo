@@ -1197,6 +1197,11 @@
     <description>add</description>
     <fieldPermissions>
         <editable>false</editable>
+        <field>A1__c.F1__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>ACCObjTest1__c.ACCField1__c</field>
         <readable>false</readable>
     </fieldPermissions>
@@ -5587,7 +5592,7 @@
         <name>AssignTopics</name>
     </userPermissions>
     <userPermissions>
-        <enabled>true</enabled>
+        <enabled>false</enabled>
         <name>ChatterEditOwnPost</name>
     </userPermissions>
     <userPermissions>
