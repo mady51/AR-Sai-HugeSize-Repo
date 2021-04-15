@@ -32,7 +32,7 @@
     </applicationVisibilities>
     <applicationVisibilities>
         <application>standard__Marketing</application>
-        <default>false</default>
+        <default>true</default>
         <visible>true</visible>
     </applicationVisibilities>
     <applicationVisibilities>
@@ -103,11 +103,11 @@
     </classAccesses>
     <classAccesses>
         <apexClass>A022233444</apexClass>
-        <enabled>true</enabled>
+        <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
         <apexClass>A0233</apexClass>
-        <enabled>true</enabled>
+        <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
         <apexClass>A025</apexClass>
