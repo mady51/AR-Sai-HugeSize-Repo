@@ -8,10 +8,13 @@
         <members>A0123</members>
         <members>A01234</members>
         <members>A01234567</members>
+        <members>A0123678</members>
+        <members>A025</members>
         <members>A027</members>
         <members>A028</members>
         <members>A08089</members>
         <members>A081</members>
+        <members>A090</members>
         <members>A10</members>
         <members>A12</members>
         <members>A13</members>
@@ -70,6 +73,7 @@
         <name>AuraDefinitionBundle</name>
     </types>
     <types>
+        <members>A1__c.F1__c</members>
         <members>ACDemoOBj1__c.Ftest12__c</members>
         <members>DLCObj18__c.Field1__c</members>
         <members>DLCObj18__c.Field2__c</members>
