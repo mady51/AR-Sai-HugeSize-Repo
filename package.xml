@@ -473,6 +473,7 @@
         <name>CustomApplication</name>
     </types>
     <types>
+        <members>A1__c.F1__c</members>
         <members>ACCObjt1__c.FT1__c</members>
         <members>ACCObjt1__c.FT2__c</members>
         <members>ACCObjt1__c.FT5__c</members>
