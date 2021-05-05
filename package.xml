@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>51.0</version>
+    <version>48.0</version>
     <types>
         <members>A0</members>
         <members>A000</members>
@@ -384,6 +384,7 @@
         <name>ConnectedApp</name>
     </types>
     <types>
+        <members>A1__c.F1__c</members>
         <members>ACCObjTest1__c.ACCField1__c</members>
         <members>ACCObjTest1__c.ACCField2__c</members>
         <members>ACCObjTest1__c.Are_you_a_Admin__c</members>
@@ -1823,6 +1824,7 @@
         <name>CustomLabel</name>
     </types>
     <types>
+        <members>A1__c</members>
         <members>ACCObjTest1__c</members>
         <members>ACCObjt1__c</members>
         <members>ACDemoOBj1__c</members>
