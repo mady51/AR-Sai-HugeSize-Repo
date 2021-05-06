@@ -36,7 +36,10 @@ VERSION     AUTHOR  DATE        DETAIL
 6.0 -     Venkat    2/7/2016    Updated code as part of Request 9599(Feb Release 2016)  
 ============================================================================================================================================== 
 */
-string Role, LOB, Country,Region;
+string Role;
+string LOB;
+string Country;
+string Region;
 /*Purpose: This class contains static methods which are used by trgger TRG07
 ==============================================================================================================================================
 The methods called perform following functionality:
