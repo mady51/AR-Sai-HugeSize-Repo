@@ -32,6 +32,7 @@
         <members>RClass1</members>
         <members>a30testclass</members>
         <members>a32testclass</members>
+        <members>skvcls1</members>
         <name>ApexClass</name>
     </types>
     <types>
