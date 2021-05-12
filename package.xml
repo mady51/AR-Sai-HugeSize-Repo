@@ -8,6 +8,10 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>AURATest7</members>
+        <name>AuraDefinitionBundle</name>
+    </types>
+    <types>
         <members>A1__c.F1__c</members>
         <members>ACR5__c.F3__c</members>
         <members>Dbj1__c.f2__c</members>
