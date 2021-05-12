@@ -54,6 +54,10 @@
         <name>AssignmentRules</name>
     </types>
     <types>
+        <members>ARIndexCmp</members>
+        <name>AuraDefinitionBundle</name>
+    </types>
+    <types>
         <members>A1__c.F1__c</members>
         <members>ACDemoOBj1__c.Ftest12__c</members>
         <members>Case.AccountId</members>
