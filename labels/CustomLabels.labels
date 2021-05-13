@@ -10,9 +10,9 @@
     <labels>
         <fullName>AC1</fullName>
         <language>en_US</language>
-        <protected>false</protected>
+        <protected>true</protected>
         <shortDescription>ac111</shortDescription>
-        <value>https://pilot.autorabit.com</value>
+        <value>911</value>
     </labels>
     <labels>
         <fullName>AC100</fullName>
@@ -20,6 +20,20 @@
         <protected>true</protected>
         <shortDescription>AC100</shortDescription>
         <value>111</value>
+    </labels>
+    <labels>
+        <fullName>ACCL1</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>ACCL1</shortDescription>
+        <value>21111</value>
+    </labels>
+    <labels>
+        <fullName>ACCL3</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>ACCL3</shortDescription>
+        <value>311111</value>
     </labels>
     <labels>
         <fullName>ACCt3</fullName>
