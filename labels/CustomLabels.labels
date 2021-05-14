@@ -40,14 +40,7 @@
         <language>en_US</language>
         <protected>true</protected>
         <shortDescription>AC211</shortDescription>
-        <value>2021</value>
-    </labels>
-    <labels>
-        <fullName>AC56</fullName>
-        <language>en_US</language>
-        <protected>true</protected>
-        <shortDescription>AC56</shortDescription>
-        <value>1211</value>
+        <value>10</value>
     </labels>
     <labels>
         <fullName>AC67</fullName>
