@@ -3,5 +3,5 @@
     <description>test1344</description>
     <disableProtocolSecurity>false</disableProtocolSecurity>
     <isActive>true</isActive>
-    <url>http://cidev1-beckmanservice.cs195.force.com/profiles</url>
+    <url>http://beckmanservice.force.com</url>
 </RemoteSiteSetting>

@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <applicationVisibilities>
+        <application>AppTest1</application>
+        <visible>true</visible>
+    </applicationVisibilities>
+    <applicationVisibilities>
+        <application>standard__SalesforceCMS</application>
+        <visible>true</visible>
+    </applicationVisibilities>
     <classAccesses>
         <apexClass>A027</apexClass>
         <enabled>true</enabled>
@@ -50,12 +58,27 @@
     </customSettingAccesses>
     <fieldPermissions>
         <editable>false</editable>
+        <field>A1__c.F1__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>ACCObjTest1__c.ACCField1__c</field>
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
         <field>ACCObjTest1__c.ACCField2__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>ACCObjTest1__c.Apr6thpicklist1__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>ACCObjTest1__c.Are_you_a_Admin__c</field>
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -81,6 +104,11 @@
     <fieldPermissions>
         <editable>false</editable>
         <field>ACCObjTest1__c.PLt1__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>ACCObjTest1__c.Pf3__c</field>
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -150,6 +178,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>ACDemoOBj1__c.AutorabitExtId__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>ACDemoOBj1__c.Ftest12__c</field>
         <readable>false</readable>
     </fieldPermissions>
@@ -170,6 +203,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>ACR2__c.AutorabitExtId__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>ACR2__c.F12__c</field>
         <readable>false</readable>
     </fieldPermissions>
@@ -185,12 +223,32 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>ACR2__c.field1__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>ACR2__c.field2__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>ACR5__c.F3__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>ACR5__c.field1__c</field>
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
         <field>ACR5__c.field2__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>ACR5__c.pf1__c</field>
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -361,6 +419,11 @@
     <fieldPermissions>
         <editable>false</editable>
         <field>AYObj3__c.Ayfd2__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>A_b__c.A_Bfeild__c</field>
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -675,6 +738,16 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>Feb22ndObj1__c.F1__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Feb22ndObj1__c.F2__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>Feb26Obj123__c.F1__c</field>
         <readable>false</readable>
     </fieldPermissions>
@@ -696,6 +769,11 @@
     <fieldPermissions>
         <editable>false</editable>
         <field>KACObj1__c.KACField2__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>KBj1__c.F1__c</field>
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -731,6 +809,36 @@
     <fieldPermissions>
         <editable>false</editable>
         <field>Mar13obj1__c.Field1__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Mar1811__c.f1__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Mar1811__c.f2__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Mar19SaiObj1__c.F1__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Mar19SaiObj1__c.F2__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Mar20Obj2__c.Mar20Obj2Field1__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Mar20Obj2__c.Mar20Obj2Field2__c</field>
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -1205,6 +1313,16 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>SKVObj2__c.F1__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>SKVObj2__c.F2__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>SKVObject1__c.SKVField1__c</field>
         <readable>false</readable>
     </fieldPermissions>
@@ -1396,6 +1514,11 @@
     <fieldPermissions>
         <editable>false</editable>
         <field>SampathObj2__c.f1__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Sample_OBJ__c.F1__c</field>
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -1615,6 +1738,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>feb8thObj1__c.F1__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>l9045__c.f1__c</field>
         <readable>false</readable>
     </fieldPermissions>
@@ -1690,6 +1818,16 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>skvobj3__c.F1__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>skvobj3__c.F2__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>sp1__c.F1__c</field>
         <readable>false</readable>
     </fieldPermissions>
@@ -1713,6 +1851,10 @@
         <field>zb1__c.f2__c</field>
         <readable>false</readable>
     </fieldPermissions>
+    <flowAccesses>
+        <enabled>true</enabled>
+        <flow>Automated_email_on_QLI_Onduo_product_Created_Updated</flow>
+    </flowAccesses>
     <hasActivationRequired>false</hasActivationRequired>
     <label>PRS2</label>
     <license>Salesforce</license>
@@ -1804,6 +1946,15 @@
         <allowRead>true</allowRead>
         <modifyAllRecords>false</modifyAllRecords>
         <object>Feb21Obj1__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>Mar19SaiObj1__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>

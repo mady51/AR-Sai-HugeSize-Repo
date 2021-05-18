@@ -17,56 +17,24 @@
         <name>AC2</name>
     </customLabels>
     <customLabels>
-        <label><!-- AC56 --></label>
-        <name>AC56</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- AC6712 --></label>
-        <name>AC67</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- ACCL1 --></label>
-        <name>ACCL1</name>
-    </customLabels>
-    <customLabels>
         <label><!-- ACCL3 --></label>
         <name>ACCL3</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ACL11 --></label>
+        <name>ACL11</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ACL12 --></label>
+        <name>ACL12</name>
     </customLabels>
     <customLabels>
         <label><!-- S22CL2 --></label>
         <name>ACL2</name>
     </customLabels>
     <customLabels>
-        <label><!-- ACL3 --></label>
-        <name>ACL3</name>
-    </customLabels>
-    <customLabels>
         <label><!-- ACL4 --></label>
         <name>ACL4</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- ACL50 --></label>
-        <name>ACL50</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- AL2 --></label>
-        <name>AL2</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- APXL1 --></label>
-        <name>APXL1</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- APXL2 --></label>
-        <name>APXL2</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- Apicl2 --></label>
-        <name>Apicl2</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- DemoCl1 --></label>
-        <name>DemoCl1</name>
     </customLabels>
     <customLabels>
         <label><!-- Des1234 --></label>
@@ -77,16 +45,12 @@
         <name>Des12345</name>
     </customLabels>
     <customLabels>
-        <label><!-- Kl1233 --></label>
-        <name>Kl1233</name>
+        <label><!-- Feb8thCl1 --></label>
+        <name>Feb8thCl1</name>
     </customLabels>
     <customLabels>
-        <label><!-- Mar21CL2 --></label>
-        <name>Mar21CL2</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- NCL1 --></label>
-        <name>NCL1</name>
+        <label><!-- KMl1 --></label>
+        <name>KMl1</name>
     </customLabels>
     <customLabels>
         <label><!-- NCN1 --></label>
@@ -97,10 +61,6 @@
         <name>NCinoCl1</name>
     </customLabels>
     <customLabels>
-        <label><!-- S16label1 --></label>
-        <name>S16label1</name>
-    </customLabels>
-    <customLabels>
         <label><!-- SSlabel1 --></label>
         <name>SSlabel1</name>
     </customLabels>
@@ -109,36 +69,16 @@
         <name>STAB203_Label</name>
     </customLabels>
     <customLabels>
-        <label><!-- Urltestlabel1 --></label>
-        <name>Urltestlabel1</name>
+        <label><!-- c2 --></label>
+        <name>c2</name>
     </customLabels>
     <customLabels>
-        <label><!-- b1 --></label>
-        <name>b1</name>
+        <label><!-- feb8tCl1 --></label>
+        <name>feb8tCl1</name>
     </customLabels>
     <customLabels>
-        <label><!-- b2 --></label>
-        <name>b2</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- cd1 --></label>
-        <name>cd1</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- kkkl --></label>
-        <name>kkkl</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- pr1 --></label>
-        <name>pr1</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- prcl --></label>
-        <name>prcl</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- sai&amp;pradeep --></label>
-        <name>sai_pradeep</name>
+        <label><!-- skvclnew1 --></label>
+        <name>skvclnew1</name>
     </customLabels>
     <flowDefinitions>
         <flows>
@@ -156,14 +96,6 @@
         </flows>
         <fullName>Pradeep</fullName>
     </flowDefinitions>
-    <flowDefinitions>
-        <flows/>
-        <fullName>QuoteLineItem</fullName>
-    </flowDefinitions>
-    <flowDefinitions>
-        <flows/>
-        <fullName>test</fullName>
-    </flowDefinitions>
     <quickActions>
         <label><!-- Guest Community Case --></label>
         <name>GuestCommunityCase</name>
@@ -172,17 +104,4 @@
         <label><!-- New Community Case --></label>
         <name>NewCommunityCase</name>
     </quickActions>
-    <reportTypes>
-        <description><!-- Screen Flows --></description>
-        <label><!-- Screen Flows --></label>
-        <name>screen_flows_prebuilt_crt</name>
-        <sections>
-            <label><!-- Flow Interview Log Entries --></label>
-            <name>Flow Interview Log Entries</name>
-        </sections>
-        <sections>
-            <label><!-- Flow Interview Logs --></label>
-            <name>Flow Interview Logs</name>
-        </sections>
-    </reportTypes>
 </Translations>

@@ -3,6 +3,11 @@
     <types>
         <members>A0</members>
         <members>A000</members>
+        <members>A00000AOZGddBpOrC</members>
+        <members>A00000ASDXlkQJKQ</members>
+        <members>A00000LgKTWXnk</members>
+        <members>A00000SXaQxc</members>
+        <members>A00000UipcOVCKCqWy</members>
         <members>A0001</members>
         <members>A0009</members>
         <members>A0071</members>
@@ -99,6 +104,7 @@
         <members>A786</members>
         <members>A789</members>
         <members>A7891</members>
+        <members>A8971</members>
         <members>A9</members>
         <members>A900</members>
         <members>A908</members>
@@ -110,9 +116,25 @@
         <members>AA54</members>
         <members>AAAA06</members>
         <members>AAAA07</members>
+        <members>AAClsABPSiWR</members>
+        <members>AAClsBsPpRuWD</members>
+        <members>AAClsLTOPVpSkO</members>
+        <members>AAClsRlNWhlAzSWUU</members>
+        <members>AAClswhgchigdGp</members>
         <members>AC300</members>
         <members>ACEBrokerages_ChatterController</members>
         <members>ACEBrokerages_ChatterControllerTest</members>
+        <members>AClassIyKpXdRSGHur</members>
+        <members>AClassJBjqqClY</members>
+        <members>AClassJCbvVodWnR</members>
+        <members>AClassJFHYnlXnuzTs</members>
+        <members>AClassJHqLEEujkC</members>
+        <members>AClassJMOKYSEkS</members>
+        <members>AClassJNMPYcoOGWvL</members>
+        <members>AClassJUDmVHqLr</members>
+        <members>AClassJVDicQsl</members>
+        <members>AClassJWqRrXHaj</members>
+        <members>AClassJXaOze</members>
         <members>ACls1</members>
         <members>AD1</members>
         <members>AD2</members>
@@ -211,6 +233,8 @@
         <members>E2</members>
         <members>E3</members>
         <members>E4</members>
+        <members>Feb01</members>
+        <members>Feb10</members>
         <members>Feb22ndCls1</members>
         <members>Feb5</members>
         <members>Feb523</members>
@@ -252,6 +276,8 @@
         <members>Pclass3</members>
         <members>QC1</members>
         <members>QC2</members>
+        <members>RGorg01</members>
+        <members>RGvc01</members>
         <members>RRRClass1</members>
         <members>RRRClass3</members>
         <members>RRRClass4</members>
@@ -304,6 +330,7 @@
         <members>SiteLoginControllerTest</members>
         <members>SiteRegisterController</members>
         <members>SiteRegisterControllerTest</members>
+        <members>Sri2</members>
         <members>St1</members>
         <members>V6</members>
         <members>Z22</members>
@@ -353,6 +380,7 @@
         <members>d1Class</members>
         <members>d3</members>
         <members>dest1234</members>
+        <members>febthCls1</members>
         <members>jsonFix1</members>
         <members>kkkk</members>
         <members>km1</members>
@@ -370,8 +398,10 @@
         <members>qaclass2</members>
         <members>rtclass1</members>
         <members>s1</members>
+        <members>s98765</members>
         <members>sa123</members>
         <members>sai007</members>
+        <members>skvcls1</members>
         <members>tejaclass1</members>
         <members>u9</members>
         <members>v8</members>
@@ -447,6 +477,8 @@
     <types>
         <members>ACCObjTest1__c.July24thStandardprocess1</members>
         <members>ACCObjTest1__c.PG_Metric_SME_Approval_Process_withemail</members>
+        <members>Account.Apppro1</members>
+        <members>Account.AprrovprocessTest1</members>
         <members>PG_Metric__c.PG_Metric_SME_Approval_Process1_withemai</members>
         <members>PG_Metric__c.PG_Metric_SME_Approval_Process_withemai</members>
         <members>PG_Metric__c.PG_Metric_SME_Approval_Process_withemail</members>
@@ -557,11 +589,13 @@
         <members>ACCObjTest1__c.ACCField1__c</members>
         <members>ACCObjTest1__c.ACCField2__c</members>
         <members>ACCObjTest1__c.Apr6thpicklist1__c</members>
+        <members>ACCObjTest1__c.Are_you_a_Admin__c</members>
         <members>ACCObjTest1__c.AutorabitExtId__c</members>
         <members>ACCObjTest1__c.N1__c</members>
         <members>ACCObjTest1__c.PLNew1__c</members>
         <members>ACCObjTest1__c.PLnew3__c</members>
         <members>ACCObjTest1__c.PLt1__c</members>
+        <members>ACCObjTest1__c.Pf3__c</members>
         <members>ACCObjTest1__c.Plt3__c</members>
         <members>ACCObjTest1__c.TextField15__c</members>
         <members>ACCObjTest1__c.f8__c</members>
@@ -577,15 +611,21 @@
         <members>ACCobj3__c.Field2__c</members>
         <members>ACCobj3__c.Field3__c</members>
         <members>ACCobj3__c.Field4__c</members>
+        <members>ACDemoOBj1__c.AutorabitExtId__c</members>
         <members>ACDemoOBj1__c.Ftest12__c</members>
         <members>ACLObj1__c.Field1__c</members>
         <members>ACOBJT1__c.Field__c</members>
         <members>ACObj123__c.f1__c</members>
+        <members>ACR2__c.AutorabitExtId__c</members>
         <members>ACR2__c.F12__c</members>
         <members>ACR2__c.LookUpField1__c</members>
         <members>ACR2__c.LookUpField2__c</members>
+        <members>ACR2__c.field1__c</members>
+        <members>ACR2__c.field2__c</members>
+        <members>ACR5__c.F3__c</members>
         <members>ACR5__c.field1__c</members>
         <members>ACR5__c.field2__c</members>
+        <members>ACR5__c.pf1__c</members>
         <members>ACR6__c.fileld1__c</members>
         <members>ACROBj1__c.Field1__c</members>
         <members>ACROBj1__c.Field2__c</members>
@@ -620,6 +660,7 @@
         <members>AYObj2__c.Ayf1__c</members>
         <members>AYObj3__c.AYfd1__c</members>
         <members>AYObj3__c.Ayfd2__c</members>
+        <members>A_b__c.A_Bfeild__c</members>
         <members>Accobj4__c.Field1__c</members>
         <members>Accobj4__c.Field2__c</members>
         <members>Accobj4__c.Field3__c</members>
@@ -681,6 +722,8 @@
         <members>EC_AccObj1__c.Pl3__c</members>
         <members>EC_AccObj1__c.picklist567__c</members>
         <members>EC_AccObj1__c.piclisit9__c</members>
+        <members>Feb21Obj1__c.F1__c</members>
+        <members>Feb21Obj1__c.F2__c</members>
         <members>Feb22ndObj1__c.F1__c</members>
         <members>Feb22ndObj1__c.F2__c</members>
         <members>Feb26Obj123__c.F1__c</members>
@@ -688,6 +731,7 @@
         <members>JUnObj1__c.Field1__c</members>
         <members>KACObj1__c.KACField1__c</members>
         <members>KACObj1__c.KACField2__c</members>
+        <members>KBj1__c.F1__c</members>
         <members>KOb19__c.f1__c</members>
         <members>LB500obj1__c.field1__c</members>
         <members>LB500obj2__c.f1__c</members>
@@ -695,6 +739,12 @@
         <members>M__c.mergeField3__c</members>
         <members>Mar13obj1__c.FIeld2__c</members>
         <members>Mar13obj1__c.Field1__c</members>
+        <members>Mar1811__c.f1__c</members>
+        <members>Mar1811__c.f2__c</members>
+        <members>Mar19SaiObj1__c.F1__c</members>
+        <members>Mar19SaiObj1__c.F2__c</members>
+        <members>Mar20Obj2__c.Mar20Obj2Field1__c</members>
+        <members>Mar20Obj2__c.Mar20Obj2Field2__c</members>
         <members>NA17Obj1__c.F1__c</members>
         <members>NA23Obj1__c.NA23Field1__c</members>
         <members>NA23Obj1__c.NA23Field2__c</members>
@@ -797,6 +847,8 @@
         <members>SEObject1__c.field1__c</members>
         <members>SEObject1__c.field2__c</members>
         <members>SKVAug16Obj1__c.TextField__c</members>
+        <members>SKVObj2__c.F1__c</members>
+        <members>SKVObj2__c.F2__c</members>
         <members>SKVObject1__c.SKVField1__c</members>
         <members>SKVObject1__c.SKVField2__c</members>
         <members>SKVObject1__c.SKVField3__c</members>
@@ -837,6 +889,7 @@
         <members>SampathObj1__c.Field1__c</members>
         <members>SampathObj1__c.Field2__c</members>
         <members>SampathObj2__c.f1__c</members>
+        <members>Sample_OBJ__c.F1__c</members>
         <members>SaoObj900__c.F2__c</members>
         <members>SaoObj900__c.f1__c</members>
         <members>SaoObj900__c.f4__c</members>
@@ -861,6 +914,7 @@
         <members>TestAR__c.Test3__c</members>
         <members>TestAR__c.Test4__c</members>
         <members>TestAR__c.Test5__c</members>
+        <members>TestCsutomMetadata1__mdt.F1__c</members>
         <members>Testobj91__c.field1__c</members>
         <members>Ubj1__c.f2__c</members>
         <members>V098__c.f1__c</members>
@@ -886,6 +940,7 @@
         <members>Zobj3__c.fiedl1__c</members>
         <members>b1__c.f1__c</members>
         <members>feb23obj1__c.F1__c</members>
+        <members>feb8thObj1__c.F1__c</members>
         <members>l9045__c.f1__c</members>
         <members>lobj1__c.f1__c</members>
         <members>mob1__c.field1__c</members>
@@ -901,6 +956,8 @@
         <members>rcobject1__c.field1__c</members>
         <members>saiobj89__c.F1__c</members>
         <members>sc1obj1__c.F1__c</members>
+        <members>skvobj3__c.F1__c</members>
+        <members>skvobj3__c.F2__c</members>
         <members>sp1__c.F1__c</members>
         <members>sp1__c.F2__c</members>
         <members>uObj1__c.Field1__c</members>
@@ -1007,6 +1064,7 @@
         <members>ESCCustomLabel1</members>
         <members>ESCCustomLabel2</members>
         <members>FS_Container_AuthenticationFailure_Title_04I0K000000TN7S_1694902</members>
+        <members>Feb8thCl1</members>
         <members>Fgv1</members>
         <members>HarishLabel2</members>
         <members>J1</members>
@@ -1014,6 +1072,7 @@
         <members>KALabel1</members>
         <members>KALabel2</members>
         <members>KL1</members>
+        <members>KMl1</members>
         <members>Kl1233</members>
         <members>L12</members>
         <members>L122</members>
@@ -1087,6 +1146,7 @@
         <members>SLabel2</members>
         <members>SS1</members>
         <members>SS2</members>
+        <members>SSlabel1</members>
         <members>STAB203_Label</members>
         <members>STCL1</members>
         <members>SV1</members>
@@ -1150,6 +1210,7 @@
         <members>dd</members>
         <members>dfdf</members>
         <members>fdf</members>
+        <members>feb8tCl1</members>
         <members>gggg</members>
         <members>k1</members>
         <members>kkkl</members>
@@ -1174,6 +1235,7 @@
         <members>prcl</members>
         <members>rl12</members>
         <members>sai_pradeep</members>
+        <members>skvclnew1</members>
         <members>tejaLabel3</members>
         <members>teja_label1</members>
         <members>u1</members>
@@ -1185,6 +1247,13 @@
         <name>CustomLabel</name>
     </types>
     <types>
+        <members>TestCsutomMetadata1.record1</members>
+        <members>TestCsutomMetadata1.sai_record</members>
+        <members>TestCustomMetadata2.F1</members>
+        <name>CustomMetadata</name>
+    </types>
+    <types>
+        <members>A1__c</members>
         <members>A2__c</members>
         <members>A3__c</members>
         <members>A4s__c</members>
@@ -1196,6 +1265,7 @@
         <members>ACLObj1__c</members>
         <members>ACOBJT1__c</members>
         <members>ACObj123__c</members>
+        <members>ACR2__c</members>
         <members>ACR3__c</members>
         <members>ACR5__c</members>
         <members>ACROBj1__c</members>
@@ -1215,6 +1285,7 @@
         <members>AYObj1__c</members>
         <members>AYObj2__c</members>
         <members>AYObj3__c</members>
+        <members>A_b__c</members>
         <members>Accobj4__c</members>
         <members>Account</members>
         <members>Aobj1__c</members>
@@ -1253,18 +1324,23 @@
         <members>Dobj7__c</members>
         <members>EC_AccObj1__c</members>
         <members>EXTObj1__x</members>
+        <members>Feb21Obj1__c</members>
         <members>Feb22ndObj1__c</members>
         <members>Feb26Obj123__c</members>
         <members>Formula_objecct1__c</members>
         <members>HarishObject1__c</members>
         <members>JUnObj1__c</members>
         <members>KACObj1__c</members>
+        <members>KBj1__c</members>
         <members>KOb19__c</members>
         <members>Knowledge__kav</members>
         <members>LB500obj1__c</members>
         <members>LB500obj2__c</members>
         <members>M__c</members>
         <members>Mar13obj1__c</members>
+        <members>Mar1811__c</members>
+        <members>Mar19SaiObj1__c</members>
+        <members>Mar20Obj2__c</members>
         <members>MergeTest__c</members>
         <members>NA17Obj1__c</members>
         <members>NA23Obj1__c</members>
@@ -1340,6 +1416,7 @@
         <members>SEObj2__c</members>
         <members>SEObject1__c</members>
         <members>SKVAug16Obj1__c</members>
+        <members>SKVObj2__c</members>
         <members>SKVObject1__c</members>
         <members>SMobj1__c</members>
         <members>SObj1__c</members>
@@ -1364,6 +1441,7 @@
         <members>Saiobj500__c</members>
         <members>SampathObj1__c</members>
         <members>SampathObj2__c</members>
+        <members>Sample_OBJ__c</members>
         <members>SaoObj900__c</members>
         <members>Sb1__c</members>
         <members>Sep23rdObj1__c</members>
@@ -1377,6 +1455,8 @@
         <members>Test57__c</members>
         <members>TestAR__c</members>
         <members>TestArticleType2__kav</members>
+        <members>TestCsutomMetadata1__mdt</members>
+        <members>TestCustomMetadata2__mdt</members>
         <members>TestObj1__c</members>
         <members>TestProvaroct12__c</members>
         <members>Test_Articletype__kav</members>
@@ -1395,6 +1475,7 @@
         <members>ab1__c</members>
         <members>b1__c</members>
         <members>feb23obj1__c</members>
+        <members>feb8thObj1__c</members>
         <members>l9045__c</members>
         <members>lobj1__c</members>
         <members>mob1__c</members>
@@ -1409,6 +1490,8 @@
         <members>rcobject1__c</members>
         <members>saiobj89__c</members>
         <members>sc1obj1__c</members>
+        <members>skvobj1__c</members>
+        <members>skvobj3__c</members>
         <members>sob101__c</members>
         <members>sp1__c</members>
         <members>uObj1__c</members>
@@ -1417,11 +1500,13 @@
     </types>
     <types>
         <members>Cp1</members>
+        <members>TestCustomPerm1</members>
         <name>CustomPermission</name>
     </types>
     <types>
         <members>Catch_up</members>
         <members>New1</members>
+        <members>Test1233</members>
         <members>TestCommunity</members>
         <members>TestSite1</members>
         <name>CustomSite</name>
@@ -1469,6 +1554,7 @@
         <name>Document</name>
     </types>
     <types>
+        <members>ACR2__c.TestRule_for_Naresh</members>
         <members>Contact.Standard_Rule_for_Contacts_with_Duplicate_Leads</members>
         <members>Lead.Standard_Rule_for_Leads_with_Duplicate_Contacts</members>
         <name>DuplicateRule</name>
@@ -1478,11 +1564,14 @@
         <name>EmailServicesFunction</name>
     </types>
     <types>
+        <members>EmailTemp1</members>
         <members>PMO/Defect_Creation_Notification</members>
         <members>PMO/Question_Log_Send_Email_on_Query_Assignment</members>
         <members>PMO/Request_Description_Created_Updated</members>
         <members>PMO/Send_Email_To_Owner_Of_the_Request</members>
         <members>PMO/Send_Email_To_Submitter_of_the_Question</members>
+        <members>T2</members>
+        <members>TempFolder1</members>
         <members>Test123</members>
         <members>Test45</members>
         <members>Test45/TestEt1</members>
@@ -1500,6 +1589,7 @@
         <members>unfiled$public/SUPPORTSelfServiceNewCommentNotificationSAMPLE</members>
         <members>unfiled$public/SUPPORTSelfServiceNewUserLoginInformationSAMPLE</members>
         <members>unfiled$public/SUPPORTSelfServiceResetPasswordSAMPLE</members>
+        <members>unfiled$public/Sait1</members>
         <members>unfiled$public/SalesNewCustomerEmail</members>
         <members>unfiled$public/SupportCaseAssignmentNotification</members>
         <members>unfiled$public/SupportCaseCreatedPhoneInquiries</members>
@@ -1535,6 +1625,10 @@
         <name>EscalationRule</name>
     </types>
     <types>
+        <members>Test12331</members>
+        <name>ExperienceBundle</name>
+    </types>
+    <types>
         <members>EXTDS1</members>
         <members>EXTDS2</members>
         <members>EXTDS3</members>
@@ -1566,7 +1660,12 @@
         <name>FlowDefinition</name>
     </types>
     <types>
+        <members>Test1</members>
+        <name>GlobalValueSet</name>
+    </types>
+    <types>
         <members>New1.Banned</members>
+        <members>Test1233.Banned</members>
         <members>TestCommunity.Banned</members>
         <name>KeywordList</name>
     </types>
@@ -1580,6 +1679,7 @@
         <members>ACCObjTest1__c-sai</members>
         <members>ACCObject2__c-ACCObject2 Layout</members>
         <members>ACCobj3__c-ACCobj3 Layout</members>
+        <members>ACDemoOBj1__c-ACDemoOBj1 Layout</members>
         <members>ACLObj1__c-ACLObj1 Layout</members>
         <members>ACOBJT1__c-ACOBJT1 Layout</members>
         <members>ACObj123__c-ACObj123 Layout</members>
@@ -1590,6 +1690,7 @@
         <members>ACR3__c-ACR3 Layout</members>
         <members>ACR3__c-数据更改请求 Layout%2Elayout</members>
         <members>ACR4__c-âêîôû Layout%2Elayout</members>
+        <members>ACR5__c-ACR5 Layout</members>
         <members>ACROBj1__c-ACROBj1 Layout</members>
         <members>ACRameshObj2__c-ACRameshObj2 Layout</members>
         <members>ACTNROBJ11__c-ACTNROBJ11 Layout</members>
@@ -1606,6 +1707,8 @@
         <members>AYObj1__c-AYObj1 Layout</members>
         <members>AYObj2__c-AYObj2 Layout</members>
         <members>AYObj3__c-AYObj3 Layout</members>
+        <members>A_b__c-A%26b Layout</members>
+        <members>A_b__c-Pilot do not use</members>
         <members>AcObj1__c-AcObj1 Layout</members>
         <members>Accobj4__c-Accobj4 Layout</members>
         <members>Account-Account %28Marketing%29 Layout</members>
@@ -1651,6 +1754,8 @@
         <members>Dobj3__c-Dobj3 Layout</members>
         <members>Dobj7__c-Dobj7 Layout</members>
         <members>EC_AccObj1__c-EC-AccObj1 Layout</members>
+        <members>Feb21Obj1__c-Feb21Obj1 Layout</members>
+        <members>Feb22ndObj1__c-Feb22ndObj1 Layout</members>
         <members>Feb26Obj123__c-Feb26Obj123 Layout</members>
         <members>Formula_objecct1__c-Formula objecct1 Layout</members>
         <members>Global-Global Layout</members>
@@ -1658,6 +1763,7 @@
         <members>HarishObject1__c-HarishObject1 Layout</members>
         <members>Individual-Individual Layout</members>
         <members>JUnObj1__c-JUnObj1 Layout</members>
+        <members>KBj1__c-KBj1 Layout</members>
         <members>KCobj1__c-KCobj1 Layout</members>
         <members>KOb19__c-KOb19 Layout</members>
         <members>Knowledge__kav-Knowledge Layout</members>
@@ -1669,6 +1775,8 @@
         <members>Lead-Lead Layout</members>
         <members>LinkedArticle-Linked Article Layout</members>
         <members>Mar13obj1__c-Mar13obj1 Layout</members>
+        <members>Mar1811__c-Mar1811 Layout</members>
+        <members>Mar19SaiObj1__c-Mar19SaiObj1 Layout</members>
         <members>MergeTest__c-MergeTest Layout</members>
         <members>NA17Obj1__c-NA17Obj1 Layout</members>
         <members>NA23Obj1__c-NA23Obj1 Layout</members>
@@ -1744,6 +1852,7 @@
         <members>SEObj1__c-SEObj1 Layout</members>
         <members>SEObj2__c-SEObj2 Layout</members>
         <members>SKVAug16Obj1__c-SKVAug16Obj1 Layout</members>
+        <members>SKVObj2__c-SKVObj2 Layout</members>
         <members>SKVObject1__c-SKVObject1 Layout</members>
         <members>SMobj1__c-SMobj1 Layout</members>
         <members>SObj1__c-SObj1 Layout</members>
@@ -1768,6 +1877,7 @@
         <members>Saiobj500__c-Saiobj500 Layout</members>
         <members>SampathObj1__c-SampathObj1 Layout</members>
         <members>SampathObj2__c-SampathObj2 Layout</members>
+        <members>Sample_OBJ__c-April 12 OBJ Layout</members>
         <members>SaoObj900__c-SaiObj900 Layout</members>
         <members>Sb1__c-Sb1 Layout</members>
         <members>Scorecard-Scorecard Layout</members>
@@ -1788,6 +1898,8 @@
         <members>Test57__c-Test57 Layout</members>
         <members>TestAR__c-TestAR Layout</members>
         <members>TestArticleType2__kav-TestArticleType2 Layout</members>
+        <members>TestCsutomMetadata1__mdt-TestCustomMetadata1 Layout</members>
+        <members>TestCustomMetadata2__mdt-TestCustomMetadata2 Layout</members>
         <members>TestObj1__c-TestObj1 Layout</members>
         <members>TestProvaroct12__c-TestProvaroct12 Layout</members>
         <members>Test_Articletype__kav-Test Articletype Layout</members>
@@ -1808,6 +1920,7 @@
         <members>Zobj3__c-Zobj3 Layout</members>
         <members>ab1__c-ab1 Layout</members>
         <members>b1__c-b1 Layout</members>
+        <members>feb8thObj1__c-feb8thObj1 Layout</members>
         <members>l9045__c-l9045 Layout</members>
         <members>lobj1__c-lobj1 Layout</members>
         <members>mob1__c-mob1 Layout</members>
@@ -1821,6 +1934,8 @@
         <members>rcobject1__c-rcobject1 Layout</members>
         <members>saiobj89__c-saiobj89 Layout</members>
         <members>sc1obj1__c-sc1obj1 Layout</members>
+        <members>skvobj1__c-skvobj1 Layout</members>
+        <members>skvobj3__c-skvobj3 Layout</members>
         <members>sob101__c-sob101 Layout</members>
         <members>sp1__c-sp1 Layout</members>
         <members>uObj1__c-uObj1 Layout</members>
@@ -1830,6 +1945,10 @@
     <types>
         <members>Test12</members>
         <name>Letterhead</name>
+    </types>
+    <types>
+        <members>pubsub</members>
+        <name>LightningComponentBundle</name>
     </types>
     <types>
         <members>ACCObjTest1__c.All</members>
@@ -1846,6 +1965,7 @@
         <members>RCObj1__c.All</members>
         <members>SEObject1__c.All</members>
         <members>Sai_Obj500__c.All</members>
+        <members>TestCustomMetadata2__mdt.tesdt</members>
         <members>User.AllUsers</members>
         <members>b1__c.All</members>
         <members>mob1__c.All</members>
@@ -1875,6 +1995,11 @@
         <members>New1.Freeze_for_frequent_posting</members>
         <members>New1.Replace_banned</members>
         <members>New1.Review_the_first_post</members>
+        <members>Test1233.Block_banned_keywords</members>
+        <members>Test1233.Flag_banned</members>
+        <members>Test1233.Freeze_for_frequent_posting</members>
+        <members>Test1233.Replace_banned</members>
+        <members>Test1233.Review_the_first_post</members>
         <members>TestCommunity.Block_banned_keywords</members>
         <members>TestCommunity.Flag_banned</members>
         <members>TestCommunity.Freeze_for_frequent_posting</members>
@@ -1883,24 +2008,32 @@
         <name>ModerationRule</name>
     </types>
     <types>
+        <members>TestNC1</members>
+        <name>NamedCredential</name>
+    </types>
+    <types>
         <members>Default_Navigation</members>
         <members>Default_Navigation1</members>
         <members>Default_Navigation2</members>
+        <members>Default_Navigation3</members>
         <name>NavigationMenu</name>
     </types>
     <types>
         <members>Catch up</members>
         <members>New1</members>
+        <members>Test1233</members>
         <members>TestCommunity</members>
         <name>Network</name>
     </types>
     <types>
         <members>cbCatch_up</members>
         <members>cbNew1</members>
+        <members>cbTest1233</members>
         <members>cbTestCommunity</members>
         <name>NetworkBranding</name>
     </types>
     <types>
+        <members>DellPermissionSet</members>
         <members>PRS007</members>
         <members>PRS008</members>
         <members>PRS009</members>
@@ -1911,6 +2044,7 @@
         <members>PRS5</members>
         <members>PS1</members>
         <members>PradeepPermSet1</members>
+        <members>feb8th</members>
         <members>prs6</members>
         <name>PermissionSet</name>
     </types>
@@ -1962,6 +2096,7 @@
         <members>Force%2Ecom - Free User</members>
         <members>Gold Partner User</members>
         <members>Guest</members>
+        <members>Guest License User</members>
         <members>High Volume Customer Portal User</members>
         <members>HighVolumePortal</members>
         <members>Identity User</members>
@@ -1984,6 +2119,8 @@
         <members>StandardAul</members>
         <members>System AdministratorClone</members>
         <members>Test1</members>
+        <members>Test1233 Profile</members>
+        <members>Test1557</members>
         <members>Test1Profile</members>
         <members>TestCommunity Profile</members>
         <members>TestCreateProfile</members>
@@ -1991,6 +2128,7 @@
         <members>Testprofile2</members>
         <members>Work%2Ecom Only User</members>
         <members>clone profile</members>
+        <members>feb8th</members>
         <members>profilestandared</members>
         <members>sp1</members>
         <name>Profile</name>
@@ -2094,6 +2232,10 @@
     <types>
         <members>TestSAML1</members>
         <name>SamlSsoConfig</name>
+    </types>
+    <types>
+        <members>SaiOobj1__c.Rule1</members>
+        <name>SharingOwnerRule</name>
     </types>
     <types>
         <members>ACCObjTest1__c</members>
@@ -2259,6 +2401,9 @@
         <members>New1.Customer_Members</members>
         <members>New1.Members_without_contribution</members>
         <members>New1.Partner_and_Customer_members</members>
+        <members>Test1233.Customer_Members</members>
+        <members>Test1233.Members_without_contribution</members>
+        <members>Test1233.Partner_and_Customer_members</members>
         <members>TestCommunity.Customer_Members</members>
         <members>TestCommunity.Members_without_contribution</members>
         <members>TestCommunity.Partner_and_Customer_members</members>
