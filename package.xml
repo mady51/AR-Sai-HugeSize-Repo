@@ -40,8 +40,6 @@
         <members>A151</members>
         <members>A152</members>
         <members>A156</members>
-        <members>A158</members>
-        <members>A159</members>
         <members>A16</members>
         <members>A160</members>
         <members>A161</members>
@@ -144,7 +142,6 @@
         <members>BusinessClass</members>
         <members>BusinessClassTest</members>
         <members>C1</members>
-        <members>Casehelper</members>
         <members>ChangePasswordController</members>
         <members>ChangePasswordControllerTest</members>
         <members>CommunitiesLandingController</members>
@@ -238,7 +235,6 @@
         <members>SKVClass2</members>
         <members>SRclass1</members>
         <members>STAB203Class</members>
-        <members>STcls1</members>
         <members>Sa89</members>
         <members>Sai007cls1</members>
         <members>Sai007clstestclass</members>
