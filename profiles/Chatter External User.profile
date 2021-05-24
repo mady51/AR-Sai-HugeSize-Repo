@@ -270,10 +270,6 @@
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
-        <apexClass>ANA_AP04_Process_QuoteLineItems</apexClass>
-        <enabled>false</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>ANA_AP04_Process_QuoteLineItems_Test</apexClass>
         <enabled>false</enabled>
     </classAccesses>
@@ -94760,11 +94756,11 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Billing__c-Billing Layout</layout>
-        <recordType>Billing__c.Billing</recordType>
+        <recordType>Billing__c.BillingASO</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Billing__c-Billing Layout</layout>
-        <recordType>Billing__c.BillingASO</recordType>
+        <recordType>Billing__c.Billing</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Broker_Consultant_Commissions1__c-Broker%2FConsultant Commissions1 Layout</layout>
@@ -96401,11 +96397,11 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Product2-vlocity_ins__Plan %28Vlocity 2%2E5%29</layout>
-        <recordType>Product2.vlocity_ins__Product</recordType>
+        <recordType>Product2.vlocity_ins__ProductTemplate</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Product2-vlocity_ins__Plan %28Vlocity 2%2E5%29</layout>
-        <recordType>Product2.vlocity_ins__ProductTemplate</recordType>
+        <recordType>Product2.vlocity_ins__Product</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Product2-vlocity_ins__Plan %28Vlocity 2%2E5%29</layout>
@@ -96707,11 +96703,11 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Support_Request__c-End User Support Request</layout>
-        <recordType>Support_Request__c.EUSR_User_Create</recordType>
+        <recordType>Support_Request__c.EUSR_User_Create1</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Support_Request__c-End User Support Request</layout>
-        <recordType>Support_Request__c.EUSR_User_Create1</recordType>
+        <recordType>Support_Request__c.EUSR_User_Create</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Support_Request__c-End User Support Request</layout>
@@ -97766,11 +97762,11 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>vlocity_ins__ObjectClass__c-vlocity_ins__Object Class Layout</layout>
-        <recordType>vlocity_ins__ObjectClass__c.vlocity_ins__Object</recordType>
+        <recordType>vlocity_ins__ObjectClass__c.vlocity_ins__ObjectType</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>vlocity_ins__ObjectClass__c-vlocity_ins__Object Class Layout</layout>
-        <recordType>vlocity_ins__ObjectClass__c.vlocity_ins__ObjectType</recordType>
+        <recordType>vlocity_ins__ObjectClass__c.vlocity_ins__Object</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>vlocity_ins__ObjectElement__c-vlocity_ins__Vlocity Object Section Element Layout</layout>

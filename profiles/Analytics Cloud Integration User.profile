@@ -270,10 +270,6 @@
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
-        <apexClass>ANA_AP04_Process_QuoteLineItems</apexClass>
-        <enabled>false</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>ANA_AP04_Process_QuoteLineItems_Test</apexClass>
         <enabled>false</enabled>
     </classAccesses>

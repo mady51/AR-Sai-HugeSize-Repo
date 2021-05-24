@@ -270,10 +270,6 @@
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
-        <apexClass>ANA_AP04_Process_QuoteLineItems</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>ANA_AP04_Process_QuoteLineItems_Test</apexClass>
         <enabled>true</enabled>
     </classAccesses>
@@ -94480,29 +94476,6 @@
         <layout>ARF__c-Action Request Form Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Account-Account Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Account-Account Layout</layout>
-        <recordType>Account.Brokerage_Firm</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Account-Account Layout</layout>
-        <recordType>Account.PBM</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Account-Account Layout</layout>
-        <recordType>Account.StopLoss</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Account-Account Layout</layout>
-        <recordType>Account.TPA</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Account-Account Layout</layout>
-        <recordType>Account.vlocity_ins__MobilePhoneAccount</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>Account-Account Layout - Brokerage</layout>
         <recordType>Account.Brokerage</recordType>
     </layoutAssignments>
@@ -94537,6 +94510,29 @@
     <layoutAssignments>
         <layout>Account-Account Layout-Vendor</layout>
         <recordType>Account.ServiceProvider</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Account-Account Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Account-Account Layout</layout>
+        <recordType>Account.Brokerage_Firm</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Account-Account Layout</layout>
+        <recordType>Account.PBM</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Account-Account Layout</layout>
+        <recordType>Account.StopLoss</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Account-Account Layout</layout>
+        <recordType>Account.TPA</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Account-Account Layout</layout>
+        <recordType>Account.vlocity_ins__MobilePhoneAccount</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Account-Chamber</layout>
@@ -94760,11 +94756,11 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Billing__c-Billing Layout</layout>
-        <recordType>Billing__c.Billing</recordType>
+        <recordType>Billing__c.BillingASO</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Billing__c-Billing Layout</layout>
-        <recordType>Billing__c.BillingASO</recordType>
+        <recordType>Billing__c.Billing</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Broker_Consultant_Commissions1__c-Broker%2FConsultant Commissions1 Layout</layout>
@@ -95463,12 +95459,12 @@
         <recordType>HCR_Plan_Grids__c.Exempt</recordType>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>HCR_Plan_Grids__c-Grandfathered</layout>
-        <recordType>HCR_Plan_Grids__c.Grandfathered</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>HCR_Plan_Grids__c-Grandfathered - Zero Enrollment</layout>
         <recordType>HCR_Plan_Grids__c.Grandfathered_Zero_Enrollment</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>HCR_Plan_Grids__c-Grandfathered</layout>
+        <recordType>HCR_Plan_Grids__c.Grandfathered</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>HCR_Plan_Grids__c-Non-Grandfathered</layout>
@@ -95817,43 +95813,43 @@
         <recordType>Opportunity.GRS_Renewal</recordType>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Opportunity-Opportunity Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Opportunity-Opportunity Layout</layout>
-        <recordType>Opportunity.StopLoss</recordType>
+        <layout>Opportunity-Opportunity Layout - IGAP - Local</layout>
+        <recordType>Opportunity.In_Group_Add_Product_Local</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Opportunity-Opportunity Layout - IGAP</layout>
         <recordType>Opportunity.In_Group_Add_Product</recordType>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Opportunity-Opportunity Layout - IGAP - Local</layout>
-        <recordType>Opportunity.In_Group_Add_Product_Local</recordType>
+        <layout>Opportunity-Opportunity Layout - IGC - Local</layout>
+        <recordType>Opportunity.In_Group_Change_Local</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Opportunity-Opportunity Layout - IGC</layout>
         <recordType>Opportunity.In_Group_Change</recordType>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Opportunity-Opportunity Layout - IGC - Local</layout>
-        <recordType>Opportunity.In_Group_Change_Local</recordType>
+        <layout>Opportunity-Opportunity Layout - New Business - Local</layout>
+        <recordType>Opportunity.New_Business_Local</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Opportunity-Opportunity Layout - New Business</layout>
         <recordType>Opportunity.New_Business</recordType>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Opportunity-Opportunity Layout - New Business - Local</layout>
-        <recordType>Opportunity.New_Business_Local</recordType>
+        <layout>Opportunity-Opportunity Layout - Renewal - Local</layout>
+        <recordType>Opportunity.Renewal_Local</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Opportunity-Opportunity Layout - Renewal</layout>
         <recordType>Opportunity.Renewal</recordType>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Opportunity-Opportunity Layout - Renewal - Local</layout>
-        <recordType>Opportunity.Renewal_Local</recordType>
+        <layout>Opportunity-Opportunity Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Opportunity-Opportunity Layout</layout>
+        <recordType>Opportunity.StopLoss</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Opportunity-vlocity_ins__Mobile Opportunity %28Vlocity 2%2E5%29</layout>
@@ -95876,14 +95872,6 @@
         <recordType>Order.LG_Labor_and_Trust</recordType>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Order-LG Local Full Group Term</layout>
-        <recordType>Order.LG_Full_Group_Term</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Order-LG Local Full Group Term</layout>
-        <recordType>Order.LG_Full_Group_Term_Unlocked</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>Order-LG Local Full Group Term Read Only</layout>
         <recordType>Order.LG_Full_Group_Term_Locked</recordType>
     </layoutAssignments>
@@ -95892,12 +95880,12 @@
         <recordType>Order.LG_Full_Group_Term_ReadOnly</recordType>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Order-LG Local and National Change Request Off Cycle</layout>
-        <recordType>Order.LG_Change_Request_Off_Cycle</recordType>
+        <layout>Order-LG Local Full Group Term</layout>
+        <recordType>Order.LG_Full_Group_Term</recordType>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Order-LG Local and National Change Request Off Cycle</layout>
-        <recordType>Order.LG_Change_Request_Off_Cycle_Unlock</recordType>
+        <layout>Order-LG Local Full Group Term</layout>
+        <recordType>Order.LG_Full_Group_Term_Unlocked</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Order-LG Local and National Change Request Off Cycle ReadOnly</layout>
@@ -95908,8 +95896,12 @@
         <recordType>Order.LG_Local_and_National_Change_Request_Off_Cycle_ReadOnly</recordType>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Order-LG Local and National Pre Work</layout>
-        <recordType>Order.LG_Pre_Work_Unlock</recordType>
+        <layout>Order-LG Local and National Change Request Off Cycle</layout>
+        <recordType>Order.LG_Change_Request_Off_Cycle</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Order-LG Local and National Change Request Off Cycle</layout>
+        <recordType>Order.LG_Change_Request_Off_Cycle_Unlock</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Order-LG Local and National Pre Work ReadOnly</layout>
@@ -95918,6 +95910,18 @@
     <layoutAssignments>
         <layout>Order-LG Local and National Pre Work ReadOnly</layout>
         <recordType>Order.LG_Pre_Work_Lock</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Order-LG Local and National Pre Work</layout>
+        <recordType>Order.LG_Pre_Work_Unlock</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Order-LG Local and National Renewals ReadOnly</layout>
+        <recordType>Order.LG_Local_and_National_Renewals_ReadOnly</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Order-LG Local and National Renewals ReadOnly</layout>
+        <recordType>Order.LG_Renewal_Lock</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Order-LG Local and National Renewals</layout>
@@ -95936,12 +95940,8 @@
         <recordType>Order.LG_Renwal_Unlock</recordType>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Order-LG Local and National Renewals ReadOnly</layout>
-        <recordType>Order.LG_Local_and_National_Renewals_ReadOnly</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Order-LG Local and National Renewals ReadOnly</layout>
-        <recordType>Order.LG_Renewal_Lock</recordType>
+        <layout>Order-LG New Business ReadOnly</layout>
+        <recordType>Order.LG_New_Business_Lock</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Order-LG New Business</layout>
@@ -95952,8 +95952,12 @@
         <recordType>Order.LG_New_Business_Unlock</recordType>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Order-LG New Business ReadOnly</layout>
-        <recordType>Order.LG_New_Business_Lock</recordType>
+        <layout>Order-Local and National Change Request Off Cycle ReadOnly</layout>
+        <recordType>Order.Change_Request_Off_Cycle_Lock</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Order-Local and National Change Request Off Cycle ReadOnly</layout>
+        <recordType>Order.Local_and_National_Change_Request_Off_Cycle_ReadOnly</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Order-Local and National Change Request Off Cycle</layout>
@@ -95964,12 +95968,16 @@
         <recordType>Order.Change_Request_Off_Cycle_Unlock</recordType>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Order-Local and National Change Request Off Cycle ReadOnly</layout>
-        <recordType>Order.Change_Request_Off_Cycle_Lock</recordType>
+        <layout>Order-Local and National Pre Work ReadOnly</layout>
+        <recordType>Order.Local_and_National_Pre_Work_ReadOnly</recordType>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Order-Local and National Change Request Off Cycle ReadOnly</layout>
-        <recordType>Order.Local_and_National_Change_Request_Off_Cycle_ReadOnly</recordType>
+        <layout>Order-Local and National Pre Work ReadOnly</layout>
+        <recordType>Order.PreWork_RFP</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Order-Local and National Pre Work ReadOnly</layout>
+        <recordType>Order.Pre_Work_Lock</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Order-Local and National Pre Work</layout>
@@ -95983,16 +95991,12 @@
         <recordType>Order.Project</recordType>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Order-Local and National Pre Work ReadOnly</layout>
-        <recordType>Order.Local_and_National_Pre_Work_ReadOnly</recordType>
+        <layout>Order-Local and National Renewals ReadOnly</layout>
+        <recordType>Order.Local_and_National_Renewals_ReadOnly</recordType>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Order-Local and National Pre Work ReadOnly</layout>
-        <recordType>Order.PreWork_RFP</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Order-Local and National Pre Work ReadOnly</layout>
-        <recordType>Order.Pre_Work_Lock</recordType>
+        <layout>Order-Local and National Renewals ReadOnly</layout>
+        <recordType>Order.Renewal_Lock</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Order-Local and National Renewals</layout>
@@ -96011,12 +96015,8 @@
         <recordType>Order.Renwal_Unlock</recordType>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Order-Local and National Renewals ReadOnly</layout>
-        <recordType>Order.Local_and_National_Renewals_ReadOnly</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Order-Local and National Renewals ReadOnly</layout>
-        <recordType>Order.Renewal_Lock</recordType>
+        <layout>Order-New Business ReadOnly</layout>
+        <recordType>Order.New_Business_Lock</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Order-New Business</layout>
@@ -96025,10 +96025,6 @@
     <layoutAssignments>
         <layout>Order-New Business</layout>
         <recordType>Order.New_Business_Unlock</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Order-New Business ReadOnly</layout>
-        <recordType>Order.New_Business_Lock</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Order-Project Read Only</layout>
@@ -96707,11 +96703,11 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Support_Request__c-End User Support Request</layout>
-        <recordType>Support_Request__c.EUSR_User_Create</recordType>
+        <recordType>Support_Request__c.EUSR_User_Create1</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Support_Request__c-End User Support Request</layout>
-        <recordType>Support_Request__c.EUSR_User_Create1</recordType>
+        <recordType>Support_Request__c.EUSR_User_Create</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Support_Request__c-End User Support Request</layout>
@@ -97766,11 +97762,11 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>vlocity_ins__ObjectClass__c-vlocity_ins__Object Class Layout</layout>
-        <recordType>vlocity_ins__ObjectClass__c.vlocity_ins__Object</recordType>
+        <recordType>vlocity_ins__ObjectClass__c.vlocity_ins__ObjectType</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>vlocity_ins__ObjectClass__c-vlocity_ins__Object Class Layout</layout>
-        <recordType>vlocity_ins__ObjectClass__c.vlocity_ins__ObjectType</recordType>
+        <recordType>vlocity_ins__ObjectClass__c.vlocity_ins__Object</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>vlocity_ins__ObjectElement__c-vlocity_ins__Vlocity Object Section Element Layout</layout>
