@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <label></label>
+        <name>agf__Changelist__c</name>
+    </fields>
+    <fields>
+        <label></label>
+        <name>agf__Describe__c</name>
+    </fields>
+    <fields>
+        <help></help>
+        <label></label>
+        <name>agf__External_ID__c</name>
+    </fields>
+    <fields>
+        <label></label>
+        <name>agf__Release__c</name>
+    </fields>
+    <fields>
+        <label></label>
+        <name>agf__Task__c</name>
+    </fields>
+    <fields>
+        <label></label>
+        <name>agf__User__c</name>
+        <relationshipLabel></relationshipLabel>
+    </fields>
+    <fields>
+        <label></label>
+        <name>agf__Work__c</name>
+    </fields>
+    <fields>
+        <label></label>
+        <name>agf__type__c</name>
+        <picklistValues>
+            <masterLabel>one</masterLabel>
+            <translation></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>three</masterLabel>
+            <translation></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>two</masterLabel>
+            <translation></translation>
+        </picklistValues>
+    </fields>
+    <layouts>
+        <layout>Perforce Connector Layout</layout>
+        <sections>
+            <label></label>
+            <section>Changelist Details</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Information</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>System Information</section>
+        </sections>
+    </layouts>
+</CustomObjectTranslation>
