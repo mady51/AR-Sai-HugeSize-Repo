@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <label></label>
+        <name>agf__External_ID__c</name>
+    </fields>
+    <fields>
+        <label></label>
+        <name>agf__Release_Name__c</name>
+    </fields>
+    <fields>
+        <label></label>
+        <name>agf__Release__c</name>
+        <relationshipLabel></relationshipLabel>
+    </fields>
+    <fields>
+        <label></label>
+        <name>agf__Reverted__c</name>
+    </fields>
+    <fields>
+        <label></label>
+        <name>agf__Scheduled_Release_Date__c</name>
+    </fields>
+    <fields>
+        <label></label>
+        <name>agf__Selected__c</name>
+    </fields>
+    <fields>
+        <label></label>
+        <name>agf__Stamped_On__c</name>
+    </fields>
+    <fields>
+        <label></label>
+        <name>agf__Subject__c</name>
+    </fields>
+    <fields>
+        <label></label>
+        <name>agf__Work__c</name>
+        <relationshipLabel></relationshipLabel>
+    </fields>
+    <layouts>
+        <layout>Released In Layout</layout>
+        <sections>
+            <label></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Information</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>System Information</section>
+        </sections>
+    </layouts>
+</CustomObjectTranslation>

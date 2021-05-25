@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>SaiObj10</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>SaiObj10s</value>
+    </caseValues>
+    <fields>
+        <label></label>
+        <name>DateField1__c</name>
+    </fields>
+    <fields>
+        <label></label>
+        <name>EmailField1__c</name>
+    </fields>
+    <fields>
+        <label></label>
+        <name>PickListField2__c</name>
+        <picklistValues>
+            <masterLabel>123</masterLabel>
+            <translation></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label></label>
+        <name>TextField__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>
