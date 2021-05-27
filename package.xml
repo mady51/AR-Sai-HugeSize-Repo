@@ -3095,6 +3095,8 @@
         <name>EmailServicesFunction</name>
     </types>
     <types>
+        <members>TempFolder1</members>
+        <members>TempFolder1/TempFile1</members>
         <members>unfiled$public/CommunityChangePasswordEmailTemplate</members>
         <members>unfiled$public/CommunityChgEmailVerNewTemplate</members>
         <members>unfiled$public/CommunityChgEmailVerOldTemplate</members>
