@@ -83,10 +83,6 @@
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
-        <apexClass>A0123</apexClass>
-        <enabled>false</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>A01234</apexClass>
         <enabled>false</enabled>
     </classAccesses>
@@ -113,10 +109,6 @@
     <classAccesses>
         <apexClass>A027</apexClass>
         <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
-        <apexClass>A028</apexClass>
-        <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
         <apexClass>A036</apexClass>
@@ -284,10 +276,6 @@
     </classAccesses>
     <classAccesses>
         <apexClass>A20</apexClass>
-        <enabled>false</enabled>
-    </classAccesses>
-    <classAccesses>
-        <apexClass>A200</apexClass>
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
