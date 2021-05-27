@@ -3096,6 +3096,8 @@
     </types>
     <types>
         <members>TempFolder1</members>
+        <members>TempFolder1/NewFile1</members>
+        <members>TempFolder1/NewFile2</members>
         <members>unfiled$public/CommunityChangePasswordEmailTemplate</members>
         <members>unfiled$public/CommunityChgEmailVerNewTemplate</members>
         <members>unfiled$public/CommunityChgEmailVerOldTemplate</members>
