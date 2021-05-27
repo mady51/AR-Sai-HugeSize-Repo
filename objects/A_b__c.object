@@ -165,12 +165,42 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
+    <fields>
+        <fullName>PL4__c</fullName>
+        <description>sdfg</description>
+        <externalId>false</externalId>
+        <label>PL4</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetName>Test1</valueSetName>
+        </valueSet>
+    </fields>
     <label>A&amp;b</label>
     <nameField>
         <label>A&amp;b Name</label>
         <type>Text</type>
     </nameField>
     <pluralLabel>A&amp;bs</pluralLabel>
+    <recordTypes>
+        <fullName>RC1</fullName>
+        <active>true</active>
+        <description>test</description>
+        <label>RC1</label>
+        <picklistValues>
+            <picklist>PL4__c</picklist>
+            <values>
+                <fullName>1</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>2</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+    </recordTypes>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
