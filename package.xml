@@ -1397,6 +1397,8 @@
         <members>NA23Obj1__c.NA23Field2__c</members>
         <members>NA23Obj2__c.Field1__c</members>
         <members>NA23obj3__c.Field1__c</members>
+        <members>NB1__c.Feidl2__c</members>
+        <members>NB1__c.Field1__c</members>
         <members>NS25Obj1__c.Field1__c</members>
         <members>NamespaceRegistry.NamespacePrefix</members>
         <members>NewObj600__c.Field1__c</members>
@@ -2675,6 +2677,7 @@
         <members>NA23Obj1__c</members>
         <members>NA23Obj2__c</members>
         <members>NA23obj3__c</members>
+        <members>NB1__c</members>
         <members>NN1__c</members>
         <members>NS25Obj1__c</members>
         <members>NamespaceRegistry</members>
