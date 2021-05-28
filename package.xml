@@ -3140,6 +3140,9 @@
         <name>EmailServicesFunction</name>
     </types>
     <types>
+        <members>QAEmailTemp_Folder</members>
+        <members>QAEmailTemp_Folder/File1</members>
+        <members>QAEmailTemp_Folder/File2</members>
         <members>unfiled$public/CommunityChangePasswordEmailTemplate</members>
         <members>unfiled$public/CommunityChgEmailVerNewTemplate</members>
         <members>unfiled$public/CommunityChgEmailVerOldTemplate</members>
