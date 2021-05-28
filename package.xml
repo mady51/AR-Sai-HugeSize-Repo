@@ -3096,6 +3096,9 @@
     </types>
     <types>
         <members>EmailTemp1</members>
+        <members>Et1</members>
+        <members>Et1/CommunityChangePasswordEmailTemplate</members>
+        <members>Et1/CommunityForgotPasswordEmailTemplate</members>
         <members>TempFolder1</members>
         <members>TempFolder1/NF1</members>
         <members>TempFolder1/NF2</members>
