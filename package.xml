@@ -3141,6 +3141,8 @@
     </types>
     <types>
         <members>EmailTemp1</members>
+        <members>EmailTemp1/T1</members>
+        <members>EmailTemp1/T2</members>
         <members>unfiled$public/CommunityChangePasswordEmailTemplate</members>
         <members>unfiled$public/CommunityChgEmailVerNewTemplate</members>
         <members>unfiled$public/CommunityChgEmailVerOldTemplate</members>
