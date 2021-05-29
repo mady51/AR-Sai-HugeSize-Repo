@@ -135,7 +135,6 @@
     <types>
         <members>SaiEmailTemp1</members>
         <members>SaiEmailTemp1/File1</members>
-        <members>SaiEmailTemp1/File2</members>
         <name>EmailTemplate</name>
     </types>
     <types>
