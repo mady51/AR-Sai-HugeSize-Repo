@@ -165,32 +165,6 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
-    <fields>
-        <fullName>PLnew1__c</fullName>
-        <description>test</description>
-        <externalId>false</externalId>
-        <label>PLnew1</label>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Picklist</type>
-        <valueSet>
-            <restricted>true</restricted>
-            <valueSetName>Test1</valueSetName>
-        </valueSet>
-    </fields>
-    <fields>
-        <fullName>PLnew2__c</fullName>
-        <description>gdg</description>
-        <externalId>false</externalId>
-        <label>PLnew2</label>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Picklist</type>
-        <valueSet>
-            <restricted>true</restricted>
-            <valueSetName>Test1</valueSetName>
-        </valueSet>
-    </fields>
     <label>A&amp;b</label>
     <nameField>
         <label>A&amp;b Name</label>
@@ -202,28 +176,6 @@
         <active>true</active>
         <description>test</description>
         <label>RC1</label>
-        <picklistValues>
-            <picklist>PLnew1__c</picklist>
-            <values>
-                <fullName>1</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>2</fullName>
-                <default>false</default>
-            </values>
-        </picklistValues>
-        <picklistValues>
-            <picklist>PLnew2__c</picklist>
-            <values>
-                <fullName>1</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>2</fullName>
-                <default>false</default>
-            </values>
-        </picklistValues>
     </recordTypes>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
