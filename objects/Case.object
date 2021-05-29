@@ -440,6 +440,14 @@
         </valueSet>
     </fields>
     <fields>
+        <fullName>ServiceContractId</fullName>
+        <businessStatus>Active</businessStatus>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Lookup</type>
+    </fields>
+    <fields>
         <fullName>Status</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <trackHistory>true</trackHistory>

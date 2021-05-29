@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>48.0</version>
+    <version>51.0</version>
     <types>
         <members>A0</members>
         <members>A000</members>
@@ -83,6 +83,7 @@
         <members>Case.Product__c</members>
         <members>Case.Reason</members>
         <members>Case.SLAViolation__c</members>
+        <members>Case.ServiceContractId</members>
         <members>Case.Status</members>
         <members>Case.Subject</members>
         <members>Case.SuppliedCompany</members>
@@ -199,6 +200,7 @@
         <members>Test1Profile</members>
         <members>TestCreateProfile</members>
         <members>TestSite1 Profile</members>
+        <members>Testprofile3</members>
         <members>Work%2Ecom Only User</members>
         <members>clone profile</members>
         <name>Profile</name>
