@@ -60,6 +60,9 @@
     <types>
         <members>A1__c.F1__c</members>
         <members>ACDemoOBj1__c.Ftest12__c</members>
+        <members>A_b__c.A_Bfeild__c</members>
+        <members>A_b__c.PLnew1__c</members>
+        <members>A_b__c.PLnew2__c</members>
         <members>Case.AccountId</members>
         <members>Case.AssetId</members>
         <members>Case.AutorabitExtId__c</members>
@@ -121,6 +124,7 @@
     <types>
         <members>A1__c</members>
         <members>ACDemoOBj1__c</members>
+        <members>A_b__c</members>
         <members>Case</members>
         <members>DLCObj18__c</members>
         <members>DLObj1__c</members>
@@ -206,6 +210,7 @@
         <name>Profile</name>
     </types>
     <types>
+        <members>A_b__c.RC1</members>
         <members>Dbj1__c.Dbj_RC1</members>
         <members>Dbj1__c.Dbj_RC2</members>
         <members>Obj900__c.Obj900RC1</members>
