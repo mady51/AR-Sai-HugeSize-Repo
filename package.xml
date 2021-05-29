@@ -136,7 +136,6 @@
         <members>SaiEmailTemp1</members>
         <members>SaiTempfolder2</members>
         <members>SaiTempfolder2/bbbv</members>
-        <members>SaiTempfolder2/cd</members>
         <name>EmailTemplate</name>
     </types>
     <types>
