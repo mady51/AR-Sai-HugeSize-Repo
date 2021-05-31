@@ -6,21 +6,6 @@
         <visible>true</visible>
     </applicationVisibilities>
     <applicationVisibilities>
-        <application>standard__AppLauncher</application>
-        <default>false</default>
-        <visible>true</visible>
-    </applicationVisibilities>
-    <applicationVisibilities>
-        <application>standard__AppLauncher</application>
-        <default>false</default>
-        <visible>true</visible>
-    </applicationVisibilities>
-    <applicationVisibilities>
-        <application>standard__AppLauncher</application>
-        <default>false</default>
-        <visible>true</visible>
-    </applicationVisibilities>
-    <applicationVisibilities>
         <application>standard__Chatter</application>
         <default>true</default>
         <visible>true</visible>
@@ -175,14 +160,6 @@
     <classAccesses>
         <apexClass>A08123</apexClass>
         <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
-        <apexClass>A081234</apexClass>
-        <enabled>false</enabled>
-    </classAccesses>
-    <classAccesses>
-        <apexClass>A081234</apexClass>
-        <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
         <apexClass>A081234</apexClass>
