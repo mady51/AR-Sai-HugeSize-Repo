@@ -156,7 +156,7 @@
     <externalSharingModel>Private</externalSharingModel>
     <fields>
         <fullName>F1__c</fullName>
-        <description>test</description>
+        <description>New1</description>
         <externalId>false</externalId>
         <label>F1</label>
         <length>7</length>
