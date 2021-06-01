@@ -13,9 +13,48 @@
         <name>ACCField1__c</name>
     </fields>
     <fields>
-        <help><!-- qwsdcfvc --></help>
-        <label><!-- ACCField2 --></label>
-        <name>ACCField2__c</name>
+        <label><!-- Apr6thpicklist1 --></label>
+        <name>Apr6thpicklist1__c</name>
+        <picklistValues>
+            <masterLabel>1</masterLabel>
+            <translation><!-- 1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>10</masterLabel>
+            <translation><!-- 10 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>11</masterLabel>
+            <translation><!-- 11 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>2</masterLabel>
+            <translation><!-- 2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>3</masterLabel>
+            <translation><!-- 3 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>4</masterLabel>
+            <translation><!-- 4 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>5</masterLabel>
+            <translation><!-- 5 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>6</masterLabel>
+            <translation><!-- 6 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>7</masterLabel>
+            <translation><!-- 7 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Are you a Admin --></label>
+        <name>Are_you_a_Admin__c</name>
     </fields>
     <fields>
         <label><!-- AutorabitExtId__c --></label>
@@ -27,14 +66,6 @@
         <picklistValues>
             <masterLabel>12345</masterLabel>
             <translation><!-- 12345 --></translation>
-        </picklistValues>
-    </fields>
-    <fields>
-        <label><!-- PLNew1 --></label>
-        <name>PLNew1__c</name>
-        <picklistValues>
-            <masterLabel>007</masterLabel>
-            <translation><!-- 007 --></translation>
         </picklistValues>
     </fields>
     <fields>
@@ -51,6 +82,18 @@
         <picklistValues>
             <masterLabel>2</masterLabel>
             <translation><!-- 2 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Pf3 --></label>
+        <name>Pf3__c</name>
+        <picklistValues>
+            <masterLabel>1</masterLabel>
+            <translation><!-- 1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>test</masterLabel>
+            <translation><!-- test --></translation>
         </picklistValues>
     </fields>
     <fields>
@@ -73,11 +116,6 @@
         <description><!-- test --></description>
         <label><!-- SairecordType1 --></label>
         <name>SairecordType1</name>
-    </recordTypes>
-    <recordTypes>
-        <description><!-- zxc --></description>
-        <label><!-- SairecordType2 --></label>
-        <name>SairecordType2</name>
     </recordTypes>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

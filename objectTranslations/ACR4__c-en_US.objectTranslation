@@ -12,9 +12,5 @@
         <label><!-- Field1 --></label>
         <name>Field1__c</name>
     </fields>
-    <fields>
-        <label><!-- field2 --></label>
-        <name>field2__c</name>
-    </fields>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

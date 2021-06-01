@@ -9,7 +9,7 @@
         <field>Name</field>
         <field>Owner</field>
         <field>ACCField1__c</field>
-        <field>ACCField2__c</field>
+        <field>00N2800000IMqrv</field>
     </approvalPageFields>
     <approvalStep>
         <allowDelegate>false</allowDelegate>

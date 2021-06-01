@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <AutoResponseRules xmlns="http://soap.sforce.com/2006/04/metadata">
     <autoResponseRule>
         <fullName>AutoResponseRule3</fullName>
@@ -12,7 +13,7 @@
         <active>false</active>
     </autoResponseRule>
     <autoResponseRule>
-        <fullName>AutoresponseRule2</fullName>
+        <fullName>ECSLeadAutoResponseRule</fullName>
         <active>false</active>
     </autoResponseRule>
 </AutoResponseRules>

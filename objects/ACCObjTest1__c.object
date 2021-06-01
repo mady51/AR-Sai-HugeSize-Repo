@@ -143,7 +143,7 @@
     <allowInChatterGroups>false</allowInChatterGroups>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <deploymentStatus>Deployed</deploymentStatus>
-    <description>test1111</description>
+    <description>15573434</description>
     <enableActivities>false</enableActivities>
     <enableBulkApi>true</enableBulkApi>
     <enableFeeds>false</enableFeeds>
@@ -156,24 +156,83 @@
     <externalSharingModel>ReadWrite</externalSharingModel>
     <fields>
         <fullName>ACCField1__c</fullName>
-        <description>swd</description>
+        <description>swdbvvvvvvvvvvvvvvvvvvvvvvv</description>
         <externalId>false</externalId>
         <label>ACCField1</label>
-        <length>9</length>
+        <length>8</length>
         <required>false</required>
         <trackTrending>false</trackTrending>
         <type>Text</type>
         <unique>false</unique>
     </fields>
     <fields>
-        <fullName>ACCField2__c</fullName>
+        <fullName>Apr6thpicklist1__c</fullName>
+        <description>test</description>
         <externalId>false</externalId>
-        <inlineHelpText>qwsdcfvc</inlineHelpText>
-        <label>ACCField2</label>
+        <label>Apr6thpicklist1</label>
         <required>false</required>
         <trackTrending>false</trackTrending>
-        <type>Phone</type>
-    </fields
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>1</fullName>
+                    <default>false</default>
+                    <label>1</label>
+                </value>
+                <value>
+                    <fullName>2</fullName>
+                    <default>false</default>
+                    <label>2</label>
+                </value>
+                <value>
+                    <fullName>3</fullName>
+                    <default>false</default>
+                    <label>3</label>
+                </value>
+                <value>
+                    <fullName>4</fullName>
+                    <default>false</default>
+                    <label>4</label>
+                </value>
+                <value>
+                    <fullName>5</fullName>
+                    <default>false</default>
+                    <label>5</label>
+                </value>
+                <value>
+                    <fullName>6</fullName>
+                    <default>false</default>
+                    <label>6</label>
+                </value>
+                <value>
+                    <fullName>7</fullName>
+                    <default>false</default>
+                    <label>7</label>
+                </value>
+                <value>
+                    <fullName>10</fullName>
+                    <default>false</default>
+                    <label>10</label>
+                </value>
+                <value>
+                    <fullName>11</fullName>
+                    <default>false</default>
+                    <label>11</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
+    <fields>
+        <fullName>Are_you_a_Admin__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Are you a Admin</label>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
     <fields>
         <fullName>AutorabitExtId__c</fullName>
         <description>Ex11ternal Id created by AutoRABIT</description>
@@ -201,26 +260,6 @@
                     <fullName>12345</fullName>
                     <default>false</default>
                     <label>12345</label>
-                </value>
-            </valueSetDefinition>
-        </valueSet>
-    </fields>
-    <fields>
-        <fullName>PLNew1__c</fullName>
-        <description>Twt`2</description>
-        <externalId>false</externalId>
-        <label>PLNew1</label>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Picklist</type>
-        <valueSet>
-            <restricted>true</restricted>
-            <valueSetDefinition>
-                <sorted>false</sorted>
-                <value>
-                    <fullName>007</fullName>
-                    <default>true</default>
-                    <label>007</label>
                 </value>
             </valueSetDefinition>
         </valueSet>
@@ -266,6 +305,31 @@
                     <fullName>1</fullName>
                     <default>false</default>
                     <isActive>false</isActive>
+                    <label>1</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
+    <fields>
+        <fullName>Pf3__c</fullName>
+        <description>dsfsdfsd</description>
+        <externalId>false</externalId>
+        <label>Pf3</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>test</fullName>
+                    <default>false</default>
+                    <label>test</label>
+                </value>
+                <value>
+                    <fullName>1</fullName>
+                    <default>true</default>
                     <label>1</label>
                 </value>
             </valueSetDefinition>
@@ -322,17 +386,49 @@
         <description>test</description>
         <label>SairecordType1</label>
         <picklistValues>
-            <picklist>N1__c</picklist>
+            <picklist>Apr6thpicklist1__c</picklist>
             <values>
-                <fullName>12345</fullName>
+                <fullName>1</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>10</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>11</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>2</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>3</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>4</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>5</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>6</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>7</fullName>
                 <default>false</default>
             </values>
         </picklistValues>
         <picklistValues>
-            <picklist>PLNew1__c</picklist>
+            <picklist>N1__c</picklist>
             <values>
-                <fullName>007</fullName>
-                <default>true</default>
+                <fullName>12345</fullName>
+                <default>false</default>
             </values>
         </picklistValues>
         <picklistValues>
@@ -350,50 +446,9 @@
             </values>
         </picklistValues>
         <picklistValues>
-            <picklist>Plt3__c</picklist>
+            <picklist>Pf3__c</picklist>
             <values>
-                <fullName>latest</fullName>
-                <default>true</default>
-            </values>
-        </picklistValues>
-        <picklistValues>
-            <picklist>pl1__c</picklist>
-            <values>
-                <fullName>fg</fullName>
-                <default>false</default>
-            </values>
-        </picklistValues>
-    </recordTypes>
-    <recordTypes>
-        <fullName>SairecordType2</fullName>
-        <active>false</active>
-        <description>zxc</description>
-        <label>SairecordType2</label>
-        <picklistValues>
-            <picklist>N1__c</picklist>
-            <values>
-                <fullName>12345</fullName>
-                <default>false</default>
-            </values>
-        </picklistValues>
-        <picklistValues>
-            <picklist>PLNew1__c</picklist>
-            <values>
-                <fullName>007</fullName>
-                <default>false</default>
-            </values>
-        </picklistValues>
-        <picklistValues>
-            <picklist>PLnew3__c</picklist>
-            <values>
-                <fullName>sd</fullName>
-                <default>false</default>
-            </values>
-        </picklistValues>
-        <picklistValues>
-            <picklist>PLt1__c</picklist>
-            <values>
-                <fullName>2</fullName>
+                <fullName>test</fullName>
                 <default>false</default>
             </values>
         </picklistValues>
