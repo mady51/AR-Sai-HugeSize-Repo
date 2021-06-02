@@ -6,8 +6,6 @@
     </types>
     <types>
         <members>EMt1</members>
-        <members>EMt1/ef1</members>
-        <members>EMt1/ef2</members>
         <name>EmailTemplate</name>
     </types>
 </Package>
