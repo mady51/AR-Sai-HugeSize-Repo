@@ -6,6 +6,5 @@ Account a1= new Account();
 a1.Name = name; 
 return a1;
 //hiiudacsa
-//Yes or no
 }
 }
