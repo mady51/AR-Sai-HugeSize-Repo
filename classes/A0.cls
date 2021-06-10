@@ -40,7 +40,7 @@ string Role;
 string LOB;
 string Country;
 string Region;
-/*Purpose: This class contains static methods which are used by trgger TRG07
+/*Purpose: This class contains static methods which are used by trgger TRG07bcvbvcnvbnb
 ==============================================================================================================================================
 The methods called perform following functionality:
 
