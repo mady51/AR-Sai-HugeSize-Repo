@@ -12,7 +12,7 @@
         <language>en_US</language>
         <protected>true</protected>
         <shortDescription>ac111</shortDescription>
-        <value>11111</value>
+        <value>8911</value>
     </labels>
     <labels>
         <fullName>AC100</fullName>
@@ -1174,6 +1174,13 @@
         <value>1</value>
     </labels>
     <labels>
+        <fullName>STAB203_Label</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>STAB203 Label</shortDescription>
+        <value>Test</value>
+    </labels>
+    <labels>
         <fullName>STCL1</fullName>
         <language>en_US</language>
         <protected>true</protected>
@@ -1184,8 +1191,8 @@
         <fullName>SV1</fullName>
         <language>en_US</language>
         <protected>true</protected>
-        <shortDescription>SV1</shortDescription>
-        <value>edit in sbthree</value>
+        <shortDescription>SSlabel1</shortDescription>
+        <value>to see you go</value>
     </labels>
     <labels>
         <fullName>SaiCustomlabel10</fullName>
