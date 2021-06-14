@@ -83,11 +83,8 @@
         <members>A51</members>
         <members>A55</members>
         <members>A57</members>
-        <members>A58</members>
-        <members>A59</members>
         <members>A6</members>
         <members>A7</members>
-        <members>A78</members>
         <members>A789</members>
         <members>A7891</members>
         <members>A8</members>
@@ -3986,15 +3983,10 @@
         <name>ReportType</name>
     </types>
     <types>
-        <members>CEO</members>
         <members>CFO</members>
         <members>COO</members>
         <members>ChannelSalesTeam</members>
-        <members>CustomerSupportInternational</members>
-        <members>CustomerSupportNorthAmerica</members>
-        <members>DirectorChannelSales</members>
         <members>DirectorDirectSales</members>
-        <members>EasternSalesTeam</members>
         <members>InstallationRepairServices</members>
         <members>MarketingTeam</members>
         <members>ProfileRole</members>
@@ -4198,6 +4190,7 @@
     </types>
     <types>
         <members>SRTest1</members>
+        <members>Saiest</members>
         <members>SiteSamples</members>
         <name>StaticResource</name>
     </types>
