@@ -17,6 +17,8 @@
         <members>A045678</members>
         <members>A080</members>
         <members>A080123</members>
+        <members>A156</members>
+        <members>A16</members>
         <members>A24567</members>
         <members>A27</members>
         <members>A28</members>
@@ -58,7 +60,27 @@
         <members>a_saiclass</members>
         <members>abc</members>
         <members>aug13</members>
+        <members>packClass1</members>
+        <members>packClass3</members>
+        <members>pavancls2</members>
+        <members>pr</members>
+        <members>rtclass1</members>
+        <members>s98765</members>
+        <members>v6A0</members>
+        <members>v7</members>
+        <members>v8</members>
+        <members>y11</members>
+        <members>y12</members>
+        <members>y3</members>
         <name>ApexClass</name>
+    </types>
+    <types>
+        <members>AnswersHome</members>
+        <members>ApexPage</members>
+        <members>ApexPage5</members>
+        <members>Apexpage1</members>
+        <members>Apexpage6</members>
+        <name>ApexPage</name>
     </types>
     <types>
         <members>Internal Zone</members>
@@ -103,6 +125,12 @@
         <members>z901</members>
         <members>zl123</members>
         <name>CustomLabel</name>
+    </types>
+    <types>
+        <members>clone profile</members>
+        <members>feb8th</members>
+        <members>sp1</members>
+        <name>Profile</name>
     </types>
     <types>
         <members>AccountType</members>
