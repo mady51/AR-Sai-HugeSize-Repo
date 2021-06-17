@@ -5,14 +5,14 @@
         <language>en_US</language>
         <protected>true</protected>
         <shortDescription>AAtest456</shortDescription>
-        <value>123sdsf</value>
+        <value>111111</value>
     </labels>
     <labels>
         <fullName>AC1</fullName>
         <language>en_US</language>
-        <protected>false</protected>
+        <protected>true</protected>
         <shortDescription>ac111</shortDescription>
-        <value>12</value>
+        <value>911</value>
     </labels>
     <labels>
         <fullName>AC100</fullName>
@@ -33,14 +33,14 @@
         <language>en_US</language>
         <protected>true</protected>
         <shortDescription>AC133</shortDescription>
-        <value>1222</value>
+        <value>1</value>
     </labels>
     <labels>
         <fullName>AC2</fullName>
         <language>en_US</language>
         <protected>true</protected>
         <shortDescription>AC211</shortDescription>
-        <value>007</value>
+        <value>10</value>
     </labels>
     <labels>
         <fullName>AC56</fullName>
@@ -152,7 +152,7 @@
         <language>en_US</language>
         <protected>true</protected>
         <shortDescription>ACL4</shortDescription>
-        <value>rl1</value>
+        <value>rl11</value>
     </labels>
     <labels>
         <fullName>ACL5</fullName>
