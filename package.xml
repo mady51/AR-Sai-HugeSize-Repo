@@ -21,6 +21,9 @@
         <members>A27</members>
         <members>A28</members>
         <members>A29</members>
+        <members>Acc1</members>
+        <members>Acc123</members>
+        <members>AccnTest5</members>
         <members>ChangePasswordController</members>
         <members>ChangePasswordControllerTest</members>
         <members>CommunitiesLandingController</members>
@@ -42,6 +45,19 @@
         <members>Feb5</members>
         <members>Km4</members>
         <members>LBClass1</members>
+        <members>Mar16saiclass4</members>
+        <members>Mar19Cls3</members>
+        <members>Mar20Class4</members>
+        <members>MarCls2</members>
+        <members>SiteLoginController</members>
+        <members>SiteLoginControllerTest</members>
+        <members>SiteRegisterController</members>
+        <members>a50testclass</members>
+        <members>a5testclass</members>
+        <members>a7testclass</members>
+        <members>a_saiclass</members>
+        <members>abc</members>
+        <members>aug13</members>
         <name>ApexClass</name>
     </types>
     <types>
@@ -78,6 +94,14 @@
         <members>L12</members>
         <members>L122</members>
         <members>L23</members>
+        <members>tejaLabel3</members>
+        <members>teja_label1</members>
+        <members>u1</members>
+        <members>u2</members>
+        <members>v234</members>
+        <members>vl1</members>
+        <members>z901</members>
+        <members>zl123</members>
         <name>CustomLabel</name>
     </types>
     <types>

@@ -168,4 +168,60 @@
         <shortDescription>L23</shortDescription>
         <value>1</value>
     </labels>
+    <labels>
+        <fullName>tejaLabel3</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>tejaLabel3</shortDescription>
+        <value>1</value>
+    </labels>
+    <labels>
+        <fullName>teja_label1</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>teja label1</shortDescription>
+        <value>1</value>
+    </labels>
+    <labels>
+        <fullName>u1</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>u1</shortDescription>
+        <value>11</value>
+    </labels>
+    <labels>
+        <fullName>u2</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>u2</shortDescription>
+        <value>1</value>
+    </labels>
+    <labels>
+        <fullName>v234</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>v234</shortDescription>
+        <value>1</value>
+    </labels>
+    <labels>
+        <fullName>vl1</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>vl1</shortDescription>
+        <value>1</value>
+    </labels>
+    <labels>
+        <fullName>z901</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>z901</shortDescription>
+        <value>1</value>
+    </labels>
+    <labels>
+        <fullName>zl123</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>zl123</shortDescription>
+        <value>1</value>
+    </labels>
 </CustomLabels>
