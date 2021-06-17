@@ -29,7 +29,30 @@
         <members>A30</members>
         <members>A32</members>
         <members>ANS1</members>
+        <members>DemoClass</members>
+        <members>DemoClass2</members>
+        <members>DemoClass3</members>
+        <members>DemoClass4</members>
+        <members>DepCls1</members>
+        <members>DlClass5</members>
+        <members>E1</members>
+        <members>E2</members>
         <members>E3</members>
+        <members>LightningLoginFormControllerTest</members>
+        <members>LightningSelfRegisterController</members>
+        <members>LightningSelfRegisterControllerTest</members>
+        <members>Mar16saiclass4</members>
+        <members>Mar19Cls3</members>
+        <members>Mar20Class3</members>
+        <members>Mar20Class4</members>
+        <members>MarCls2</members>
+        <members>S10</members>
+        <members>S16class1</members>
+        <members>S200</members>
+        <members>SAClS2</members>
+        <members>SAClass200</members>
+        <members>SAClass201</members>
+        <members>SKVAug16Class1</members>
         <members>sai007</members>
         <name>ApexClass</name>
     </types>
@@ -112,6 +135,8 @@
         <name>CustomField</name>
     </types>
     <types>
+        <members>AAtest456</members>
+        <members>AC1</members>
         <members>ACL25</members>
         <members>APXL1</members>
         <members>APXL2</members>
@@ -153,6 +178,7 @@
         <name>ListView</name>
     </types>
     <types>
+        <members>DellPermissionSet</members>
         <members>PRS1</members>
         <members>PRS2</members>
         <name>PermissionSet</name>
