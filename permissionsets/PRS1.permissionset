@@ -15,15 +15,11 @@
     <customPermissions>
         <enabled>true</enabled>
         <name>TestCustomPerm1</name>
-    </customPermissions>
-    <customSettingAccesses>
+    </customPermissions>    
+    <classAccesses>
+        <apexClass>A1</apexClass>
         <enabled>true</enabled>
-        <name>SaiCS1__c</name>
-    </customSettingAccesses>
-    <customSettingAccesses>
-        <enabled>true</enabled>
-        <name>pradeep__c</name>
-    </customSettingAccesses>
+    </classAccesses>
     <fieldPermissions>
         <editable>true</editable>
         <field>ACRObj1__c.Field4__c</field>
