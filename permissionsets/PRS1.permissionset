@@ -8,6 +8,10 @@
         <application>standard__AppLauncher</application>
         <visible>true</visible>
     </applicationVisibilities>
+    <classAccesses>
+        <apexClass>A1</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
     <customMetadataTypeAccesses>
         <enabled>true</enabled>
         <name>TestCsutomMetadata1__mdt</name>
@@ -15,11 +19,7 @@
     <customPermissions>
         <enabled>true</enabled>
         <name>TestCustomPerm1</name>
-    </customPermissions>    
-    <classAccesses>
-        <apexClass>A1</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
+    </customPermissions>
     <fieldPermissions>
         <editable>true</editable>
         <field>ACRObj1__c.Field4__c</field>
