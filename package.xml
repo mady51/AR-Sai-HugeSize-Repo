@@ -3,6 +3,24 @@
     <types>
         <members>A0</members>
         <members>A000</members>
+        <members>A00000AOZGddBpOrC</members>
+        <members>A00000ASDXlkQJKQ</members>
+        <members>A00000LgKTWXnk</members>
+        <members>A00000SXaQxc</members>
+        <members>A00000UipcOVCKCqWy</members>
+        <members>A0071</members>
+        <members>A01234567</members>
+        <members>A0123678</members>
+        <members>A027</members>
+        <members>A036</members>
+        <members>A0456</members>
+        <members>A045678</members>
+        <members>A080</members>
+        <members>A080123</members>
+        <members>A24567</members>
+        <members>A27</members>
+        <members>A28</members>
+        <members>A29</members>
         <name>ApexClass</name>
     </types>
     <types>
@@ -13,6 +31,18 @@
         <members>Case.AccountId</members>
         <members>Case.AssetId</members>
         <name>CustomField</name>
+    </types>
+    <types>
+        <members>AAtest456</members>
+        <members>AC1</members>
+        <members>AC133</members>
+        <members>AC2</members>
+        <members>ACTNRLabel5</members>
+        <members>ACTNRLabel7</members>
+        <members>ACTNR_Label6</members>
+        <members>ACTNR_Label8</members>
+        <members>ACTRLabel1</members>
+        <name>CustomLabel</name>
     </types>
     <types>
         <members>AccountType</members>
