@@ -1044,6 +1044,7 @@
         <members>Customer Community User</members>
         <members>Customer Portal Manager Custom</members>
         <members>Customer Portal Manager Standard</members>
+        <members>External Apps Login User</members>
         <members>External Identity User</members>
         <members>Force%2Ecom - App Subscription User</members>
         <members>Force%2Ecom - Free User</members>
@@ -1061,6 +1062,7 @@
         <members>ProfileTest1</members>
         <members>ProfileTest123</members>
         <members>Profileest</members>
+        <members>Read Only</members>
         <members>ReadOnly</members>
         <members>Silver Partner User</members>
         <members>SolutionManager</members>
