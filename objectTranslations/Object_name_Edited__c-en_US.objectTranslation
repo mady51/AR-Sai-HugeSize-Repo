@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Object name Edited</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Object name Edited</value>
+    </caseValues>
+    <fields>
+        <label><!-- Field1 --></label>
+        <name>Field1__c</name>
+        <picklistValues>
+            <masterLabel>Field 4</masterLabel>
+            <translation><!-- Field 4 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Field 5</masterLabel>
+            <translation><!-- Field 5 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Field 6</masterLabel>
+            <translation><!-- Field 6 --></translation>
+        </picklistValues>
+    </fields>
+    <recordTypes>
+        <label><!-- New Test1 --></label>
+        <name>New_Test1</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Record Type 1 --></label>
+        <name>Record_Type_1</name>
+    </recordTypes>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

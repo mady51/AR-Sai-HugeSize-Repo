@@ -45,19 +45,71 @@
         <type>CustomApplication</type>
     </appMenuItems>
     <appMenuItems>
+        <name>standard__LightningSalesConsole</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>standard__LightningService</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
+    <appMenuItems>
         <name>standard__LightningSales</name>
         <type>CustomApplication</type>
     </appMenuItems>
     <appMenuItems>
-        <name>standard__AllTabSet</name>
+        <name>standard__LightningBolt</name>
         <type>CustomApplication</type>
     </appMenuItems>
     <appMenuItems>
-        <name>CPQIntegrationUserApp</name>
+        <name>standard__LightningInstrumentation</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>AutoRabit_Connected</name>
         <type>ConnectedApp</type>
     </appMenuItems>
     <appMenuItems>
-        <name>standard__LightningBolt</name>
+        <name>Energy_Consultations</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>Dataloader_Bulk</name>
+        <type>ConnectedApp</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>Dataloader_Partner</name>
+        <type>ConnectedApp</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>Forcecom_IDE</name>
+        <type>ConnectedApp</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>Forcecom_Migration_Tool</name>
+        <type>ConnectedApp</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>Salesforce_Mobile_Dashboards</name>
+        <type>ConnectedApp</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>Salesforce_Touch</name>
+        <type>ConnectedApp</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>Salesforce_for_Outlook</name>
+        <type>ConnectedApp</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>Workbench</name>
+        <type>ConnectedApp</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>Ursa_Major_Solar_Service_Console</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>Suggestion_Box</name>
         <type>CustomApplication</type>
     </appMenuItems>
     <appMenuItems>
@@ -65,7 +117,39 @@
         <type>CustomApplication</type>
     </appMenuItems>
     <appMenuItems>
+        <name>DEVHUB_lauzdrlhvppgz5jsn7io</name>
+        <type>ConnectedApp</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>GuestHelpCenter</name>
+        <type>Network</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>GuestCommunity</name>
+        <type>Network</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>standard__AllTabSet</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
+    <appMenuItems>
         <name>standard__Commerce</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>bofc__Bulk_Object_Field_Creator</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>OwnHouse</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>AutoRABIT</name>
+        <type>ConnectedApp</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>trlhdtips__Playground_Starter</name>
         <type>CustomApplication</type>
     </appMenuItems>
 </AppMenu>

@@ -9,4 +9,11 @@
     <tabs>standard-OtherUserProfile</tabs>
     <tabs>standard-CollaborationGroup</tabs>
     <tabs>standard-File</tabs>
+    <tabs>Property__c</tabs>
+    <tabs>Suggestion__c</tabs>
+    <tabs>DeployValidate1__c</tabs>
+    <tabs>DestObj2__c</tabs>
+    <tabs>DestObj1__c</tabs>
+    <tabs>Brand__c</tabs>
+    <tabs>POC_Request__c</tabs>
 </CustomApplication>

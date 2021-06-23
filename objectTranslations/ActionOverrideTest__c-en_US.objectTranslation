@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>ActionOverrideTest</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>ActionOverrideTests</value>
+    </caseValues>
+    <fields>
+        <label><!-- ActionOverrideTest --></label>
+        <name>ActionTest1__c</name>
+        <relationshipLabel><!-- ActionOverrideTests --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- ActionTest2 --></label>
+        <name>ActionTest2__c</name>
+        <picklistValues>
+            <masterLabel>abc</masterLabel>
+            <translation><!-- abc --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>def</masterLabel>
+            <translation><!-- def --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>efg</masterLabel>
+            <translation><!-- efg --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Case28438 --></label>
+        <name>Case_del__c</name>
+    </fields>
+    <fields>
+        <label><!-- Contact --></label>
+        <name>ContactAddress_del__c</name>
+        <relationshipLabel><!-- ActionOverrideTests --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- DeleteField1 --></label>
+        <name>DeleteField1__c</name>
+    </fields>
+    <fields>
+        <label><!-- DeleteTab --></label>
+        <name>DeleteTab__c</name>
+    </fields>
+    <fields>
+        <label><!-- FCSAField --></label>
+        <name>FCSAField__c</name>
+    </fields>
+    <fields>
+        <label><!-- FLSTest --></label>
+        <name>FLSTest__c</name>
+    </fields>
+    <fields>
+        <label><!-- Ignore Miss Final 2 --></label>
+        <name>Ignore_Miss_Final_2__c</name>
+    </fields>
+    <fields>
+        <label><!-- Ignore Miss Final --></label>
+        <name>Ignore_Miss_Final__c</name>
+    </fields>
+    <fields>
+        <label><!-- Account --></label>
+        <name>MasterField__c</name>
+        <relationshipLabel><!-- ActionOverrideTests --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- New Object --></label>
+        <name>Object__c</name>
+        <relationshipLabel><!-- ActionOverrideTests --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Override1 --></label>
+        <name>Override1__c</name>
+    </fields>
+    <fields>
+        <label><!-- Override2 --></label>
+        <name>Override2__c</name>
+    </fields>
+    <fields>
+        <label><!-- Override3 --></label>
+        <name>Override3__c</name>
+    </fields>
+    <fields>
+        <label><!-- PackageTest --></label>
+        <name>PackageTest__c</name>
+    </fields>
+    <fields>
+        <label><!-- Product --></label>
+        <name>Sales_Product__c</name>
+        <relationshipLabel><!-- ActionOverrideTests --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Order --></label>
+        <name>Test1__c</name>
+        <relationshipLabel><!-- ActionOverrideTests --></relationshipLabel>
+    </fields>
+    <recordTypes>
+        <label><!-- Action1 --></label>
+        <name>Action1</name>
+    </recordTypes>
+    <startsWith>Consonant</startsWith>
+    <webLinks>
+        <label><!-- WebLink --></label>
+        <name>WebLink</name>
+    </webLinks>
+</CustomObjectTranslation>

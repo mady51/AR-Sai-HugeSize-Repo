@@ -42,6 +42,29 @@
     </layoutSections>
     <layoutSections>
         <customLabel>false</customLabel>
+        <detailHeading>true</detailHeading>
+        <editHeading>true</editHeading>
+        <label>System Information</label>
+        <layoutColumns>
+            <layoutItems>
+                <behavior>Readonly</behavior>
+                <field>CreatedById</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>OwnerId</field>
+            </layoutItems>
+        </layoutColumns>
+        <layoutColumns>
+            <layoutItems>
+                <behavior>Readonly</behavior>
+                <field>LastModifiedById</field>
+            </layoutItems>
+        </layoutColumns>
+        <style>TwoColumnsLeftToRight</style>
+    </layoutSections>
+    <layoutSections>
+        <customLabel>false</customLabel>
         <detailHeading>false</detailHeading>
         <editHeading>false</editHeading>
         <label>Custom Links</label>
@@ -66,11 +89,26 @@
         <relatedList>AssociatedLocations</relatedList>
     </relatedLists>
     <relatedLists>
+        <relatedList>RelatedFileList</relatedList>
+    </relatedLists>
+    <relatedLists>
+        <fields>Name</fields>
+        <fields>LocationType</fields>
+        <fields>CreatedBy</fields>
+        <relatedList>ChildLocations</relatedList>
+    </relatedLists>
+    <relatedLists>
         <fields>Name</fields>
         <fields>Product2</fields>
         <fields>QuantityOnHand</fields>
         <fields>QuantityUnitOfMeasure</fields>
         <relatedList>ProductItems</relatedList>
+    </relatedLists>
+    <relatedLists>
+        <fields>Name</fields>
+        <fields>ServiceTerritory</fields>
+        <fields>Location</fields>
+        <relatedList>ServiceTerritoryLocations</relatedList>
     </relatedLists>
     <relatedLists>
         <fields>ASSET.NAME</fields>
@@ -83,7 +121,76 @@
         <relatedList>RelatedAssetList</relatedList>
     </relatedLists>
     <relatedLists>
+        <fields>Name</fields>
+        <fields>DestinationLocation</fields>
+        <fields>SourceLocation</fields>
+        <fields>Status</fields>
+        <fields>CreatedBy</fields>
+        <relatedList>DestinationReturnOrders</relatedList>
+    </relatedLists>
+    <relatedLists>
+        <fields>Name</fields>
+        <fields>DestinationLocation</fields>
+        <fields>SourceLocation</fields>
+        <fields>Status</fields>
+        <fields>CreatedBy</fields>
+        <relatedList>SourceReturnOrders</relatedList>
+    </relatedLists>
+    <relatedLists>
+        <fields>Name</fields>
+        <fields>ReturnOrder</fields>
+        <fields>DestinationLocation</fields>
+        <fields>SourceLocation</fields>
+        <fields>CreatedBy</fields>
+        <relatedList>DestinationReturnOrderLineItems</relatedList>
+    </relatedLists>
+    <relatedLists>
+        <fields>Name</fields>
+        <fields>ReturnOrder</fields>
+        <fields>DestinationLocation</fields>
+        <fields>SourceLocation</fields>
+        <fields>CreatedBy</fields>
+        <relatedList>SourceReturnOrderLineItems</relatedList>
+    </relatedLists>
+    <relatedLists>
+        <fields>Name</fields>
+        <fields>StartDate</fields>
+        <fields>EndDate</fields>
+        <fields>NextSuggestedMaintenanceDate</fields>
+        <fields>Frequency</fields>
+        <fields>FrequencyType</fields>
+        <relatedList>MaintenancePlans</relatedList>
+    </relatedLists>
+    <relatedLists>
         <relatedList>RelatedEntityHistoryList</relatedList>
+    </relatedLists>
+    <relatedLists>
+        <fields>CreatedDate</fields>
+        <fields>StepStatus</fields>
+        <fields>OriginalActor</fields>
+        <fields>Actor</fields>
+        <fields>Comments</fields>
+        <relatedList>RelatedProcessHistoryList</relatedList>
+    </relatedLists>
+    <relatedLists>
+        <fields>Name</fields>
+        <fields>Product2</fields>
+        <fields>SourceProductItem</fields>
+        <fields>QuantitySent</fields>
+        <fields>DestinationLocation</fields>
+        <fields>IsReceived</fields>
+        <fields>LastModifiedDate</fields>
+        <relatedList>SourceProductTransfers</relatedList>
+    </relatedLists>
+    <relatedLists>
+        <fields>Name</fields>
+        <fields>Product2</fields>
+        <fields>SourceProductItem</fields>
+        <fields>QuantityReceived</fields>
+        <fields>SourceLocation</fields>
+        <fields>IsReceived</fields>
+        <fields>LastModifiedDate</fields>
+        <relatedList>DestinationProductTransfers</relatedList>
     </relatedLists>
     <relatedObjects>ParentLocationId</relatedObjects>
     <showEmailCheckbox>false</showEmailCheckbox>

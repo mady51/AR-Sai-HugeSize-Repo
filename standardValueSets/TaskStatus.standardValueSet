@@ -31,4 +31,16 @@
         <label>Deferred</label>
         <closed>false</closed>
     </standardValue>
+    <standardValue>
+        <fullName>Day 1 AM Call</fullName>
+        <default>false</default>
+        <label>Day 1 AM Call</label>
+        <closed>false</closed>
+    </standardValue>
+    <standardValue>
+        <fullName>Day 2 PM Call</fullName>
+        <default>false</default>
+        <label>Day 2 PM Call</label>
+        <closed>false</closed>
+    </standardValue>
 </StandardValueSet>

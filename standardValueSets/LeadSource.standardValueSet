@@ -22,8 +22,23 @@
         <label>Purchased List</label>
     </standardValue>
     <standardValue>
-        <fullName>Other</fullName>
+        <fullName>Test</fullName>
         <default>false</default>
-        <label>Other</label>
+        <label>Test</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Test2</fullName>
+        <default>false</default>
+        <label>Test2</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Partner</fullName>
+        <default>false</default>
+        <label>Partner</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Word of mouth</fullName>
+        <default>false</default>
+        <label>Word of mouth</label>
     </standardValue>
 </StandardValueSet>

@@ -12,9 +12,17 @@
     <tabs>standard-Forecasting3</tabs>
     <tabs>standard-Contract</tabs>
     <tabs>standard-Order</tabs>
+    <tabs>standard-Invoice</tabs>
     <tabs>standard-Case</tabs>
     <tabs>standard-Solution</tabs>
     <tabs>standard-Product2</tabs>
     <tabs>standard-report</tabs>
     <tabs>standard-Dashboard</tabs>
+    <tabs>Property__c</tabs>
+    <tabs>Suggestion__c</tabs>
+    <tabs>DeployValidate1__c</tabs>
+    <tabs>DestObj2__c</tabs>
+    <tabs>DestObj1__c</tabs>
+    <tabs>Brand__c</tabs>
+    <tabs>POC_Request__c</tabs>
 </CustomApplication>

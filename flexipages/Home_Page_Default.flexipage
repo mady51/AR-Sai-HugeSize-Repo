@@ -3,15 +3,6 @@
     <flexiPageRegions>
         <itemInstances>
             <componentInstance>
-                <componentInstanceProperties>
-                    <name>flavor</name>
-                    <value>list</value>
-                </componentInstanceProperties>
-                <componentName>home:newsPanel</componentName>
-            </componentInstance>
-        </itemInstances>
-        <itemInstances>
-            <componentInstance>
                 <componentName>home:heroChart</componentName>
             </componentInstance>
         </itemInstances>
@@ -50,6 +41,11 @@
         <type>Region</type>
     </flexiPageRegions>
     <flexiPageRegions>
+        <itemInstances>
+            <componentInstance>
+                <componentName>helloWorld</componentName>
+            </componentInstance>
+        </itemInstances>
         <itemInstances>
             <componentInstance>
                 <componentName>home:assistant</componentName>

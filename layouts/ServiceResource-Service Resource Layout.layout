@@ -11,7 +11,7 @@
                 <field>Name</field>
             </layoutItems>
             <layoutItems>
-                <behavior>Required</behavior>
+                <behavior>Edit</behavior>
                 <field>RelatedRecordId</field>
             </layoutItems>
             <layoutItems>
@@ -84,6 +84,25 @@
         <relatedList>ServiceResourceSkills</relatedList>
     </relatedLists>
     <relatedLists>
+        <fields>TASK.SUBJECT</fields>
+        <fields>TASK.WHO_NAME</fields>
+        <fields>ACTIVITY.TASK</fields>
+        <fields>TASK.DUE_DATE</fields>
+        <fields>TASK.STATUS</fields>
+        <fields>TASK.PRIORITY</fields>
+        <fields>CORE.USERS.FULL_NAME</fields>
+        <relatedList>RelatedActivityList</relatedList>
+    </relatedLists>
+    <relatedLists>
+        <fields>TASK.SUBJECT</fields>
+        <fields>TASK.WHO_NAME</fields>
+        <fields>ACTIVITY.TASK</fields>
+        <fields>TASK.DUE_DATE</fields>
+        <fields>CORE.USERS.FULL_NAME</fields>
+        <fields>TASK.LAST_UPDATE</fields>
+        <relatedList>RelatedHistoryList</relatedList>
+    </relatedLists>
+    <relatedLists>
         <fields>Name</fields>
         <fields>ServiceTerritory</fields>
         <fields>TerritoryType</fields>
@@ -113,6 +132,35 @@
         <fields>CapacityInWorkItems</fields>
         <fields>TimePeriod</fields>
         <relatedList>ResourceCapacities</relatedList>
+    </relatedLists>
+    <relatedLists>
+        <fields>Name</fields>
+        <fields>StartDate</fields>
+        <fields>EndDate</fields>
+        <relatedList>TimeSheets</relatedList>
+    </relatedLists>
+    <relatedLists>
+        <fields>Name</fields>
+        <fields>ServiceCrew</fields>
+        <fields>IsLeader</fields>
+        <fields>StartDate</fields>
+        <fields>EndDate</fields>
+        <relatedList>ServiceCrews</relatedList>
+    </relatedLists>
+    <relatedLists>
+        <fields>CreatedDate</fields>
+        <fields>StepStatus</fields>
+        <fields>OriginalActor</fields>
+        <fields>Actor</fields>
+        <fields>Comments</fields>
+        <relatedList>RelatedProcessHistoryList</relatedList>
+    </relatedLists>
+    <relatedLists>
+        <fields>Label</fields>
+        <fields>StartTime</fields>
+        <fields>EndTime</fields>
+        <fields>Status</fields>
+        <relatedList>ServiceResourceShifts</relatedList>
     </relatedLists>
     <showEmailCheckbox>false</showEmailCheckbox>
     <showRunAssignmentRulesCheckbox>false</showRunAssignmentRulesCheckbox>

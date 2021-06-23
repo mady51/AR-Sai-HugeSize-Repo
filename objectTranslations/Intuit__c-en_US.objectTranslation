@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Intuit 17580</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Intuits</value>
+    </caseValues>
+    <fields>
+        <help><!-- Incremental --></help>
+        <label><!-- Intuit Field1 --></label>
+        <name>Intuit_Field1__c</name>
+    </fields>
+    <fields>
+        <help><!-- Incremental --></help>
+        <label><!-- Intuit Field2 --></label>
+        <name>Intuit_Field2__c</name>
+    </fields>
+    <fields>
+        <help><!-- jfsdfjdslfsdjf --></help>
+        <label><!-- Intuit Field3 --></label>
+        <name>Intuit_Field3__c</name>
+    </fields>
+    <fields>
+        <help><!-- ssddssdcsd --></help>
+        <label><!-- Intuit Field4 --></label>
+        <name>Intuit_Field4__c</name>
+    </fields>
+    <fields>
+        <label><!-- Intuit Field5 --></label>
+        <name>Intuit_Field5__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

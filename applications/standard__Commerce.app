@@ -6,30 +6,19 @@
     <label>Commerce</label>
     <navType>Console</navType>
     <tabs>standard-home</tabs>
-    <tabs>standard-ProductWorkspace</tabs>
-    <tabs>standard-ProductCatalog</tabs>
     <tabs>standard-Pricebook2</tabs>
-    <tabs>standard-PriceAdjustmentSchedule</tabs>
     <tabs>standard-Account</tabs>
     <tabs>standard-Contact</tabs>
-    <tabs>standard-CommerceEntitlementPolicy</tabs>
-    <tabs>standard-BuyerGroup</tabs>
     <tabs>standard-report</tabs>
     <tabs>standard-Order</tabs>
-    <tabs>standard-CommerceSetup</tabs>
+    <tabs>POC_Request__c</tabs>
     <uiType>Lightning</uiType>
     <workspaceConfig>
         <mappings>
+            <tab>POC_Request__c</tab>
+        </mappings>
+        <mappings>
             <tab>standard-Account</tab>
-        </mappings>
-        <mappings>
-            <tab>standard-BuyerGroup</tab>
-        </mappings>
-        <mappings>
-            <tab>standard-CommerceEntitlementPolicy</tab>
-        </mappings>
-        <mappings>
-            <tab>standard-CommerceSetup</tab>
         </mappings>
         <mappings>
             <tab>standard-Contact</tab>
@@ -38,16 +27,7 @@
             <tab>standard-Order</tab>
         </mappings>
         <mappings>
-            <tab>standard-PriceAdjustmentSchedule</tab>
-        </mappings>
-        <mappings>
             <tab>standard-Pricebook2</tab>
-        </mappings>
-        <mappings>
-            <tab>standard-ProductCatalog</tab>
-        </mappings>
-        <mappings>
-            <tab>standard-ProductWorkspace</tab>
         </mappings>
         <mappings>
             <tab>standard-home</tab>

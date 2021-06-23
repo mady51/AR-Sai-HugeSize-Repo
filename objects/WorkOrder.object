@@ -142,7 +142,7 @@
     </actionOverrides>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <enableFeeds>true</enableFeeds>
-    <externalSharingModel>Private</externalSharingModel>
+    <externalSharingModel>ReadWrite</externalSharingModel>
     <fields>
         <fullName>AccountId</fullName>
         <trackFeedHistory>false</trackFeedHistory>
@@ -161,6 +161,25 @@
         <type>Lookup</type>
     </fields>
     <fields>
+        <fullName>AssetWarrantyId</fullName>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>AutorabitExtId__c</fullName>
+        <caseSensitive>false</caseSensitive>
+        <description>External Id created by AutoRABIT</description>
+        <externalId>true</externalId>
+        <label>AutorabitExtId__c</label>
+        <length>18</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>true</unique>
+    </fields>
+    <fields>
         <fullName>BusinessHoursId</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <trackHistory>false</trackHistory>
@@ -177,6 +196,11 @@
         <trackFeedHistory>false</trackFeedHistory>
         <trackHistory>false</trackHistory>
         <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>CurrencyIsoCode</fullName>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
     </fields>
     <fields>
         <fullName>Description</fullName>
@@ -202,6 +226,12 @@
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
+        <fullName>EntitlementId</fullName>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Lookup</type>
+    </fields>
+    <fields>
         <fullName>GrandTotal</fullName>
     </fields>
     <fields>
@@ -211,6 +241,11 @@
     </fields>
     <fields>
         <fullName>IsGeneratedFromMaintenancePlan</fullName>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
+        <fullName>IsStopped</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <trackHistory>false</trackHistory>
     </fields>
@@ -230,6 +265,18 @@
         <trackFeedHistory>false</trackFeedHistory>
         <trackHistory>false</trackHistory>
         <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>MaintenanceWorkRuleId</fullName>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>MilestoneStatus</fullName>
+    </fields>
+    <fields>
+        <fullName>MilestoneStatusIcon</fullName>
     </fields>
     <fields>
         <fullName>MinimumCrewSize</fullName>
@@ -261,6 +308,18 @@
         <type>Picklist</type>
     </fields>
     <fields>
+        <fullName>ProductServiceCampaignId</fullName>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>ProductServiceCampaignItemId</fullName>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Lookup</type>
+    </fields>
+    <fields>
         <fullName>RecommendedCrewSize</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <trackHistory>false</trackHistory>
@@ -285,6 +344,12 @@
         <fullName>ServiceAppointmentCount</fullName>
     </fields>
     <fields>
+        <fullName>ServiceContractId</fullName>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Lookup</type>
+    </fields>
+    <fields>
         <fullName>ServiceReportLanguage</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <trackHistory>false</trackHistory>
@@ -302,6 +367,16 @@
         <type>Lookup</type>
     </fields>
     <fields>
+        <fullName>SlaExitDate</fullName>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
+        <fullName>SlaStartDate</fullName>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
         <fullName>StartDate</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <trackHistory>false</trackHistory>
@@ -314,6 +389,11 @@
     </fields>
     <fields>
         <fullName>StatusCategory</fullName>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
+        <fullName>StopStartDate</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <trackHistory>false</trackHistory>
     </fields>

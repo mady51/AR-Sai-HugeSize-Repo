@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Benifit</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Benifits</value>
+    </caseValues>
+    <fields>
+        <label><!-- TestActivity --></label>
+        <name>TestActivity__c</name>
+        <relationshipLabel><!-- Benifits --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- TestActivity --></label>
+        <name>TestActivity_del_del__c</name>
+        <relationshipLabel><!-- Benifits --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- contact det --></label>
+        <name>contact_det_del__c</name>
+    </fields>
+    <fields>
+        <label><!-- share --></label>
+        <name>share_del_del__c</name>
+    </fields>
+    <fields>
+        <label><!-- xmlfile --></label>
+        <name>xmlfile_del_del__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

@@ -36,4 +36,14 @@
         <default>false</default>
         <label>Sales Rep</label>
     </standardValue>
+    <standardValue>
+        <fullName>Customer Support Rep</fullName>
+        <default>false</default>
+        <label>Customer Support Rep</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Sales Engineer</fullName>
+        <default>false</default>
+        <label>Sales Engineer</label>
+    </standardValue>
 </StandardValueSet>

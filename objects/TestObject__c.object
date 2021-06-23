@@ -154,21 +154,28 @@
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>ReadWrite</externalSharingModel>
     <fields>
-        <fullName>TestField__c</fullName>
+        <fullName>JefferiesF1__c</fullName>
+        <deleteConstraint>SetNull</deleteConstraint>
         <externalId>false</externalId>
-        <label>TestField</label>
-        <length>32</length>
+        <label>Account</label>
+        <referenceTo>Account</referenceTo>
+        <relationshipLabel>TestObjects</relationshipLabel>
+        <relationshipName>TestObjects</relationshipName>
         <required>false</required>
         <trackTrending>false</trackTrending>
-        <type>Text</type>
-        <unique>false</unique>
+        <type>Lookup</type>
     </fields>
     <label>TestObject</label>
     <nameField>
         <label>TestObject Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>TestObject</pluralLabel>
+    <pluralLabel>TestObjects</pluralLabel>
+    <recordTypes>
+        <fullName>X29765Test1RecordType</fullName>
+        <active>true</active>
+        <label>29765Test1RecordType</label>
+    </recordTypes>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>

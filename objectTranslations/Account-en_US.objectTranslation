@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Prospect Rating</value>
+        </caseValues>
+        <name>rating_account</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <help><!-- Help Text --></help>
+        <label><!-- AN1 --></label>
+        <name>AN1__c</name>
+    </fields>
+    <fields>
+        <help><!-- 3= Name/Text
+2= Text
+1= Name --></help>
+        <label><!-- Account Test --></label>
+        <name>Account_Test__c</name>
+    </fields>
+    <fields>
+        <label><!-- Active --></label>
+        <name>Active__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>True</masterLabel>
+            <translation><!-- True --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- AppendField --></label>
+        <name>AppendField__c</name>
+        <picklistValues>
+            <masterLabel>Append</masterLabel>
+            <translation><!-- Append --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Close</masterLabel>
+            <translation><!-- Close --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Delete</masterLabel>
+            <translation><!-- Delete --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Open</masterLabel>
+            <translation><!-- Open --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Replace</masterLabel>
+            <translation><!-- Replace --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ReplaceAll</masterLabel>
+            <translation><!-- ReplaceAll --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- AutorabitExtId__c --></label>
+        <name>AutorabitExtId__c</name>
+    </fields>
+    <fields>
+        <label><!-- Broker Pricing --></label>
+        <name>Broker_Pricing__c</name>
+        <picklistValues>
+            <masterLabel>Broker&apos;s Price1</masterLabel>
+            <translation><!-- Broker&apos;s Price1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Broker&apos;s Price2</masterLabel>
+            <translation><!-- Broker&apos;s Price2 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Customer Priority --></label>
+        <name>CustomerPriority__c</name>
+        <picklistValues>
+            <masterLabel>High</masterLabel>
+            <translation><!-- High --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Low</masterLabel>
+            <translation><!-- Low --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Medium</masterLabel>
+            <translation><!-- Medium --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Data Quality Description --></label>
+        <name>Data_Quality_Description__c</name>
+    </fields>
+    <fields>
+        <label><!-- Data Quality Score --></label>
+        <name>Data_Quality_Score__c</name>
+    </fields>
+    <fields>
+        <label><!-- DryRunDec12 --></label>
+        <name>DryRunDec12__c</name>
+    </fields>
+    <fields>
+        <help><!-- Does this customer have a current support plan? Check this box when you sell a support plan to this customer. --></help>
+        <label><!-- Has Support Plan --></label>
+        <name>Has_Support_Plan__c</name>
+    </fields>
+    <fields>
+        <label><!-- IgnoreTest --></label>
+        <name>IgnoreTest__c</name>
+    </fields>
+    <fields>
+        <label><!-- Language Preferrence --></label>
+        <name>Language_Preferrence__c</name>
+        <picklistValues>
+            <masterLabel>Kurdish/KurdÎ</masterLabel>
+            <translation><!-- Kurdish/KurdÎ --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- NewField1 --></label>
+        <name>NewField1__c</name>
+    </fields>
+    <fields>
+        <label><!-- NewField2 --></label>
+        <name>NewField2__c</name>
+    </fields>
+    <fields>
+        <label><!-- Number of Locations --></label>
+        <name>NumberofLocations__c</name>
+    </fields>
+    <fields>
+        <label><!-- Picklist Testing --></label>
+        <name>Picklist_Testing__c</name>
+        <picklistValues>
+            <masterLabel>ab</masterLabel>
+            <translation><!-- ab --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>cd</masterLabel>
+            <translation><!-- cd --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- In which region is the customer based? --></help>
+        <label><!-- Region --></label>
+        <name>Region__c</name>
+    </fields>
+    <fields>
+        <label><!-- SLA Expiration Date --></label>
+        <name>SLAExpirationDate__c</name>
+    </fields>
+    <fields>
+        <label><!-- SLA Serial Number --></label>
+        <name>SLASerialNumber__c</name>
+    </fields>
+    <fields>
+        <label><!-- SLA --></label>
+        <name>SLA__c</name>
+        <picklistValues>
+            <masterLabel>Bronze</masterLabel>
+            <translation><!-- Bronze --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Gold</masterLabel>
+            <translation><!-- Gold --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Platinum</masterLabel>
+            <translation><!-- Platinum --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Silver</masterLabel>
+            <translation><!-- Silver --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Sample --></label>
+        <name>Sample__c</name>
+    </fields>
+    <fields>
+        <help><!-- When is the current support plan due for renewal? --></help>
+        <label><!-- Support Plan Expiration Date --></label>
+        <name>Support_Plan_Expiration_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Test Field --></label>
+        <name>Test_Field__c</name>
+    </fields>
+    <fields>
+        <label><!-- Upsell Opportunity --></label>
+        <name>UpsellOpportunity__c</name>
+        <picklistValues>
+            <masterLabel>Maybe</masterLabel>
+            <translation><!-- Maybe --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- In which zone is this customer based? Depends on region. --></help>
+        <label><!-- Zone --></label>
+        <name>Zone__c</name>
+        <picklistValues>
+            <masterLabel>Africa</masterLabel>
+            <translation><!-- Africa --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Caribbean</masterLabel>
+            <translation><!-- Caribbean --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Central America</masterLabel>
+            <translation><!-- Central America --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Central Canada</masterLabel>
+            <translation><!-- Central Canada --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>East Asia</masterLabel>
+            <translation><!-- East Asia --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>East Coast</masterLabel>
+            <translation><!-- East Coast --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Europe</masterLabel>
+            <translation><!-- Europe --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Middle East</masterLabel>
+            <translation><!-- Middle East --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Midwest US</masterLabel>
+            <translation><!-- Midwest US --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mountains and the West</masterLabel>
+            <translation><!-- Mountains and the West --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Northeast US</masterLabel>
+            <translation><!-- Northeast US --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Northern Canada</masterLabel>
+            <translation><!-- Northern Canada --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Oceania</masterLabel>
+            <translation><!-- Oceania --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>South America</masterLabel>
+            <translation><!-- South America --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Southeast Asia</masterLabel>
+            <translation><!-- Southeast Asia --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Southeast US</masterLabel>
+            <translation><!-- Southeast US --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Southwest US</masterLabel>
+            <translation><!-- Southwest US --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>The Prairies</masterLabel>
+            <translation><!-- The Prairies --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>UK + Ireland</masterLabel>
+            <translation><!-- UK + Ireland --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>West US</masterLabel>
+            <translation><!-- West US --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- test --></label>
+        <name>test__c</name>
+    </fields>
+    <recordTypes>
+        <label><!-- AppendTest --></label>
+        <name>AppendTest</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Business Account --></label>
+        <name>Business_Account</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Creating an record type. --></description>
+        <label><!-- Changing Record Type --></label>
+        <name>Changing_Record_Type</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Ez Commit Record --></label>
+        <name>Ez_Commit_Record</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Record Deletion Test2 --></label>
+        <name>Record_Deletion_Test2</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Record Type 3 --></label>
+        <name>Record_Type_3</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Creating an record type. --></description>
+        <label><!-- Record type 1 --></label>
+        <name>Record_type_1</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Creating an record type. --></description>
+        <label><!-- Record type 2 --></label>
+        <name>Record_type_2</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Record type 4 --></label>
+        <name>Record_type_4</name>
+    </recordTypes>
+    <validationRules>
+        <errorMessage><!-- Account Number is not numeric. --></errorMessage>
+        <name>Account_Number_8_Characters</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Account Number is not numeric. --></errorMessage>
+        <name>Account_Number_8_Characters_Test</name>
+    </validationRules>
+    <webLinks>
+        <label><!-- Billing --></label>
+        <name>Billing</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- JudoSample --></label>
+        <name>JudoSample</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Map_Location --></label>
+        <name>Map_Location</name>
+    </webLinks>
+</CustomObjectTranslation>

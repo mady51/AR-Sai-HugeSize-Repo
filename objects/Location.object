@@ -128,7 +128,7 @@
     </actionOverrides>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <enableFeeds>false</enableFeeds>
-    <externalSharingModel>Private</externalSharingModel>
+    <externalSharingModel>ReadWrite</externalSharingModel>
     <fields>
         <fullName>CloseDate</fullName>
         <trackHistory>false</trackHistory>
@@ -147,6 +147,10 @@
     </fields>
     <fields>
         <fullName>DrivingDirections</fullName>
+        <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
+        <fullName>ExternalReference</fullName>
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
@@ -169,6 +173,11 @@
         <fullName>LocationType</fullName>
         <trackHistory>false</trackHistory>
         <type>Picklist</type>
+    </fields>
+    <fields>
+        <fullName>LogoId</fullName>
+        <trackHistory>false</trackHistory>
+        <type>Lookup</type>
     </fields>
     <fields>
         <fullName>Name</fullName>
@@ -234,5 +243,5 @@
         <searchResultsAdditionalFields>LocationType</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>VisitorAddress</searchResultsAdditionalFields>
     </searchLayouts>
-    <sharingModel>Private</sharingModel>
+    <sharingModel>ReadWrite</sharingModel>
 </CustomObject>

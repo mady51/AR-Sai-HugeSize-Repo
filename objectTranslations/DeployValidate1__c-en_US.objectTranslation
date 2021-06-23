@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>DeployValidate1</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>DeployValidates1</value>
+    </caseValues>
+    <fields>
+        <label><!-- Deploy1 --></label>
+        <name>Deploy1__c</name>
+    </fields>
+    <fields>
+        <label><!-- Neuro Sciences --></label>
+        <name>Neuro_Sciences__c</name>
+        <picklistValues>
+            <masterLabel>PharmD</masterLabel>
+            <translation><!-- PharmD --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pharmacy</masterLabel>
+            <translation><!-- Pharmacy --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Primary Care</masterLabel>
+            <translation><!-- Primary Care --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Prostate</masterLabel>
+            <translation><!-- Prostate --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Perioperative Neuro --></label>
+        <name>Perioperative_Neuro__c</name>
+    </fields>
+    <fields>
+        <label><!-- Permission3 --></label>
+        <name>Permission3__c</name>
+    </fields>
+    <fields>
+        <label><!-- Permission Test 2 --></label>
+        <name>Permission_Test_2__c</name>
+    </fields>
+    <fields>
+        <label><!-- Thermo Neuro Sciences --></label>
+        <name>Thermo_Neuro_Sciences__c</name>
+        <picklistValues>
+            <masterLabel>Natural Sciences</masterLabel>
+            <translation><!-- Natural Sciences --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Neutral</masterLabel>
+            <translation><!-- Neutral --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>PharmD</masterLabel>
+            <translation><!-- PharmD --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pharmacy</masterLabel>
+            <translation><!-- Pharmacy --></translation>
+        </picklistValues>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

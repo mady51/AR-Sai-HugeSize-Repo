@@ -1,6 +1,6 @@
 /**
  * An apex class that updates portal user details.
-   Guest users are never able to access this page.
+   Guest users are never able to access this pages.
  */
 public with sharing class MyProfilePageController {
 
@@ -46,7 +46,7 @@ public with sharing class MyProfilePageController {
     public void cancel() {
         isEdit=false;
         user = [SELECT id, email, username, communitynickname, timezonesidkey, languagelocalekey, firstname, lastname, phone, title,
-                street, city, country, postalcode, state, localesidkey, mobilephone, extension, fax, contact.email
+                street, city, country, postalcode, state, localesidkey, mobilephone, fax, contact.email
                 FROM User
                 WHERE id = :UserInfo.getUserId()];
     }    

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmbeddedServiceLiveAgent xmlns="http://soap.sforce.com/2006/04/metadata">
+    <avatarImg>https://c.ap4.visual.force.com/resource/1569604795000/AgentAvatar?</avatarImg>
+    <embeddedServiceConfig>Chat_Agents</embeddedServiceConfig>
+    <embeddedServiceQuickActions>
+        <embeddedServiceLiveAgent>Chat_Agents</embeddedServiceLiveAgent>
+        <order>1</order>
+        <quickActionDefinition>Snapins_Contact_PrechatQuickAction_08h6F0000008Pqc</quickActionDefinition>
+        <quickActionType>Prechat</quickActionType>
+    </embeddedServiceQuickActions>
+    <embeddedServiceQuickActions>
+        <embeddedServiceLiveAgent>Chat_Agents</embeddedServiceLiveAgent>
+        <order>2</order>
+        <quickActionDefinition>Snapins_Case_PrechatQuickAction_08h6F0000008Pqc</quickActionDefinition>
+        <quickActionType>Prechat</quickActionType>
+    </embeddedServiceQuickActions>
+    <enabled>true</enabled>
+    <fontSize>Medium</fontSize>
+    <isOfflineCaseEnabled>false</isOfflineCaseEnabled>
+    <isQueuePositionEnabled>false</isQueuePositionEnabled>
+    <liveChatButton>Chat_Agents</liveChatButton>
+    <liveChatDeployment>live_agent_setup_flow</liveChatDeployment>
+    <masterLabel>Chat Agents</masterLabel>
+    <prechatEnabled>false</prechatEnabled>
+    <scenario>Service</scenario>
+    <smallCompanyLogoImg>https://c.ap4.visual.force.com/resource/1569581327000/Logo</smallCompanyLogoImg>
+</EmbeddedServiceLiveAgent>

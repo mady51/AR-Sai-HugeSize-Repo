@@ -179,7 +179,36 @@
     <tabs>standard-Case</tabs>
     <tabs>standard-Opportunity</tabs>
     <tabs>standard-Lead</tabs>
+    <tabs>standard-Knowledge</tabs>
+    <tabs>Property__c</tabs>
+    <tabs>Suggestion__c</tabs>
+    <tabs>DeployValidate1__c</tabs>
+    <tabs>DestObj2__c</tabs>
+    <tabs>DestObj1__c</tabs>
+    <tabs>Brand__c</tabs>
+    <tabs>POC_Request__c</tabs>
     <workspaceConfig>
+        <mappings>
+            <tab>Brand__c</tab>
+        </mappings>
+        <mappings>
+            <tab>DeployValidate1__c</tab>
+        </mappings>
+        <mappings>
+            <tab>DestObj1__c</tab>
+        </mappings>
+        <mappings>
+            <tab>DestObj2__c</tab>
+        </mappings>
+        <mappings>
+            <tab>POC_Request__c</tab>
+        </mappings>
+        <mappings>
+            <tab>Property__c</tab>
+        </mappings>
+        <mappings>
+            <tab>Suggestion__c</tab>
+        </mappings>
         <mappings>
             <tab>standard-Account</tab>
         </mappings>
@@ -190,6 +219,9 @@
         <mappings>
             <fieldName>AccountId</fieldName>
             <tab>standard-Contact</tab>
+        </mappings>
+        <mappings>
+            <tab>standard-Knowledge</tab>
         </mappings>
         <mappings>
             <tab>standard-Lead</tab>

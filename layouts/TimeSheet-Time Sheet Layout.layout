@@ -8,10 +8,6 @@
         <label>Information</label>
         <layoutColumns>
             <layoutItems>
-                <behavior>Readonly</behavior>
-                <field>TotalDurationInHours</field>
-            </layoutItems>
-            <layoutItems>
                 <behavior>Required</behavior>
                 <field>StartDate</field>
             </layoutItems>
@@ -23,6 +19,10 @@
                 <behavior>Readonly</behavior>
                 <field>TimeSheetEntryCount</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>CurrencyIsoCode</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
@@ -32,6 +32,10 @@
             <layoutItems>
                 <behavior>Required</behavior>
                 <field>ServiceResourceId</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Readonly</behavior>
+                <field>TotalDurationInHours</field>
             </layoutItems>
         </layoutColumns>
         <style>TwoColumnsLeftToRight</style>
@@ -65,9 +69,6 @@
         <layoutColumns/>
         <style>CustomLinks</style>
     </layoutSections>
-    <miniLayout>
-        <fields>TotalDurationInHours</fields>
-    </miniLayout>
     <relatedLists>
         <fields>TASK.SUBJECT</fields>
         <fields>TASK.WHO_NAME</fields>

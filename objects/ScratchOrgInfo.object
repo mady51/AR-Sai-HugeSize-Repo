@@ -210,12 +210,36 @@
         <trackHistory>true</trackHistory>
     </fields>
     <fields>
+        <fullName>SourceOrg</fullName>
+        <trackHistory>true</trackHistory>
+    </fields>
+    <fields>
         <fullName>Status</fullName>
         <trackHistory>true</trackHistory>
     </fields>
     <fields>
         <fullName>Username</fullName>
         <trackHistory>true</trackHistory>
+    </fields>
+    <fields>
+        <fullName>release__c</fullName>
+        <externalId>false</externalId>
+        <label>release</label>
+        <length>18</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>workitem__c</fullName>
+        <externalId>false</externalId>
+        <label>workitem</label>
+        <length>16</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
     </fields>
     <listViews>
         <fullName>All_Scratch_Org_Infos</fullName>

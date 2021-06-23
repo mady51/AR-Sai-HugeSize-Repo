@@ -113,9 +113,10 @@
         <type>Default</type>
     </actionOverrides>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
-    <enableFeeds>false</enableFeeds>
+    <enableFeeds>true</enableFeeds>
     <fields>
         <fullName>ActivityDate</fullName>
+        <trackFeedHistory>true</trackFeedHistory>
     </fields>
     <fields>
         <fullName>CallDisposition</fullName>
@@ -131,6 +132,7 @@
     </fields>
     <fields>
         <fullName>Description</fullName>
+        <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
         <fullName>Email</fullName>
@@ -142,7 +144,12 @@
         <fullName>IsReminderSet</fullName>
     </fields>
     <fields>
+        <fullName>IsVisibleInSelfService</fullName>
+        <trackFeedHistory>false</trackFeedHistory>
+    </fields>
+    <fields>
         <fullName>OwnerId</fullName>
+        <trackFeedHistory>true</trackFeedHistory>
         <type>Lookup</type>
     </fields>
     <fields>
@@ -150,6 +157,7 @@
     </fields>
     <fields>
         <fullName>Priority</fullName>
+        <trackFeedHistory>true</trackFeedHistory>
         <type>Picklist</type>
     </fields>
     <fields>
@@ -160,10 +168,12 @@
     </fields>
     <fields>
         <fullName>Status</fullName>
+        <trackFeedHistory>false</trackFeedHistory>
         <type>Picklist</type>
     </fields>
     <fields>
         <fullName>Subject</fullName>
+        <trackFeedHistory>false</trackFeedHistory>
         <type>Picklist</type>
     </fields>
     <fields>
@@ -171,14 +181,17 @@
     </fields>
     <fields>
         <fullName>Type</fullName>
+        <trackFeedHistory>false</trackFeedHistory>
         <type>Picklist</type>
     </fields>
     <fields>
         <fullName>WhatId</fullName>
+        <trackFeedHistory>false</trackFeedHistory>
         <type>Lookup</type>
     </fields>
     <fields>
         <fullName>WhoId</fullName>
+        <trackFeedHistory>false</trackFeedHistory>
         <type>Lookup</type>
     </fields>
     <listViews>
@@ -358,6 +371,247 @@
         </filters>
         <label>ENCODED:{!FilterNames.Task_UnscheduledTasks}</label>
     </listViews>
+    <recordTypeTrackFeedHistory>false</recordTypeTrackFeedHistory>
+    <recordTypes>
+        <fullName>TestRecord1</fullName>
+        <active>true</active>
+        <label>TestRecord1</label>
+        <picklistValues>
+            <picklist>Picklist_Field_del__c</picklist>
+            <values>
+                <fullName>ab</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>cd</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>ef</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>gh</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>Priority</picklist>
+            <values>
+                <fullName>Critical</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>High</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Low</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Normal</fullName>
+                <default>true</default>
+            </values>
+            <values>
+                <fullName>Urgent</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>Status</picklist>
+            <values>
+                <fullName>Completed</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Day 1 AM Call</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Day 2 PM Call</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Deferred</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>In Progress</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Not Started</fullName>
+                <default>true</default>
+            </values>
+            <values>
+                <fullName>Waiting on someone else</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>Subject</picklist>
+            <values>
+                <fullName>Call</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Email</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Other</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Send Letter</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Send Quote</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>Type</picklist>
+            <values>
+                <fullName>Call</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Email</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Meeting</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Other</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+    </recordTypes>
+    <recordTypes>
+        <fullName>TestRecord2</fullName>
+        <active>true</active>
+        <label>TestRecord2</label>
+        <picklistValues>
+            <picklist>Picklist_Field_del__c</picklist>
+            <values>
+                <fullName>ab</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>cd</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>ef</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>gh</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>Priority</picklist>
+            <values>
+                <fullName>Critical</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>High</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Low</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Normal</fullName>
+                <default>true</default>
+            </values>
+            <values>
+                <fullName>Urgent</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>Status</picklist>
+            <values>
+                <fullName>Completed</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Day 1 AM Call</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Day 2 PM Call</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Deferred</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>In Progress</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Not Started</fullName>
+                <default>true</default>
+            </values>
+            <values>
+                <fullName>Waiting on someone else</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>Subject</picklist>
+            <values>
+                <fullName>Call</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Email</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Other</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Send Letter</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Send Quote</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>Type</picklist>
+            <values>
+                <fullName>Call</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Email</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Meeting</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Other</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+    </recordTypes>
     <searchLayouts/>
     <sharingModel>Private</sharingModel>
 </CustomObject>

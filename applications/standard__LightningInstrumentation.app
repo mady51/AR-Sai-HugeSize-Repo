@@ -6,16 +6,12 @@
     <label>LightningInstrumentation</label>
     <navType>Standard</navType>
     <tabs>standard-LightningInstrumentation</tabs>
-    <tabs>mob2__c</tabs>
-    <tabs>rcobj1__c</tabs>
-    <tabs>qaobj91__c</tabs>
-    <tabs>configobj2__c</tabs>
-    <tabs>Oct23obj1__c</tabs>
-    <tabs>DlConfigObj151__c</tabs>
-    <tabs>DLConfigTestObj__c</tabs>
-    <tabs>ACR2__c</tabs>
-    <tabs>ACR3__c</tabs>
-    <tabs>Sai_Obj500__c</tabs>
-    <tabs>ContactPointPhone_Contact_Point_Phone_La__c</tabs>
+    <tabs>Property__c</tabs>
+    <tabs>Suggestion__c</tabs>
+    <tabs>DeployValidate1__c</tabs>
+    <tabs>DestObj2__c</tabs>
+    <tabs>DestObj1__c</tabs>
+    <tabs>Brand__c</tabs>
+    <tabs>POC_Request__c</tabs>
     <uiType>Lightning</uiType>
 </CustomApplication>

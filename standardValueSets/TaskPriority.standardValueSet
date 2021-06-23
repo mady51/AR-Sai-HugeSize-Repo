@@ -19,4 +19,16 @@
         <label>Low</label>
         <highPriority>false</highPriority>
     </standardValue>
+    <standardValue>
+        <fullName>Critical</fullName>
+        <default>false</default>
+        <label>Critical</label>
+        <highPriority>false</highPriority>
+    </standardValue>
+    <standardValue>
+        <fullName>Urgent</fullName>
+        <default>false</default>
+        <label>Urgent</label>
+        <highPriority>false</highPriority>
+    </standardValue>
 </StandardValueSet>

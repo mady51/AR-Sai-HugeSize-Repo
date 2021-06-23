@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Customer Availability Calendar</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Customer Availability Calendar</value>
+    </caseValues>
+    <fields>
+        <label><!-- Assigned Partner Field API Name --></label>
+        <name>Assigned_Partner_Field_API_Name__c</name>
+    </fields>
+    <fields>
+        <help><!-- This should be long text area field --></help>
+        <label><!-- Availability API Name --></label>
+        <name>Availability_API_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Comments API Name --></label>
+        <name>Comments_API_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Day End Time --></label>
+        <name>Day_End_Time__c</name>
+        <picklistValues>
+            <masterLabel>1</masterLabel>
+            <translation><!-- 1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>10</masterLabel>
+            <translation><!-- 10 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>11</masterLabel>
+            <translation><!-- 11 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>12</masterLabel>
+            <translation><!-- 12 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>13</masterLabel>
+            <translation><!-- 13 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>14</masterLabel>
+            <translation><!-- 14 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>15</masterLabel>
+            <translation><!-- 15 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>16</masterLabel>
+            <translation><!-- 16 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>17</masterLabel>
+            <translation><!-- 17 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>18</masterLabel>
+            <translation><!-- 18 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>19</masterLabel>
+            <translation><!-- 19 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>2</masterLabel>
+            <translation><!-- 2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>20</masterLabel>
+            <translation><!-- 20 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>21</masterLabel>
+            <translation><!-- 21 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>22</masterLabel>
+            <translation><!-- 22 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>23</masterLabel>
+            <translation><!-- 23 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>3</masterLabel>
+            <translation><!-- 3 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>4</masterLabel>
+            <translation><!-- 4 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>5</masterLabel>
+            <translation><!-- 5 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>6</masterLabel>
+            <translation><!-- 6 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>7</masterLabel>
+            <translation><!-- 7 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>8</masterLabel>
+            <translation><!-- 8 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>9</masterLabel>
+            <translation><!-- 9 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Day Start Time --></label>
+        <name>Day_Start_Time__c</name>
+        <picklistValues>
+            <masterLabel>1</masterLabel>
+            <translation><!-- 1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>10</masterLabel>
+            <translation><!-- 10 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>11</masterLabel>
+            <translation><!-- 11 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>12</masterLabel>
+            <translation><!-- 12 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>13</masterLabel>
+            <translation><!-- 13 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>14</masterLabel>
+            <translation><!-- 14 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>15</masterLabel>
+            <translation><!-- 15 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>16</masterLabel>
+            <translation><!-- 16 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>17</masterLabel>
+            <translation><!-- 17 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>18</masterLabel>
+            <translation><!-- 18 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>19</masterLabel>
+            <translation><!-- 19 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>2</masterLabel>
+            <translation><!-- 2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>20</masterLabel>
+            <translation><!-- 20 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>21</masterLabel>
+            <translation><!-- 21 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>22</masterLabel>
+            <translation><!-- 22 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>23</masterLabel>
+            <translation><!-- 23 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>3</masterLabel>
+            <translation><!-- 3 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>4</masterLabel>
+            <translation><!-- 4 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>5</masterLabel>
+            <translation><!-- 5 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>6</masterLabel>
+            <translation><!-- 6 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>7</masterLabel>
+            <translation><!-- 7 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>8</masterLabel>
+            <translation><!-- 8 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>9</masterLabel>
+            <translation><!-- 9 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Disable Minimum Availabilities --></label>
+        <name>Disable_Minimum_Availabilities__c</name>
+    </fields>
+    <fields>
+        <label><!-- Minimum required days for appointment --></label>
+        <name>Minimum_required_days_for_appointment__c</name>
+    </fields>
+    <fields>
+        <help><!-- No of weeks to show in calendar --></help>
+        <label><!-- No of weeks --></label>
+        <name>No_of_weeks__c</name>
+        <picklistValues>
+            <masterLabel>1</masterLabel>
+            <translation><!-- 1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>2</masterLabel>
+            <translation><!-- 2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>3</masterLabel>
+            <translation><!-- 3 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>4</masterLabel>
+            <translation><!-- 4 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>5</masterLabel>
+            <translation><!-- 5 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>6</masterLabel>
+            <translation><!-- 6 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>7</masterLabel>
+            <translation><!-- 7 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>8</masterLabel>
+            <translation><!-- 8 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>9</masterLabel>
+            <translation><!-- 9 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Object API Name --></label>
+        <name>Object_API_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Record Type Developer Name --></label>
+        <name>Record_Type_Developer_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Unoperational No of hours --></label>
+        <name>Unoperational_No_of_hours__c</name>
+        <picklistValues>
+            <masterLabel>1</masterLabel>
+            <translation><!-- 1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>10</masterLabel>
+            <translation><!-- 10 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>11</masterLabel>
+            <translation><!-- 11 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>12</masterLabel>
+            <translation><!-- 12 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>13</masterLabel>
+            <translation><!-- 13 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>14</masterLabel>
+            <translation><!-- 14 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>15</masterLabel>
+            <translation><!-- 15 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>2</masterLabel>
+            <translation><!-- 2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>3</masterLabel>
+            <translation><!-- 3 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>4</masterLabel>
+            <translation><!-- 4 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>5</masterLabel>
+            <translation><!-- 5 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>6</masterLabel>
+            <translation><!-- 6 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>7</masterLabel>
+            <translation><!-- 7 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>8</masterLabel>
+            <translation><!-- 8 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>9</masterLabel>
+            <translation><!-- 9 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- User Locale --></label>
+        <name>User_Locale__c</name>
+    </fields>
+    <fields>
+        <label><!-- Week Start Day --></label>
+        <name>Week_Start_Day__c</name>
+        <picklistValues>
+            <masterLabel>Friday</masterLabel>
+            <translation><!-- Friday --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Monday</masterLabel>
+            <translation><!-- Monday --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Saturday</masterLabel>
+            <translation><!-- Saturday --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sunday</masterLabel>
+            <translation><!-- Sunday --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Thursday</masterLabel>
+            <translation><!-- Thursday --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Tuesday</masterLabel>
+            <translation><!-- Tuesday --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Wednesday</masterLabel>
+            <translation><!-- Wednesday --></translation>
+        </picklistValues>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

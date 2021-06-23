@@ -14,6 +14,24 @@
         <closed>false</closed>
     </standardValue>
     <standardValue>
+        <fullName>Product Defect Logged</fullName>
+        <default>false</default>
+        <label>Product Defect Logged</label>
+        <closed>false</closed>
+    </standardValue>
+    <standardValue>
+        <fullName>Product Defect Fixed</fullName>
+        <default>false</default>
+        <label>Product Defect Fixed</label>
+        <closed>false</closed>
+    </standardValue>
+    <standardValue>
+        <fullName>On Hold</fullName>
+        <default>false</default>
+        <label>On Hold</label>
+        <closed>false</closed>
+    </standardValue>
+    <standardValue>
         <fullName>Escalated</fullName>
         <default>false</default>
         <label>Escalated</label>

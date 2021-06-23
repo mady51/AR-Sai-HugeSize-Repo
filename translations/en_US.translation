@@ -1,64 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Translations xmlns="http://soap.sforce.com/2006/04/metadata">
-    <customApplications>
-        <label><!-- AppTest1 --></label>
-        <name>AppTest1</name>
-    </customApplications>
     <customLabels>
-        <label><!-- AAtest456 --></label>
-        <name>AAtest456</name>
-    </customLabels>
-    <customLabels>
-        <label>test</label>
+        <label><!-- ac111 --></label>
         <name>AC1</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- AC133 --></label>
-        <name>AC133</name>
     </customLabels>
     <customLabels>
         <label><!-- AC211 --></label>
         <name>AC2</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- AC56 --></label>
-        <name>AC56</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- AC6712 --></label>
-        <name>AC67</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- ACCL1 --></label>
-        <name>ACCL1</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- ACCL3 --></label>
-        <name>ACCL3</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- SACCTest --></label>
-        <name>ACCTest</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- ACCt3 --></label>
-        <name>ACCt3</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- ACL11101 --></label>
-        <name>ACL101</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- ACL11 --></label>
-        <name>ACL11</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- ACL12 --></label>
-        <name>ACL12</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- S22CL2 --></label>
-        <name>ACL2</name>
     </customLabels>
     <customLabels>
         <label><!-- ACL24 --></label>
@@ -69,649 +17,488 @@
         <name>ACL25</name>
     </customLabels>
     <customLabels>
-        <label><!-- ACL3 --></label>
-        <name>ACL3</name>
+        <label><!-- Trigger Testing --></label>
+        <name>Allowed_File_Extensions</name>
     </customLabels>
     <customLabels>
-        <label><!-- ACL4 --></label>
-        <name>ACL4</name>
+        <label><!-- Calendar April --></label>
+        <name>Calendar_April</name>
     </customLabels>
     <customLabels>
-        <label><!-- ACL50 --></label>
-        <name>ACL50</name>
+        <label><!-- Calendar August --></label>
+        <name>Calendar_August</name>
     </customLabels>
     <customLabels>
-        <label><!-- ACL5014 --></label>
-        <name>ACL501</name>
+        <label><!-- Calendar December --></label>
+        <name>Calendar_December</name>
     </customLabels>
     <customLabels>
-        <label><!-- ACL541 --></label>
-        <name>ACL51</name>
+        <label><!-- Calendar February --></label>
+        <name>Calendar_February</name>
     </customLabels>
     <customLabels>
-        <label><!-- ACL90 --></label>
-        <name>ACL90</name>
+        <label><!-- Calendar January --></label>
+        <name>Calendar_January</name>
     </customLabels>
     <customLabels>
-        <label><!-- ACLT11 --></label>
-        <name>ACLT11</name>
+        <label><!-- Calendar July --></label>
+        <name>Calendar_July</name>
     </customLabels>
     <customLabels>
-        <label><!-- ACTNRLabel1 --></label>
-        <name>ACTNRLabel1</name>
+        <label><!-- Calendar June --></label>
+        <name>Calendar_June</name>
     </customLabels>
     <customLabels>
-        <label><!-- ACTNRLabel5 --></label>
-        <name>ACTNRLabel5</name>
+        <label><!-- Calendar March --></label>
+        <name>Calendar_March</name>
     </customLabels>
     <customLabels>
-        <label><!-- ACTNRLabel7 --></label>
-        <name>ACTNRLabel7</name>
+        <label><!-- Calendar May --></label>
+        <name>Calendar_May</name>
     </customLabels>
     <customLabels>
-        <label><!-- ACTNR-Label6 --></label>
-        <name>ACTNR_Label6</name>
+        <label><!-- Calendar November --></label>
+        <name>Calendar_November</name>
     </customLabels>
     <customLabels>
-        <label><!-- ACTNR-Label8 --></label>
-        <name>ACTNR_Label8</name>
+        <label><!-- Calendar October --></label>
+        <name>Calendar_October</name>
     </customLabels>
     <customLabels>
-        <label><!-- ACTRLabel1 --></label>
-        <name>ACTRLabel1</name>
+        <label><!-- Calendar September --></label>
+        <name>Calendar_September</name>
     </customLabels>
     <customLabels>
-        <label><!-- ACl151 --></label>
-        <name>ACl151</name>
+        <label><!-- Created_by_Me --></label>
+        <name>Dashboard_Pal__Created_by_Me</name>
     </customLabels>
     <customLabels>
-        <label><!-- ADDL1 --></label>
-        <name>ADDL1</name>
+        <label><!-- Modal_Acknowledge_Button --></label>
+        <name>Dashboard_Pal__Modal_Acknowledge_Button</name>
     </customLabels>
     <customLabels>
-        <label><!-- AL1 --></label>
-        <name>AL1</name>
+        <label><!-- Modal_Feature1 --></label>
+        <name>Dashboard_Pal__Modal_Feature1</name>
     </customLabels>
     <customLabels>
-        <label><!-- AL12 --></label>
-        <name>AL12</name>
+        <label><!-- Modal_Feature2 --></label>
+        <name>Dashboard_Pal__Modal_Feature2</name>
     </customLabels>
     <customLabels>
-        <label><!-- AL2 --></label>
-        <name>AL2</name>
+        <label><!-- Modal_Feature3 --></label>
+        <name>Dashboard_Pal__Modal_Feature3</name>
     </customLabels>
     <customLabels>
-        <label><!-- APXL1 --></label>
-        <name>APXL1</name>
+        <label><!-- Modal_Feature4 --></label>
+        <name>Dashboard_Pal__Modal_Feature4</name>
     </customLabels>
     <customLabels>
-        <label><!-- APXL2 --></label>
-        <name>APXL2</name>
+        <label><!-- Modal_Heading --></label>
+        <name>Dashboard_Pal__Modal_Heading</name>
     </customLabels>
     <customLabels>
-        <label><!-- AR User Story --></label>
-        <name>AR_User_Story</name>
+        <label><!-- No_Dashboards_Found --></label>
+        <name>Dashboard_Pal__No_Dashboards_Found</name>
     </customLabels>
     <customLabels>
-        <label><!-- AYL1 --></label>
-        <name>AYL1</name>
+        <label><!-- No_Folder_Selected --></label>
+        <name>Dashboard_Pal__No_Folder_Selected</name>
     </customLabels>
     <customLabels>
-        <label><!-- AYL2 --></label>
-        <name>AYL2</name>
+        <label><!-- No Query Results --></label>
+        <name>Dashboard_Pal__No_Query_Results</name>
     </customLabels>
     <customLabels>
-        <label><!-- AnLabel11 --></label>
-        <name>AnLabel11</name>
+        <label><!-- Private_Dashboards --></label>
+        <name>Dashboard_Pal__Private_Dashboards</name>
     </customLabels>
     <customLabels>
-        <label><!-- Apicl2 --></label>
-        <name>Apicl2</name>
+        <label><!-- Select_Dashboard_Label --></label>
+        <name>Dashboard_Pal__Select_Dashboard_Label</name>
     </customLabels>
     <customLabels>
-        <label><!-- CLJUL16PAN01 - New --></label>
-        <name>CLJUL16PAN01</name>
+        <label><!-- Select_Dashboard_Value --></label>
+        <name>Dashboard_Pal__Select_Dashboard_Value</name>
     </customLabels>
     <customLabels>
-        <label><!-- CLJUL16PAN03 --></label>
-        <name>CLJUL16PAN03</name>
+        <label><!-- Select_Folder_Label --></label>
+        <name>Dashboard_Pal__Select_Folder_Label</name>
     </customLabels>
     <customLabels>
-        <label><!-- CLT101 --></label>
-        <name>CLT101</name>
+        <label><!-- Select_Folder_Value --></label>
+        <name>Dashboard_Pal__Select_Folder_Value</name>
     </customLabels>
     <customLabels>
-        <label><!-- CLt200 --></label>
-        <name>CLt200</name>
+        <label><!-- Title --></label>
+        <name>Dashboard_Pal__Title</name>
     </customLabels>
     <customLabels>
-        <label><!-- Cl900 --></label>
-        <name>Cl900</name>
+        <label><!-- Tooltip_Text --></label>
+        <name>Dashboard_Pal__Tooltip_Text</name>
     </customLabels>
     <customLabels>
-        <label><!-- DL1 --></label>
-        <name>DL1</name>
+        <label><!-- DemoLabel --></label>
+        <name>DemoLabel</name>
     </customLabels>
     <customLabels>
-        <label><!-- DXCl2 --></label>
-        <name>DXCl2</name>
+        <label><!-- JefferiesTest1 --></label>
+        <name>JefferiesTest1</name>
     </customLabels>
     <customLabels>
-        <label><!-- DemoCl1 --></label>
-        <name>DemoCl1</name>
+        <label><!-- JefferiesTest2 --></label>
+        <name>JefferiesTest2</name>
     </customLabels>
     <customLabels>
-        <label><!-- DepCl1 --></label>
-        <name>DepCl1</name>
+        <label><!-- Overlay_Notification_Template --></label>
+        <name>Overlay_Notification_Template</name>
     </customLabels>
     <customLabels>
-        <label><!-- Des1234 --></label>
-        <name>Des123</name>
+        <label>US</label>
+        <name>Testing_Final</name>
     </customLabels>
     <customLabels>
-        <label><!-- Des12345 --></label>
-        <name>Des12345</name>
+        <label><!-- BOFCPurchaseLink --></label>
+        <name>bofc__BOFCPurchaseLink</name>
     </customLabels>
     <customLabels>
-        <label><!-- FS_Container_AuthenticationFailure_Title_04I0K000000TN7S_1694902 --></label>
-        <name>FS_Container_AuthenticationFailure_Title_04I0K000000TN7S_1694902</name>
+        <label><!-- createdtoday --></label>
+        <name>createdtoday</name>
     </customLabels>
     <customLabels>
-        <label><!-- Feb8thCl1 --></label>
-        <name>Feb8thCl1</name>
+        <label><!-- tt_BaseURL --></label>
+        <name>trlhdtips__tt_BaseURL</name>
     </customLabels>
     <customLabels>
-        <label><!-- Fgv1 --></label>
-        <name>Fgv1</name>
+        <label><!-- tt_EnterPackageId --></label>
+        <name>trlhdtips__tt_EnterPackageId</name>
     </customLabels>
     <customLabels>
-        <label><!-- HarishLabel2 --></label>
-        <name>HarishLabel2</name>
+        <label><!-- tt_InvalidPackageId --></label>
+        <name>trlhdtips__tt_InvalidPackageId</name>
     </customLabels>
     <customLabels>
-        <label><!-- J1 --></label>
-        <name>J1</name>
+        <label><!-- tt_ResetPasswordFail --></label>
+        <name>trlhdtips__tt_ResetPasswordFail</name>
     </customLabels>
     <customLabels>
-        <label><!-- J2 --></label>
-        <name>J2</name>
+        <label><!-- tt_ResetPasswordSuccess --></label>
+        <name>trlhdtips__tt_ResetPasswordSuccess</name>
     </customLabels>
     <customLabels>
-        <label><!-- KMl1 --></label>
-        <name>KMl1</name>
+        <label><!-- tt_ResetPasswordTitle --></label>
+        <name>trlhdtips__tt_ResetPasswordTitle</name>
     </customLabels>
     <customLabels>
-        <label><!-- Kl1233 --></label>
-        <name>Kl1233</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- L12 --></label>
-        <name>L12</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- L122 --></label>
-        <name>L122</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- L23 --></label>
-        <name>L23</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- L901 --></label>
-        <name>L901</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- L987 --></label>
-        <name>L987</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- LA_Container_Base_Close_04I0K000000TN7N_7053431 --></label>
-        <name>LA_Container_Base_Close_04I0K000000TN7N_7053431</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- LA_Container_Base_Close_04IW00000008OM7_5672333 --></label>
-        <name>LA_Container_Base_Close_04IW00000008OM7_5672333</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- LB500 --></label>
-        <name>LB500</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- LB500Label2 --></label>
-        <name>LB500Label2</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- LMI --></label>
-        <name>LMI</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- LS1 --></label>
-        <name>LS1</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- Lbale891 --></label>
-        <name>Lbale891</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- Mar19ClNew1 --></label>
-        <name>Mar19ClNew1</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- Mar21CL2 --></label>
-        <name>Mar21CL2</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- N12 --></label>
-        <name>N12</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- N7861 --></label>
-        <name>N7861</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- N98765 --></label>
-        <name>N98765</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- NCL1 --></label>
-        <name>NCL1</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- NCN1 --></label>
-        <name>NCN1</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- NCinoCl1 --></label>
-        <name>NCinoCl1</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- NCl2 --></label>
-        <name>NCl2</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- NM101 --></label>
-        <name>NM101</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- New12 --></label>
-        <name>New12</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- New789 --></label>
-        <name>New789</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- Nl100 --></label>
-        <name>Nl100</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- Nl12 --></label>
-        <name>Nl12</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- Obj897 --></label>
-        <name>Obj897</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- RLB1 --></label>
-        <name>RLB1</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- RTLabel1 --></label>
-        <name>RTLabel1</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- S12 --></label>
-        <name>S12</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- S16label1 --></label>
-        <name>S16label1</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- SACl12 --></label>
-        <name>SACl12</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- SACustomLabel200 --></label>
-        <name>SACustomLabel200</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- SACustomLabel201 --></label>
-        <name>SACustomLabel201</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- SALabel100 --></label>
-        <name>SALabel100</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- SC1 --></label>
-        <name>SC1</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- SKVAug16Label1 --></label>
-        <name>SKVAug16Label1</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- SKVLabel1 --></label>
-        <name>SKVLabel1</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- SL1 --></label>
-        <name>SL1</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- SL12 --></label>
-        <name>SL12</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- SS1 --></label>
-        <name>SS1</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- SS2 --></label>
-        <name>SS2</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- SSlabel1 --></label>
-        <name>SSlabel1</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- STAB203 Label --></label>
-        <name>STAB203_Label</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- SaiCustomlabel10 --></label>
-        <name>SaiCustomlabel10</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- SaiCustomlabel3 --></label>
-        <name>SaiCustomlabel3</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- SaiKLabel1 --></label>
-        <name>SaiKLabel1</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- SaiLabel150 --></label>
-        <name>SaiLabel150</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- SaiLabel151 --></label>
-        <name>SaiLabel151</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- SaiRallyLabel1 --></label>
-        <name>SaiRallyLabel1</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- SaiTFSLabel1 --></label>
-        <name>SaiTFSLabel1</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- Sai-FebL2 --></label>
-        <name>Sai_FebL2</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- Sailabel1 --></label>
-        <name>Sailabel1</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- Sailabel2 --></label>
-        <name>Sailabel2</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- SampathAug16thLabel1 --></label>
-        <name>SampathAug16thLabel1</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- SampathAug19thLabel1 --></label>
-        <name>SampathAug19thLabel1</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- SampathLab1l1 --></label>
-        <name>SampathLab1l1</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- TL2 --></label>
-        <name>TL2</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- Urltestlabel1 --></label>
-        <name>Urltestlabel1</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- V8 --></label>
-        <name>V8</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- V9 --></label>
-        <name>V9</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- 212 --></label>
-        <name>X212</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- ZCustomCL1 --></label>
-        <name>ZCustomCL1</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- ZL1 --></label>
-        <name>ZL1</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- acl981 --></label>
-        <name>acl981</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- acl987 --></label>
-        <name>acl987</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- b1 --></label>
-        <name>b1</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- b2 --></label>
-        <name>b2</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- bv12 --></label>
-        <name>bv12</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- c1 --></label>
-        <name>c1</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- c2 --></label>
-        <name>c2</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- cd1 --></label>
-        <name>cd1</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- cl901 --></label>
-        <name>cl901</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- cv1 --></label>
-        <name>cv1</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- cv3 --></label>
-        <name>cv3</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- cvg --></label>
-        <name>cvg</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- dd --></label>
-        <name>dd</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- dfdf --></label>
-        <name>dfdf</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- fdf --></label>
-        <name>fdf</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- feb8tCl1 --></label>
-        <name>feb8tCl1</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- gggg --></label>
-        <name>gggg</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- k1 --></label>
-        <name>k1</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- kkkl --></label>
-        <name>kkkl</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- kl12 --></label>
-        <name>kl12</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- kl123 --></label>
-        <name>kl123</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- km1 --></label>
-        <name>km1</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- km9 --></label>
-        <name>km9</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- l1 --></label>
-        <name>l1</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- mar19label3 --></label>
-        <name>mar19label3</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- mc78 --></label>
-        <name>mc78</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- mc8907 --></label>
-        <name>mc8907</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- n1 --></label>
-        <name>n1</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- new1 --></label>
-        <name>new1</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- njan12 --></label>
-        <name>njan12</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- nm1 --></label>
-        <name>nm1</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- nn2 --></label>
-        <name>nn2</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- ol1 --></label>
-        <name>ol1</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- pr1 --></label>
-        <name>pr1</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- prcl --></label>
-        <name>prcl</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- rl12 --></label>
-        <name>rl12</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- sai&amp;pradeep --></label>
-        <name>sai_pradeep</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- tejaLabel3 --></label>
-        <name>tejaLabel3</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- teja label1 --></label>
-        <name>teja_label1</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- u1 --></label>
-        <name>u1</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- u2 --></label>
-        <name>u2</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- v234 --></label>
-        <name>v234</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- vl1 --></label>
-        <name>vl1</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- z901 --></label>
-        <name>z901</name>
-    </customLabels>
-    <customLabels>
-        <label><!-- zl123 --></label>
-        <name>zl123</name>
+        <label><!-- tt_ResetPasswordWarning --></label>
+        <name>trlhdtips__tt_ResetPasswordWarning</name>
     </customLabels>
     <flowDefinitions>
-        <flows>
-            <screens>
-                <name>Test</name>
-            </screens>
-        </flows>
-        <fullName>Automated_email_on_QLI_Onduo_product_Created_Updated</fullName>
+        <flows/>
+        <fullName>Contact_number_change</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>FilterLogic1</fullName>
     </flowDefinitions>
     <flowDefinitions>
         <flows>
             <screens>
-                <name>Pradeep</name>
+                <fields>
+                    <name>FirstDate</name>
+                </fields>
+                <name>Address</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>EndPage</name>
+                </fields>
+                <name>End</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>WelcomeText</name>
+                </fields>
+                <name>Welcome</name>
             </screens>
         </flows>
-        <fullName>Pradeep</fullName>
+        <fullName>MyFirstFlow</fullName>
     </flowDefinitions>
     <flowDefinitions>
         <flows/>
-        <fullName>QuoteLineItem</fullName>
+        <fullName>New_Flow</fullName>
     </flowDefinitions>
     <flowDefinitions>
         <flows/>
-        <fullName>TestFlowLabel1</fullName>
+        <fullName>Update_Status</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <screens>
+                <fields>
+                    <name>Birth_postal_not_found</name>
+                </fields>
+                <fields>
+                    <name>birthdate_postal_not_found_script</name>
+                </fields>
+                <name>Birthdate_not_found</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>Email_Input</name>
+                </fields>
+                <fields>
+                    <name>Email_Link_Image</name>
+                </fields>
+                <fields>
+                    <name>Email_Link_Null_Script</name>
+                </fields>
+                <fields>
+                    <name>Email_Link_Script</name>
+                </fields>
+                <fields>
+                    <name>Email_Link_Title</name>
+                </fields>
+                <name>Email_Link_Screen</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>Email_Sent_Image</name>
+                </fields>
+                <fields>
+                    <name>Email_Sent_Script</name>
+                </fields>
+                <fields>
+                    <name>Email_Sent_Title</name>
+                </fields>
+                <name>Email_Sent_Screen</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>Name_Not_Found_Title</name>
+                </fields>
+                <fields>
+                    <name>Name_not_found_script</name>
+                </fields>
+                <name>Name_Not_Found_Screen</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>Birthdate_Input</name>
+                    <validationRule/>
+                </fields>
+                <fields>
+                    <name>No_Birthdate_Error</name>
+                </fields>
+                <fields>
+                    <name>No_Postal_Code_Error</name>
+                </fields>
+                <fields>
+                    <name>Postal_Code_Input</name>
+                    <validationRule/>
+                </fields>
+                <fields>
+                    <name>Verify_Identity_Image</name>
+                </fields>
+                <fields>
+                    <name>Verify_Identity_Script</name>
+                </fields>
+                <fields>
+                    <name>Verify_Identity_Title</name>
+                </fields>
+                <name>Verify_Identity_Screen</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>Customer_name_call_script</name>
+                </fields>
+                <fields>
+                    <name>Email_Screen_Input</name>
+                </fields>
+                <fields>
+                    <name>First_Name_Input</name>
+                </fields>
+                <fields>
+                    <name>Last_Name_Input</name>
+                </fields>
+                <name>Verify_Name_Screen</name>
+            </screens>
+            <stages>
+                <name>Email_Link_Stage</name>
+            </stages>
+            <stages>
+                <name>Email_Sent_Stage</name>
+            </stages>
+            <stages>
+                <name>Verify_Identity_Stage</name>
+            </stages>
+            <textTemplates>
+                <name>Customer_name_script_template</name>
+            </textTemplates>
+            <textTemplates>
+                <name>Birthdate_postal_not_found_call_script</name>
+            </textTemplates>
+            <textTemplates>
+                <name>Email_Null_Text_Template</name>
+            </textTemplates>
+            <textTemplates>
+                <name>Email_Link_Text_Template</name>
+            </textTemplates>
+            <textTemplates>
+                <name>Email_Label_Text_Template</name>
+            </textTemplates>
+            <textTemplates>
+                <name>Email_Body_Text_Template</name>
+            </textTemplates>
+            <textTemplates>
+                <name>Null_Birthdate_Text_Template</name>
+            </textTemplates>
+            <textTemplates>
+                <name>Name_not_found_call_script</name>
+            </textTemplates>
+            <textTemplates>
+                <name>Flow_Title_Text_Template</name>
+            </textTemplates>
+            <textTemplates>
+                <name>Verify_Identity_Text_Template</name>
+            </textTemplates>
+            <textTemplates>
+                <name>Null_Postal_Code_Text_Template</name>
+            </textTemplates>
+            <textTemplates>
+                <name>Email_Title_Template</name>
+            </textTemplates>
+            <textTemplates>
+                <name>Email_Subject_Text_Template</name>
+            </textTemplates>
+            <textTemplates>
+                <name>Email_Sent_Text_Template</name>
+            </textTemplates>
+        </flows>
+        <fullName>X30450_test</fullName>
     </flowDefinitions>
     <quickActions>
         <label><!-- Guest Community Case --></label>
         <name>GuestCommunityCase</name>
     </quickActions>
     <quickActions>
+        <label><!-- LogACall --></label>
+        <name>LogACall</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Mobile Smart Actions --></label>
+        <name>Mobile_Smart_Actions</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewAccount --></label>
+        <name>NewAccount</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewCase --></label>
+        <name>NewCase</name>
+    </quickActions>
+    <quickActions>
         <label><!-- New Community Case --></label>
         <name>NewCommunityCase</name>
     </quickActions>
+    <quickActions>
+        <label><!-- NewContact --></label>
+        <name>NewContact</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewEvent --></label>
+        <name>NewEvent</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewGroup --></label>
+        <name>NewGroup</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewLead --></label>
+        <name>NewLead</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewNote --></label>
+        <name>NewNote</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewOpportunity --></label>
+        <name>NewOpportunity</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewTask --></label>
+        <name>NewTask</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- New Campaign --></label>
+        <name>New_Campaign</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- New Offer --></label>
+        <name>New_Offer</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- New Prospect --></label>
+        <name>New_Prospect</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- New Suggestion --></label>
+        <name>New_Suggestion</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- SendEmail --></label>
+        <name>SendEmail</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Snapins_Case_PrechatQuickAction_08h6F0000008Pqc --></label>
+        <name>Snapins_Case_PrechatQuickAction_08h6F0000008Pqc</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Snapins_Contact_PrechatQuickAction_08h6F0000008Pqc --></label>
+        <name>Snapins_Contact_PrechatQuickAction_08h6F0000008Pqc</name>
+    </quickActions>
+    <reportTypes>
+        <description><!-- Accounts with Entitlements with Contacts --></description>
+        <label><!-- Accounts with Entitlements with Contacts --></label>
+        <name>Accounts_with_Entitlements_with_Contacts</name>
+        <sections>
+            <label><!-- Accounts --></label>
+            <name>Accounts</name>
+        </sections>
+        <sections>
+            <label><!-- Contacts --></label>
+            <name>Contacts</name>
+        </sections>
+        <sections>
+            <label><!-- Entitlements --></label>
+            <name>Entitlements</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description><!-- Service Contracts with Contract Line Items --></description>
+        <label><!-- Service Contracts with Contract Line Items --></label>
+        <name>Service_Contracts_with_Contract_Line_Items</name>
+        <sections>
+            <label><!-- Contract Line Items --></label>
+            <name>Contract Line Items</name>
+        </sections>
+        <sections>
+            <label><!-- Service Contracts --></label>
+            <name>Service Contracts</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description><!-- Service Contracts with Entitlements --></description>
+        <label><!-- Service Contracts with Entitlements --></label>
+        <name>Service_Contracts_with_Entitlements</name>
+        <sections>
+            <label><!-- Entitlements --></label>
+            <name>Entitlements</name>
+        </sections>
+        <sections>
+            <label><!-- Service Contracts --></label>
+            <name>Service Contracts</name>
+        </sections>
+    </reportTypes>
     <reportTypes>
         <description><!-- Screen Flows --></description>
         <label><!-- Screen Flows --></label>

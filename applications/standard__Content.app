@@ -8,4 +8,11 @@
     <tabs>standard-Workspace</tabs>
     <tabs>standard-ContentSearch</tabs>
     <tabs>standard-ContentSubscriptions</tabs>
+    <tabs>Property__c</tabs>
+    <tabs>Suggestion__c</tabs>
+    <tabs>DeployValidate1__c</tabs>
+    <tabs>DestObj2__c</tabs>
+    <tabs>DestObj1__c</tabs>
+    <tabs>Brand__c</tabs>
+    <tabs>POC_Request__c</tabs>
 </CustomApplication>

@@ -6,11 +6,16 @@
     </caseValues>
     <caseValues>
         <plural>true</plural>
-        <value>TestObject</value>
+        <value>TestObjects</value>
     </caseValues>
     <fields>
-        <label><!-- TestField --></label>
-        <name>TestField__c</name>
+        <label><!-- Account --></label>
+        <name>JefferiesF1__c</name>
+        <relationshipLabel><!-- TestObjects --></relationshipLabel>
     </fields>
+    <recordTypes>
+        <label><!-- 29765Test1RecordType --></label>
+        <name>X29765Test1RecordType</name>
+    </recordTypes>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

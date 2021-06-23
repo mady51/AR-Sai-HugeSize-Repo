@@ -9,12 +9,12 @@
     <enableEnhancedEmailEnabled>true</enableEnhancedEmailEnabled>
     <enableHandleBouncedEmails>true</enableHandleBouncedEmails>
     <enableHtmlEmail>false</enableHtmlEmail>
+    <enableInternationalEmailAddresses>false</enableInternationalEmailAddresses>
     <enableListEmailLogActivities>true</enableListEmailLogActivities>
     <enableResendBouncedEmails>false</enableResendBouncedEmails>
     <enableRestrictTlsToDomains>false</enableRestrictTlsToDomains>
-    <enableSendViaExchangePref>true</enableSendViaExchangePref>
-    <enableSendViaGmailPref>true</enableSendViaGmailPref>
-    <enableSetMatchingEmailsOnBounce>false</enableSetMatchingEmailsOnBounce>
+    <enableSendViaExchangePref>false</enableSendViaExchangePref>
+    <enableSendViaGmailPref>false</enableSendViaGmailPref>
     <enableUseOrgFootersForExtTrans>false</enableUseOrgFootersForExtTrans>
     <sendEmailsEvenWhenAutomationUpdatesSameRecord>false</sendEmailsEvenWhenAutomationUpdatesSameRecord>
     <sendMassEmailNotification>true</sendMassEmailNotification>

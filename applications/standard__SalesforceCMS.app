@@ -9,8 +9,28 @@
     <tabs>standard-CmsChannel</tabs>
     <tabs>standard-CmsWorkspaces</tabs>
     <tabs>standard-CmsExperiences</tabs>
+    <tabs>DeployValidate1__c</tabs>
+    <tabs>DestObj2__c</tabs>
+    <tabs>DestObj1__c</tabs>
+    <tabs>Brand__c</tabs>
+    <tabs>POC_Request__c</tabs>
     <uiType>Lightning</uiType>
     <workspaceConfig>
+        <mappings>
+            <tab>Brand__c</tab>
+        </mappings>
+        <mappings>
+            <tab>DeployValidate1__c</tab>
+        </mappings>
+        <mappings>
+            <tab>DestObj1__c</tab>
+        </mappings>
+        <mappings>
+            <tab>DestObj2__c</tab>
+        </mappings>
+        <mappings>
+            <tab>POC_Request__c</tab>
+        </mappings>
         <mappings>
             <tab>standard-CmsAuthorHome</tab>
         </mappings>

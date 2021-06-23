@@ -7,6 +7,14 @@
     <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
     <label>Sales</label>
     <navType>Standard</navType>
+    <profileActionOverrides>
+        <actionName>Tab</actionName>
+        <content>Sales_Home</content>
+        <formFactor>Large</formFactor>
+        <pageOrSobjectType>standard-home</pageOrSobjectType>
+        <type>Flexipage</type>
+        <profile>Custom: Sales Profile</profile>
+    </profileActionOverrides>
     <tabs>standard-home</tabs>
     <tabs>standard-WaveHome</tabs>
     <tabs>standard-Opportunity</tabs>
@@ -24,5 +32,13 @@
     <tabs>standard-OtherUserProfile</tabs>
     <tabs>standard-Case</tabs>
     <tabs>standard-Forecasting3</tabs>
+    <tabs>Energy_Audit__c</tabs>
+    <tabs>Property__c</tabs>
+    <tabs>Suggestion__c</tabs>
+    <tabs>DeployValidate1__c</tabs>
+    <tabs>DestObj2__c</tabs>
+    <tabs>DestObj1__c</tabs>
+    <tabs>Brand__c</tabs>
+    <tabs>POC_Request__c</tabs>
     <uiType>Lightning</uiType>
 </CustomApplication>

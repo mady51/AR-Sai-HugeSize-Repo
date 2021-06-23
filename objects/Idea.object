@@ -86,6 +86,25 @@
         </filters>
         <label>Last 7 Days</label>
     </listViews>
+    <recordTypes>
+        <fullName>InternalIdeasIdeaRecordType</fullName>
+        <active>true</active>
+        <description>Record Type used to associate ideas with a specific community</description>
+        <label>Internal Zone: Idea Record Type</label>
+        <picklistValues>
+            <picklist>Categories</picklist>
+            <values>
+                <fullName>Account%2FContract</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+    </recordTypes>
+    <recordTypes>
+        <fullName>Record_type_for_community_09a6F000000k995QAA_entity_Idea</fullName>
+        <active>true</active>
+        <description>Record type used to associate Idea with a specific zone</description>
+        <label>External Zone: Idea Record Type</label>
+    </recordTypes>
     <searchLayouts>
         <customTabListAdditionalFields>IDEA.TITLE</customTabListAdditionalFields>
         <customTabListAdditionalFields>IDEA.BODY</customTabListAdditionalFields>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>This permission set is used to provision user with the flexibility to create,modify and delete email templates</description>
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>Creation And Modifications Of Email Templates</label>
+</PermissionSet>

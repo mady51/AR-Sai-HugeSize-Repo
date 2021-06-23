@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Jefferies dev</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Jefferies devs</value>
+    </caseValues>
+    <fields>
+        <label><!-- Account --></label>
+        <name>Account__c</name>
+        <relationshipLabel><!-- Jefferies devs --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Address --></label>
+        <name>Address__c</name>
+        <relationshipLabel><!-- Jefferies devs --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Asset --></label>
+        <name>Asset__c</name>
+        <relationshipLabel><!-- Jefferies devs --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Authorization Form --></label>
+        <name>Authorization_Form__c</name>
+        <relationshipLabel><!-- Jefferies devs --></relationshipLabel>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

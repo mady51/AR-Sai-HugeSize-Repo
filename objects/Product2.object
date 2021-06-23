@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
     <actionOverrides>
         <actionName>Add</actionName>
@@ -129,6 +130,7 @@
     <enableFeeds>false</enableFeeds>
     <fields>
         <fullName>AutorabitExtId__c</fullName>
+        <caseSensitive>false</caseSensitive>
         <description>External Id created by AutoRABIT</description>
         <externalId>true</externalId>
         <label>AutorabitExtId__c</label>
@@ -136,7 +138,11 @@
         <required>false</required>
         <trackHistory>false</trackHistory>
         <type>Text</type>
-        <unique>false</unique>
+        <unique>true</unique>
+    </fields>
+    <fields>
+        <fullName>CurrencyIsoCode</fullName>
+        <trackHistory>false</trackHistory>
     </fields>
     <fields>
         <fullName>Description</fullName>
@@ -181,6 +187,11 @@
         <fullName>StockKeepingUnit</fullName>
         <trackHistory>false</trackHistory>
     </fields>
+    <listViews>
+        <fullName>AllProducts</fullName>
+        <filterScope>Everything</filterScope>
+        <label>All Products</label>
+    </listViews>
     <searchLayouts>
         <customTabListAdditionalFields>PRODUCT2.NAME</customTabListAdditionalFields>
         <customTabListAdditionalFields>PRODUCT2.CUSTOMER_PRODUCT_ID</customTabListAdditionalFields>

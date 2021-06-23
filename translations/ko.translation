@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Translations xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customLabels>
+        <label><!-- ac111 --></label>
+        <name>AC1</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- AC211 --></label>
+        <name>AC2</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ACL24 --></label>
+        <name>ACL24</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ACL25 --></label>
+        <name>ACL25</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Trigger Testing --></label>
+        <name>Allowed_File_Extensions</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Calendar April --></label>
+        <name>Calendar_April</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Calendar August --></label>
+        <name>Calendar_August</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Calendar December --></label>
+        <name>Calendar_December</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Calendar February --></label>
+        <name>Calendar_February</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Calendar January --></label>
+        <name>Calendar_January</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Calendar July --></label>
+        <name>Calendar_July</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Calendar June --></label>
+        <name>Calendar_June</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Calendar March --></label>
+        <name>Calendar_March</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Calendar May --></label>
+        <name>Calendar_May</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Calendar November --></label>
+        <name>Calendar_November</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Calendar October --></label>
+        <name>Calendar_October</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Calendar September --></label>
+        <name>Calendar_September</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Created_by_Me --></label>
+        <name>Dashboard_Pal__Created_by_Me</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Modal_Acknowledge_Button --></label>
+        <name>Dashboard_Pal__Modal_Acknowledge_Button</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Modal_Feature1 --></label>
+        <name>Dashboard_Pal__Modal_Feature1</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Modal_Feature2 --></label>
+        <name>Dashboard_Pal__Modal_Feature2</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Modal_Feature3 --></label>
+        <name>Dashboard_Pal__Modal_Feature3</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Modal_Feature4 --></label>
+        <name>Dashboard_Pal__Modal_Feature4</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Modal_Heading --></label>
+        <name>Dashboard_Pal__Modal_Heading</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- No_Dashboards_Found --></label>
+        <name>Dashboard_Pal__No_Dashboards_Found</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- No_Folder_Selected --></label>
+        <name>Dashboard_Pal__No_Folder_Selected</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- No Query Results --></label>
+        <name>Dashboard_Pal__No_Query_Results</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Private_Dashboards --></label>
+        <name>Dashboard_Pal__Private_Dashboards</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Select_Dashboard_Label --></label>
+        <name>Dashboard_Pal__Select_Dashboard_Label</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Select_Dashboard_Value --></label>
+        <name>Dashboard_Pal__Select_Dashboard_Value</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Select_Folder_Label --></label>
+        <name>Dashboard_Pal__Select_Folder_Label</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Select_Folder_Value --></label>
+        <name>Dashboard_Pal__Select_Folder_Value</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Title --></label>
+        <name>Dashboard_Pal__Title</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Tooltip_Text --></label>
+        <name>Dashboard_Pal__Tooltip_Text</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- DemoLabel --></label>
+        <name>DemoLabel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- JefferiesTest1 --></label>
+        <name>JefferiesTest1</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- JefferiesTest2 --></label>
+        <name>JefferiesTest2</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Overlay_Notification_Template --></label>
+        <name>Overlay_Notification_Template</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Testing Final --></label>
+        <name>Testing_Final</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- BOFCPurchaseLink --></label>
+        <name>bofc__BOFCPurchaseLink</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- createdtoday --></label>
+        <name>createdtoday</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- tt_BaseURL --></label>
+        <name>trlhdtips__tt_BaseURL</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- tt_EnterPackageId --></label>
+        <name>trlhdtips__tt_EnterPackageId</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- tt_InvalidPackageId --></label>
+        <name>trlhdtips__tt_InvalidPackageId</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- tt_ResetPasswordFail --></label>
+        <name>trlhdtips__tt_ResetPasswordFail</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- tt_ResetPasswordSuccess --></label>
+        <name>trlhdtips__tt_ResetPasswordSuccess</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- tt_ResetPasswordTitle --></label>
+        <name>trlhdtips__tt_ResetPasswordTitle</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- tt_ResetPasswordWarning --></label>
+        <name>trlhdtips__tt_ResetPasswordWarning</name>
+    </customLabels>
+    <flowDefinitions>
+        <flows/>
+        <fullName>Contact_number_change</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>FilterLogic1</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <screens>
+                <fields>
+                    <name>FirstDate</name>
+                </fields>
+                <name>Address</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>EndPage</name>
+                </fields>
+                <name>End</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>WelcomeText</name>
+                </fields>
+                <name>Welcome</name>
+            </screens>
+        </flows>
+        <fullName>MyFirstFlow</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>New_Flow</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>Update_Status</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <screens>
+                <fields>
+                    <name>Birth_postal_not_found</name>
+                </fields>
+                <fields>
+                    <name>birthdate_postal_not_found_script</name>
+                </fields>
+                <name>Birthdate_not_found</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>Email_Input</name>
+                </fields>
+                <fields>
+                    <name>Email_Link_Image</name>
+                </fields>
+                <fields>
+                    <name>Email_Link_Null_Script</name>
+                </fields>
+                <fields>
+                    <name>Email_Link_Script</name>
+                </fields>
+                <fields>
+                    <name>Email_Link_Title</name>
+                </fields>
+                <name>Email_Link_Screen</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>Email_Sent_Image</name>
+                </fields>
+                <fields>
+                    <name>Email_Sent_Script</name>
+                </fields>
+                <fields>
+                    <name>Email_Sent_Title</name>
+                </fields>
+                <name>Email_Sent_Screen</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>Name_Not_Found_Title</name>
+                </fields>
+                <fields>
+                    <name>Name_not_found_script</name>
+                </fields>
+                <name>Name_Not_Found_Screen</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>Birthdate_Input</name>
+                    <validationRule/>
+                </fields>
+                <fields>
+                    <name>No_Birthdate_Error</name>
+                </fields>
+                <fields>
+                    <name>No_Postal_Code_Error</name>
+                </fields>
+                <fields>
+                    <name>Postal_Code_Input</name>
+                    <validationRule/>
+                </fields>
+                <fields>
+                    <name>Verify_Identity_Image</name>
+                </fields>
+                <fields>
+                    <name>Verify_Identity_Script</name>
+                </fields>
+                <fields>
+                    <name>Verify_Identity_Title</name>
+                </fields>
+                <name>Verify_Identity_Screen</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>Customer_name_call_script</name>
+                </fields>
+                <fields>
+                    <name>Email_Screen_Input</name>
+                </fields>
+                <fields>
+                    <name>First_Name_Input</name>
+                </fields>
+                <fields>
+                    <name>Last_Name_Input</name>
+                </fields>
+                <name>Verify_Name_Screen</name>
+            </screens>
+            <stages>
+                <name>Email_Link_Stage</name>
+            </stages>
+            <stages>
+                <name>Email_Sent_Stage</name>
+            </stages>
+            <stages>
+                <name>Verify_Identity_Stage</name>
+            </stages>
+            <textTemplates>
+                <name>Customer_name_script_template</name>
+            </textTemplates>
+            <textTemplates>
+                <name>Birthdate_postal_not_found_call_script</name>
+            </textTemplates>
+            <textTemplates>
+                <name>Email_Null_Text_Template</name>
+            </textTemplates>
+            <textTemplates>
+                <name>Email_Link_Text_Template</name>
+            </textTemplates>
+            <textTemplates>
+                <name>Email_Label_Text_Template</name>
+            </textTemplates>
+            <textTemplates>
+                <name>Email_Body_Text_Template</name>
+            </textTemplates>
+            <textTemplates>
+                <name>Null_Birthdate_Text_Template</name>
+            </textTemplates>
+            <textTemplates>
+                <name>Name_not_found_call_script</name>
+            </textTemplates>
+            <textTemplates>
+                <name>Flow_Title_Text_Template</name>
+            </textTemplates>
+            <textTemplates>
+                <name>Verify_Identity_Text_Template</name>
+            </textTemplates>
+            <textTemplates>
+                <name>Null_Postal_Code_Text_Template</name>
+            </textTemplates>
+            <textTemplates>
+                <name>Email_Title_Template</name>
+            </textTemplates>
+            <textTemplates>
+                <name>Email_Subject_Text_Template</name>
+            </textTemplates>
+            <textTemplates>
+                <name>Email_Sent_Text_Template</name>
+            </textTemplates>
+        </flows>
+        <fullName>X30450_test</fullName>
+    </flowDefinitions>
+    <quickActions>
+        <label><!-- Guest Community Case --></label>
+        <name>GuestCommunityCase</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- LogACall --></label>
+        <name>LogACall</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Mobile Smart Actions --></label>
+        <name>Mobile_Smart_Actions</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewAccount --></label>
+        <name>NewAccount</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewCase --></label>
+        <name>NewCase</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- New Community Case --></label>
+        <name>NewCommunityCase</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewContact --></label>
+        <name>NewContact</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewEvent --></label>
+        <name>NewEvent</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewGroup --></label>
+        <name>NewGroup</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewLead --></label>
+        <name>NewLead</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewNote --></label>
+        <name>NewNote</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewOpportunity --></label>
+        <name>NewOpportunity</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewTask --></label>
+        <name>NewTask</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- New Campaign --></label>
+        <name>New_Campaign</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- New Offer --></label>
+        <name>New_Offer</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- New Prospect --></label>
+        <name>New_Prospect</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- New Suggestion --></label>
+        <name>New_Suggestion</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- SendEmail --></label>
+        <name>SendEmail</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Snapins_Case_PrechatQuickAction_08h6F0000008Pqc --></label>
+        <name>Snapins_Case_PrechatQuickAction_08h6F0000008Pqc</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Snapins_Contact_PrechatQuickAction_08h6F0000008Pqc --></label>
+        <name>Snapins_Contact_PrechatQuickAction_08h6F0000008Pqc</name>
+    </quickActions>
+    <reportTypes>
+        <description><!-- Accounts with Entitlements with Contacts --></description>
+        <label><!-- Accounts with Entitlements with Contacts --></label>
+        <name>Accounts_with_Entitlements_with_Contacts</name>
+        <sections>
+            <label><!-- Accounts --></label>
+            <name>Accounts</name>
+        </sections>
+        <sections>
+            <label><!-- Contacts --></label>
+            <name>Contacts</name>
+        </sections>
+        <sections>
+            <label><!-- Entitlements --></label>
+            <name>Entitlements</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description><!-- Service Contracts with Contract Line Items --></description>
+        <label><!-- Service Contracts with Contract Line Items --></label>
+        <name>Service_Contracts_with_Contract_Line_Items</name>
+        <sections>
+            <label><!-- Contract Line Items --></label>
+            <name>Contract Line Items</name>
+        </sections>
+        <sections>
+            <label><!-- Service Contracts --></label>
+            <name>Service Contracts</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description><!-- Service Contracts with Entitlements --></description>
+        <label><!-- Service Contracts with Entitlements --></label>
+        <name>Service_Contracts_with_Entitlements</name>
+        <sections>
+            <label><!-- Entitlements --></label>
+            <name>Entitlements</name>
+        </sections>
+        <sections>
+            <label><!-- Service Contracts --></label>
+            <name>Service Contracts</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description><!-- Screen Flows --></description>
+        <label><!-- Screen Flows --></label>
+        <name>screen_flows_prebuilt_crt</name>
+        <sections>
+            <label><!-- Flow Interview Log Entries --></label>
+            <name>Flow Interview Log Entries</name>
+        </sections>
+        <sections>
+            <label><!-- Flow Interview Logs --></label>
+            <name>Flow Interview Logs</name>
+        </sections>
+    </reportTypes>
+</Translations>
