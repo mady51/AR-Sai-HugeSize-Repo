@@ -107,9 +107,15 @@
         <members>AAAA07</members>
         <members>AAClsABPSiWR</members>
         <members>AC123</members>
+        <members>ACEBrokerages_ChatterController</members>
+        <members>ACEBrokerages_ChatterControllerTest</members>
         <members>AD1</members>
         <members>AD2</members>
         <members>AN2</members>
+        <members>ANA_AP01_AccountContactList</members>
+        <members>ANA_AP01_AccountContactList_Test</members>
+        <members>ANA_AP03_QuoteLineItemApproval</members>
+        <members>ANA_AP03_QuoteLineItemApproval_Test</members>
         <members>ANew1</members>
         <members>ANew2</members>
         <members>ANewCls1</members>
