@@ -113,6 +113,14 @@
         <type>Default</type>
     </actionOverrides>
     <enableFeeds>false</enableFeeds>
+    <fields>
+        <fullName>F1__c</fullName>
+        <description>cdzxv</description>
+        <externalId>false</externalId>
+        <label>F1</label>
+        <required>false</required>
+        <type>Date</type>
+    </fields>
     <listViews>
         <fullName>AllActivities</fullName>
         <filterScope>Team</filterScope>
