@@ -593,6 +593,7 @@
         <members>ActiveScratchOrg.SignupInstance</members>
         <members>ActiveScratchOrg.SignupTrialDays</members>
         <members>ActiveScratchOrg.SignupUsername</members>
+        <members>Activity.F1__c</members>
         <members>Address.AddressType</members>
         <members>Address.Description</members>
         <members>Address.DrivingDirections</members>
