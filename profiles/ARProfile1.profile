@@ -112,14 +112,6 @@
         <apexClass>SKVAug16Class1</apexClass>
         <enabled>false</enabled>
     </classAccesses>
-    <classAccesses>
-        <apexClass>pr</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
-        <apexClass>skvcls1</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
     <custom>true</custom>
     <description>add</description>
     <fieldPermissions>
