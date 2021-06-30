@@ -1,6 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
     <labels>
+        <fullName>AC1</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>ac111</shortDescription>
+        <value>777</value>
+    </labels>
+    <labels>
+        <fullName>AC2</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>AC211</shortDescription>
+        <value>10</value>
+    </labels>
+    <labels>
+        <fullName>ACL11</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>ACL11</shortDescription>
+        <value>11</value>
+    </labels>
+    <labels>
+        <fullName>ACL12</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>ACL12</shortDescription>
+        <value>1</value>
+    </labels>
+    <labels>
         <fullName>ACL25</fullName>
         <language>en_US</language>
         <protected>true</protected>
@@ -48,5 +76,54 @@
         <protected>true</protected>
         <shortDescription>ESCCustomLabel1</shortDescription>
         <value>2</value>
+    </labels>
+    <labels>
+        <fullName>Feb8thCl1</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Feb8thCl1</shortDescription>
+        <value>1</value>
+    </labels>
+    <labels>
+        <fullName>KMl1</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>KMl1</shortDescription>
+        <value>1</value>
+    </labels>
+    <labels>
+        <fullName>M11cl</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>M11cl</shortDescription>
+        <value>d</value>
+    </labels>
+    <labels>
+        <fullName>SSlabel1</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>SSlabel1</shortDescription>
+        <value>to see you go test123</value>
+    </labels>
+    <labels>
+        <fullName>c2</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>c2</shortDescription>
+        <value>12</value>
+    </labels>
+    <labels>
+        <fullName>feb8tCl1</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>feb8tCl1</shortDescription>
+        <value>1</value>
+    </labels>
+    <labels>
+        <fullName>skvclnew1</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>skvclnew1</shortDescription>
+        <value>007</value>
     </labels>
 </CustomLabels>
