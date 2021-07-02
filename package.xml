@@ -2204,11 +2204,6 @@
         <name>Document</name>
     </types>
     <types>
-        <members>AppAnalytics</members>
-        <members>ConversationalIntelligence</members>
-        <name>EinsteinAgentSettings</name>
-    </types>
-    <types>
         <members>Test</members>
         <name>EmailServicesFunction</name>
     </types>
@@ -2644,6 +2639,11 @@
         <members>CEO</members>
         <members>ProfileRole</members>
         <name>Role</name>
+    </types>
+    <types>
+        <members>AppAnalytics</members>
+        <members>ConversationalIntelligence</members>
+        <name>Settings</name>
     </types>
     <types>
         <members>SiteSamples</members>
