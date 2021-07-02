@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>48.0</version>
+<?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <version>51.0</version>
     <types>
         <members>A0</members>
         <members>A000</members>
@@ -20,6 +19,7 @@
         <members>A0456</members>
         <members>A045678</members>
         <members>A052</members>
+        <members>A080</members>
         <members>A080123</members>
         <members>A080189</members>
         <members>A08023424</members>
@@ -206,10 +206,16 @@
     <types>
         <members>ACCObjTest1Page</members>
         <members>ACOBJTpage</members>
+        <members>ApexPage</members>
+        <members>ApexPage5</members>
         <members>Apexpage1</members>
         <members>Apexpage2</members>
         <members>Apexpage3</members>
         <name>ApexPage</name>
+    </types>
+    <types>
+        <members>AccountTrigger1</members>
+        <name>ApexTrigger</name>
     </types>
     <types>
         <members>Case.CaseRule1</members>
