@@ -47,7 +47,7 @@
     </applicationVisibilities>
     <applicationVisibilities>
         <application>standard__Sales</application>
-        <default>true</default>
+        <default>false</default>
         <visible>true</visible>
     </applicationVisibilities>
     <applicationVisibilities>
@@ -76,22 +76,30 @@
     </classAccesses>
     <classAccesses>
         <apexClass>A000</apexClass>
-        <enabled>false</enabled>
-    </classAccesses>
-    <classAccesses>
-        <apexClass>A0001</apexClass>
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
+        <apexClass>A00000AOZGddBpOrC</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>A00000ASDXlkQJKQ</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>A00000LgKTWXnk</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>A00000SXaQxc</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>A00000UipcOVCKCqWy</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>A0071</apexClass>
-        <enabled>false</enabled>
-    </classAccesses>
-    <classAccesses>
-        <apexClass>A0123</apexClass>
-        <enabled>false</enabled>
-    </classAccesses>
-    <classAccesses>
-        <apexClass>A01234</apexClass>
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
@@ -115,16 +123,8 @@
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
-        <apexClass>A025</apexClass>
-        <enabled>false</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>A027</apexClass>
         <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
-        <apexClass>A028</apexClass>
-        <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
         <apexClass>A036</apexClass>
@@ -139,12 +139,8 @@
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
-        <apexClass>A052</apexClass>
-        <enabled>false</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>A080</apexClass>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
         <apexClass>A080123</apexClass>
@@ -204,7 +200,7 @@
     </classAccesses>
     <classAccesses>
         <apexClass>A1456</apexClass>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
         <apexClass>A14567</apexClass>
@@ -228,14 +224,6 @@
     </classAccesses>
     <classAccesses>
         <apexClass>A156</apexClass>
-        <enabled>false</enabled>
-    </classAccesses>
-    <classAccesses>
-        <apexClass>A158</apexClass>
-        <enabled>false</enabled>
-    </classAccesses>
-    <classAccesses>
-        <apexClass>A159</apexClass>
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
@@ -300,10 +288,6 @@
     </classAccesses>
     <classAccesses>
         <apexClass>A20</apexClass>
-        <enabled>false</enabled>
-    </classAccesses>
-    <classAccesses>
-        <apexClass>A200</apexClass>
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
@@ -447,6 +431,10 @@
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
+        <apexClass>A8971</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>A98</apexClass>
         <enabled>false</enabled>
     </classAccesses>
@@ -467,7 +455,71 @@
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
+        <apexClass>AAClsABPSiWR</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>AAClsBsPpRuWD</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>AAClsLTOPVpSkO</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>AAClsRlNWhlAzSWUU</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>AAClswhgchigdGp</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>AC123</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>AClassIyKpXdRSGHur</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>AClassJBjqqClY</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>AClassJCbvVodWnR</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>AClassJFHYnlXnuzTs</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>AClassJHqLEEujkC</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>AClassJMOKYSEkS</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>AClassJNMPYcoOGWvL</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>AClassJUDmVHqLr</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>AClassJVDicQsl</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>AClassJWqRrXHaj</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>AClassJXaOze</apexClass>
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
@@ -480,6 +532,10 @@
     </classAccesses>
     <classAccesses>
         <apexClass>AN2</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>ANS1</apexClass>
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
@@ -771,6 +827,18 @@
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
+        <apexClass>Feb01</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>Feb10</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>Feb22ndCls1</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>Feb5</apexClass>
         <enabled>false</enabled>
     </classAccesses>
@@ -796,6 +864,10 @@
     </classAccesses>
     <classAccesses>
         <apexClass>July22nd</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>Jun22ndcls1</apexClass>
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
@@ -848,6 +920,10 @@
     </classAccesses>
     <classAccesses>
         <apexClass>LightningSelfRegisterControllerTest</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>M11Cls1</apexClass>
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
@@ -956,6 +1032,14 @@
     </classAccesses>
     <classAccesses>
         <apexClass>RClass1</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>RGorg01</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>RGvc01</apexClass>
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
@@ -1147,6 +1231,10 @@
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
+        <apexClass>Sri2</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>V6</apexClass>
         <enabled>false</enabled>
     </classAccesses>
@@ -1311,11 +1399,23 @@
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
+        <apexClass>s98765</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>sa123</apexClass>
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
         <apexClass>sai007</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>skvcls1</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>skvnew007</apexClass>
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
@@ -1370,13 +1470,23 @@
     </externalDataSourceAccesses>
     <fieldPermissions>
         <editable>false</editable>
-        <field>ACCObjTest1__c.ACCField1__c</field>
+        <field>A1__c.F1__c</field>
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>ACCObjTest1__c.ACCField2__c</field>
+        <field>ACCObjTest1__c.ACCField1__c</field>
         <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>ACCObjTest1__c.Apr6thpicklist1__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>ACCObjTest1__c.Are_you_a_Admin__c</field>
+        <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
@@ -1390,11 +1500,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>ACCObjTest1__c.PLNew1__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
         <field>ACCObjTest1__c.PLnew3__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -1402,6 +1507,11 @@
         <editable>false</editable>
         <field>ACCObjTest1__c.PLt1__c</field>
         <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>ACCObjTest1__c.Pf3__c</field>
+        <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
@@ -1460,11 +1570,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>ACR2__c.F12__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
         <field>ACR2__c.LookUpField1__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -1505,22 +1610,7 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>ACR4__c.field2__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>ACR5__c.F3__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>ACR5__c.field1__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>ACR5__c.field2__c</field>
+        <field>ACR4__c.Jan23rdF1__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -1631,21 +1721,6 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>AYObj1__c.AYField1__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>AYObj2__c.Ayf1__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>AYObj3__c.AYfd1__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>AYObj3__c.Ayfd2__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -2690,46 +2765,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>DL1Obj18__c.Field1__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>DL1Obj18__c.Field2__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>DL1Obj18__c.Field3__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>DL1Obj18__c.Field4__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>DLCObj18__c.AutorabitExtId__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>DLCObj18__c.Field1__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>DLCObj18__c.Field2__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>DLCObj18__c.Field5__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
         <field>DLConfigTestObj__c.Field1__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -2875,6 +2910,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Event.F1__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Event.IsAllDayEvent</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -2905,8 +2945,33 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Feb21Obj1__c.F1__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Feb21Obj1__c.F2__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Feb22ndObj1__c.F1__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Feb22ndObj1__c.F2__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Feb26Obj123__c.F1__c</field>
         <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Goal.OrigGoalId__c</field>
+        <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
@@ -3041,6 +3106,16 @@
     <fieldPermissions>
         <editable>false</editable>
         <field>KCobj1__c.KCField2__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>KN1__c.F1__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>KN1__c.F2__c</field>
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -3199,14 +3274,19 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>false</editable>
-        <field>Mar1811__c.f1__c</field>
-        <readable>false</readable>
+        <editable>true</editable>
+        <field>M11obj1__c.F1__c</field>
+        <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>false</editable>
+        <editable>true</editable>
+        <field>Mar1811__c.f1__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Mar1811__c.f2__c</field>
-        <readable>false</readable>
+        <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
@@ -3239,11 +3319,6 @@
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>true</editable>
-        <field>Mar21Obj2__c.F1__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
         <editable>false</editable>
         <field>MergeObject1__c.MergeField1__c</field>
         <readable>false</readable>
@@ -3251,6 +3326,11 @@
     <fieldPermissions>
         <editable>false</editable>
         <field>MergeObject1__c.MergeField2__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Metric.OrigMetricId__c</field>
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -3282,6 +3362,11 @@
         <editable>false</editable>
         <field>NS25Obj1__c.Field1__c</field>
         <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>NewObj2__c.Field1__c</field>
+        <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
@@ -3910,6 +3995,16 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>SKVObj2__c.F1__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>SKVObj2__c.F2__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>SKVObject1__c.SKVField1__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -4120,6 +4215,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Sample_OBJ__c.F1__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>SaoObj900__c.F2__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -4219,6 +4319,11 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
+        <editable>true</editable>
+        <field>Task.F1__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
         <editable>false</editable>
         <field>Task.IsVisibleInSelfService</field>
         <readable>false</readable>
@@ -4266,6 +4371,11 @@
     <fieldPermissions>
         <editable>false</editable>
         <field>TestAcob1__c.TestF1__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>TestCsutomMetadata1__mdt.F1__c</field>
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -4475,6 +4585,16 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>skvobj3__c.F1__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>skvobj3__c.F2__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>sp1__c.F1__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -4497,20 +4617,13 @@
         <layout>A1__c-A1 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>A2__c-A2 Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>A3__c-A3 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>A4s__c-A4 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>ACCObjTest1__c-ACCObjTest1 Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>ACCObjTest1__c-ACCObjTest1 Layout</layout>
-        <recordType>ACCObjTest1__c.SairecordType2</recordType>
+        <layout>ACCObjTest1__c-Custom-Layout1</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>ACCObjTest1__c-Custom-Layout1</layout>
@@ -4536,9 +4649,6 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>ACR4__c-ACR4 Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>ACR5__c-ACR5 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>ACR6__c-ACR6 Layout</layout>
@@ -4571,13 +4681,11 @@
         <layout>AYObj1__c-AYObj1 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>AYObj2__c-AYObj2 Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>AYObj3__c-AYObj3 Layout</layout>
+        <layout>A_b__c-A%26b Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>A_b__c-A%26b Layout</layout>
+        <recordType>A_b__c.RC1</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Accobj4__c-Accobj4 Layout</layout>
@@ -4653,6 +4761,10 @@
         <layout>ConsumptionSchedule-Consumption Schedule Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Contact-Contact %28Marketing%29 Layout</layout>
+        <recordType>Contact.CRT1</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Contact-Contact Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -4663,12 +4775,6 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Contract-Contract Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>DL1Obj18__c-DL1Obj18 Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>DLCObj18__c-DLCObj18 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>DLConfigTestObj__c-DLConfigTestObj Layout</layout>
@@ -4721,10 +4827,24 @@
         <layout>EC_AccObj1__c-EC-AccObj1 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>EC_AccObj1__c-EC-AccObj1 Layout</layout>
+        <recordType>EC_AccObj1__c.ECrecordTypeTest3</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>EC_AccObj1__c-EC-AccObj1 Layout</layout>
+        <recordType>EC_AccObj1__c.Test1</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>EObj1__c-EObj1 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Event-Event Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Feb21Obj1__c-Feb21Obj1 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Feb22ndObj1__c-Feb22ndObj1 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Feb26Obj123__c-Feb26Obj123 Layout</layout>
@@ -4751,6 +4871,9 @@
         <layout>KCobj1__c-KCobj1 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>KN1__c-KN1 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>KOb19__c-KOb19 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -4774,16 +4897,22 @@
         <layout>Lobj45__c-Lobj45 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>M11obj1__c-M11obj1 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Macro-Macro Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Mar1811__c-Mar1811 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Mar19SaiObj1__c-Mar19SaiObj1 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Mar20Obj2__c-Mar20Obj2 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Mar20Obj3__c-Mar20Obj3 Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Mar21Obj2__c-Mar21Obj2 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>MergeObject1__c-MergeObject1 Layout</layout>
@@ -4805,6 +4934,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>NS25Obj1__c-NS25Obj1 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>NewObj2__c-NewObj2 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>NewObj600__c-NewObj600 Layout</layout>
@@ -4938,7 +5070,13 @@
         <layout>SEObject1__c-SEObject1 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>SK1__c-SK1 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>SKVAug16Obj1__c-SKVAug16Obj1 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>SKVObj2__c-SKVObj2 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>SKVObject1__c-SKVObject1 Layout</layout>
@@ -5016,6 +5154,9 @@
         <layout>SampathObj2__c-SampathObj2 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Sample_OBJ__c-April 12 OBJ Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>SaoObj900__c-SaiObj900 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -5091,6 +5232,12 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>TestAcob1__c-TestAcob1 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>TestCsutomMetadata1__mdt-TestCustomMetadata1 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>TestCustomMetadata2__mdt-TestCustomMetadata2 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>TestObj1__c-TestObj1 Layout</layout>
@@ -5195,6 +5342,12 @@
         <layout>sc1obj1__c-sc1obj1 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>skvobj1__c-skvobj1 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>skvobj3__c-skvobj3 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>sp1__c-sp1 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -5240,24 +5393,6 @@
         <allowEdit>false</allowEdit>
         <allowRead>true</allowRead>
         <modifyAllRecords>false</modifyAllRecords>
-        <object>A1__c</object>
-        <viewAllRecords>false</viewAllRecords>
-    </objectPermissions>
-    <objectPermissions>
-        <allowCreate>false</allowCreate>
-        <allowDelete>false</allowDelete>
-        <allowEdit>false</allowEdit>
-        <allowRead>true</allowRead>
-        <modifyAllRecords>false</modifyAllRecords>
-        <object>A2__c</object>
-        <viewAllRecords>false</viewAllRecords>
-    </objectPermissions>
-    <objectPermissions>
-        <allowCreate>false</allowCreate>
-        <allowDelete>false</allowDelete>
-        <allowEdit>false</allowEdit>
-        <allowRead>true</allowRead>
-        <modifyAllRecords>false</modifyAllRecords>
         <object>A3__c</object>
         <viewAllRecords>false</viewAllRecords>
     </objectPermissions>
@@ -5277,15 +5412,6 @@
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
         <object>ACCObjTest1__c</object>
-        <viewAllRecords>true</viewAllRecords>
-    </objectPermissions>
-    <objectPermissions>
-        <allowCreate>true</allowCreate>
-        <allowDelete>true</allowDelete>
-        <allowEdit>true</allowEdit>
-        <allowRead>true</allowRead>
-        <modifyAllRecords>true</modifyAllRecords>
-        <object>ACR5__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
@@ -5415,13 +5541,13 @@
         <viewAllRecords>false</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
-        <allowCreate>false</allowCreate>
-        <allowDelete>false</allowDelete>
-        <allowEdit>false</allowEdit>
-        <allowRead>false</allowRead>
-        <modifyAllRecords>false</modifyAllRecords>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
         <object>Mar1811__c</object>
-        <viewAllRecords>false</viewAllRecords>
+        <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
         <allowCreate>true</allowCreate>
@@ -5529,6 +5655,24 @@
         <allowRead>true</allowRead>
         <modifyAllRecords>false</modifyAllRecords>
         <object>StreamingChannel</object>
+        <viewAllRecords>false</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>false</allowCreate>
+        <allowDelete>false</allowDelete>
+        <allowEdit>false</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>false</modifyAllRecords>
+        <object>ZObj1__c</object>
+        <viewAllRecords>false</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>false</allowCreate>
+        <allowDelete>false</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>false</modifyAllRecords>
+        <object>Zob1__c</object>
         <viewAllRecords>false</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
@@ -5664,17 +5808,17 @@
     </recordTypeVisibilities>
     <recordTypeVisibilities>
         <default>true</default>
+        <recordType>A_b__c.RC1</recordType>
+        <visible>true</visible>
+    </recordTypeVisibilities>
+    <recordTypeVisibilities>
+        <default>true</default>
         <recordType>Account.ARC1</recordType>
         <visible>true</visible>
     </recordTypeVisibilities>
     <recordTypeVisibilities>
         <default>true</default>
         <recordType>Contact.CRT1</recordType>
-        <visible>true</visible>
-    </recordTypeVisibilities>
-    <recordTypeVisibilities>
-        <default>true</default>
-        <recordType>DLCObj18__c.DLCObj18_RcType1</recordType>
         <visible>true</visible>
     </recordTypeVisibilities>
     <recordTypeVisibilities>
@@ -5705,6 +5849,16 @@
     <recordTypeVisibilities>
         <default>false</default>
         <recordType>Lead.RecType1</recordType>
+        <visible>true</visible>
+    </recordTypeVisibilities>
+    <recordTypeVisibilities>
+        <default>false</default>
+        <recordType>Metric.Completion</recordType>
+        <visible>true</visible>
+    </recordTypeVisibilities>
+    <recordTypeVisibilities>
+        <default>true</default>
+        <recordType>Metric.Progress</recordType>
         <visible>true</visible>
     </recordTypeVisibilities>
     <recordTypeVisibilities>
@@ -5741,14 +5895,6 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>ContactPointPhone_Contact_Point_Phone_La__c</tab>
-        <visibility>DefaultOn</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
-        <tab>DL1Obj18__c</tab>
-        <visibility>DefaultOn</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
-        <tab>DLCObj18__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
@@ -5922,6 +6068,10 @@
     <tabVisibilities>
         <tab>standard-DataUsePurpose</tab>
         <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>standard-DelegatedAccount</tab>
+        <visibility>DefaultOff</visibility>
     </tabVisibilities>
     <tabVisibilities>
         <tab>standard-DuplicateRecordSet</tab>

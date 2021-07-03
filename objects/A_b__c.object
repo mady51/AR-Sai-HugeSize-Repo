@@ -171,6 +171,12 @@
         <type>Text</type>
     </nameField>
     <pluralLabel>A&amp;bs</pluralLabel>
+    <recordTypes>
+        <fullName>RC1</fullName>
+        <active>true</active>
+        <description>test</description>
+        <label>RC1</label>
+    </recordTypes>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
