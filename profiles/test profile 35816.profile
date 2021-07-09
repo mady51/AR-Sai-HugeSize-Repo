@@ -3,8 +3,22 @@
     <custom>true</custom>
     <customMetadataTypeAccesses>
         <enabled>true</enabled>
+        <name>CustomMetadataType_2__mdt</name>
+    </customMetadataTypeAccesses>
+    <customMetadataTypeAccesses>
+        <enabled>true</enabled>
         <name>TestCustomMetadataType__mdt</name>
     </customMetadataTypeAccesses>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>CustomMetadataType_2__mdt.field2_1__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>CustomMetadataType_2__mdt.field2_2__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
         <field>TestCustomMetadataType__mdt.field_1__c</field>
