@@ -475,6 +475,10 @@
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
+        <apexClass>AR1</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>AS101</apexClass>
         <enabled>false</enabled>
     </classAccesses>
