@@ -235,14 +235,6 @@
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <validationRules>
-        <fullName>ARPValidationRule1</fullName>
-        <active>true</active>
-        <description>Add validate comment</description>
-        <errorConditionFormula>ISBLANK( AR_SField2__c )</errorConditionFormula>
-        <errorDisplayField>AR_SField2__c</errorDisplayField>
-        <errorMessage>Please Enter a value</errorMessage>
-    </validationRules>
-    <validationRules>
         <fullName>ARpValidationRule4</fullName>
         <active>true</active>
         <description>Add comment</description>

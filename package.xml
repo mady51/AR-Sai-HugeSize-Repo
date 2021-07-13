@@ -4411,7 +4411,6 @@
         <name>UserCriteria</name>
     </types>
     <types>
-        <members>AR_Obj1__c.ARPValidationRule1</members>
         <members>AR_Obj1__c.ARpValidationRule4</members>
         <members>EC_AccObj1__c.ECVRule1</members>
         <members>Lead.LeadValidationRule1</members>
