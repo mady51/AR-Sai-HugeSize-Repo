@@ -20,7 +20,6 @@
         <members>A0456</members>
         <members>A045678</members>
         <members>A052</members>
-        <members>A080</members>
         <members>A080123</members>
         <members>A080189</members>
         <members>A08023424</members>
@@ -486,7 +485,6 @@
         <members>ACR3__c.field1__c</members>
         <members>ACR3__c.field2__c</members>
         <members>ACR4__c.Field1__c</members>
-        <members>ACR4__c.field2__c</members>
         <members>ACR5__c.F3__c</members>
         <members>ACR5__c.field1__c</members>
         <members>ACR5__c.field2__c</members>
@@ -3092,107 +3090,6 @@
         <name>DuplicateRule</name>
     </types>
     <types>
-        <members>Account</members>
-        <members>AccountIntelligence</members>
-        <members>Actions</members>
-        <members>Activities</members>
-        <members>Address</members>
-        <members>Analytics</members>
-        <members>Apex</members>
-        <members>AppExperience</members>
-        <members>Archive</members>
-        <members>Blockchain</members>
-        <members>Bot</members>
-        <members>BusinessHours</members>
-        <members>Campaign</members>
-        <members>Case</members>
-        <members>Chatter</members>
-        <members>ChatterAnswers</members>
-        <members>ChatterEmailsMD</members>
-        <members>Communities</members>
-        <members>Company</members>
-        <members>ConnectedApp</members>
-        <members>Content</members>
-        <members>Contract</members>
-        <members>Currency</members>
-        <members>CustomerDataPlatform</members>
-        <members>DataDotCom</members>
-        <members>Deployment</members>
-        <members>DevHub</members>
-        <members>Discovery</members>
-        <members>DocumentChecklist</members>
-        <members>EAC</members>
-        <members>EmailAdministration</members>
-        <members>EmailIntegration</members>
-        <members>EmailTemplate</members>
-        <members>EncryptionKey</members>
-        <members>EnhancedNotes</members>
-        <members>Entitlement</members>
-        <members>Essentials</members>
-        <members>Event</members>
-        <members>ExperienceBundle</members>
-        <members>ExternalServices</members>
-        <members>FieldService</members>
-        <members>FileUploadAndDownloadSecurity</members>
-        <members>FilesConnect</members>
-        <members>Flow</members>
-        <members>Forecasting</members>
-        <members>Formula</members>
-        <members>GoogleApps</members>
-        <members>Ideas</members>
-        <members>Industries</members>
-        <members>InvocableAction</members>
-        <members>IoT</members>
-        <members>IsvHammer</members>
-        <members>Knowledge</members>
-        <members>Language</members>
-        <members>LeadConfig</members>
-        <members>LightningExperience</members>
-        <members>LiveAgent</members>
-        <members>Macro</members>
-        <members>Mobile</members>
-        <members>MyDomain</members>
-        <members>Name</members>
-        <members>Notifications</members>
-        <members>ObjectLinking</members>
-        <members>OmniChannel</members>
-        <members>Opportunity</members>
-        <members>Order</members>
-        <members>Org</members>
-        <members>Pardot</members>
-        <members>PardotEinstein</members>
-        <members>PartyDataModel</members>
-        <members>PathAssistant</members>
-        <members>Picklist</members>
-        <members>PlatformEncryption</members>
-        <members>Portals</members>
-        <members>PredictionBuilder</members>
-        <members>Privacy</members>
-        <members>Product</members>
-        <members>QuickText</members>
-        <members>Quote</members>
-        <members>RecordPage</members>
-        <members>RetailExecution</members>
-        <members>Schema</members>
-        <members>Search</members>
-        <members>Security</members>
-        <members>Sharing</members>
-        <members>Site</members>
-        <members>SocialProfile</members>
-        <members>Survey</members>
-        <members>SystemNotification</members>
-        <members>Territory2</members>
-        <members>Trailhead</members>
-        <members>TrialOrg</members>
-        <members>UserEngagement</members>
-        <members>UserInterface</members>
-        <members>UserManagement</members>
-        <members>Voice</members>
-        <members>WebToX</members>
-        <members>WorkDotCom</members>
-        <name>EinsteinAgentSettings</name>
-    </types>
-    <types>
         <members>Test</members>
         <name>EmailServicesFunction</name>
     </types>
@@ -4004,6 +3901,107 @@
         <name>Role</name>
     </types>
     <types>
+        <members>Account</members>
+        <members>AccountIntelligence</members>
+        <members>Actions</members>
+        <members>Activities</members>
+        <members>Address</members>
+        <members>Analytics</members>
+        <members>Apex</members>
+        <members>AppExperience</members>
+        <members>Archive</members>
+        <members>Blockchain</members>
+        <members>Bot</members>
+        <members>BusinessHours</members>
+        <members>Campaign</members>
+        <members>Case</members>
+        <members>Chatter</members>
+        <members>ChatterAnswers</members>
+        <members>ChatterEmailsMD</members>
+        <members>Communities</members>
+        <members>Company</members>
+        <members>ConnectedApp</members>
+        <members>Content</members>
+        <members>Contract</members>
+        <members>Currency</members>
+        <members>CustomerDataPlatform</members>
+        <members>DataDotCom</members>
+        <members>Deployment</members>
+        <members>DevHub</members>
+        <members>Discovery</members>
+        <members>DocumentChecklist</members>
+        <members>EAC</members>
+        <members>EmailAdministration</members>
+        <members>EmailIntegration</members>
+        <members>EmailTemplate</members>
+        <members>EncryptionKey</members>
+        <members>EnhancedNotes</members>
+        <members>Entitlement</members>
+        <members>Essentials</members>
+        <members>Event</members>
+        <members>ExperienceBundle</members>
+        <members>ExternalServices</members>
+        <members>FieldService</members>
+        <members>FileUploadAndDownloadSecurity</members>
+        <members>FilesConnect</members>
+        <members>Flow</members>
+        <members>Forecasting</members>
+        <members>Formula</members>
+        <members>GoogleApps</members>
+        <members>Ideas</members>
+        <members>Industries</members>
+        <members>InvocableAction</members>
+        <members>IoT</members>
+        <members>IsvHammer</members>
+        <members>Knowledge</members>
+        <members>Language</members>
+        <members>LeadConfig</members>
+        <members>LightningExperience</members>
+        <members>LiveAgent</members>
+        <members>Macro</members>
+        <members>Mobile</members>
+        <members>MyDomain</members>
+        <members>Name</members>
+        <members>Notifications</members>
+        <members>ObjectLinking</members>
+        <members>OmniChannel</members>
+        <members>Opportunity</members>
+        <members>Order</members>
+        <members>Org</members>
+        <members>Pardot</members>
+        <members>PardotEinstein</members>
+        <members>PartyDataModel</members>
+        <members>PathAssistant</members>
+        <members>Picklist</members>
+        <members>PlatformEncryption</members>
+        <members>Portals</members>
+        <members>PredictionBuilder</members>
+        <members>Privacy</members>
+        <members>Product</members>
+        <members>QuickText</members>
+        <members>Quote</members>
+        <members>RecordPage</members>
+        <members>RetailExecution</members>
+        <members>Schema</members>
+        <members>Search</members>
+        <members>Security</members>
+        <members>Sharing</members>
+        <members>Site</members>
+        <members>SocialProfile</members>
+        <members>Survey</members>
+        <members>SystemNotification</members>
+        <members>Territory2</members>
+        <members>Trailhead</members>
+        <members>TrialOrg</members>
+        <members>UserEngagement</members>
+        <members>UserInterface</members>
+        <members>UserManagement</members>
+        <members>Voice</members>
+        <members>WebToX</members>
+        <members>WorkDotCom</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>ADDObj1__c</members>
         <members>Account</members>
         <members>AccountBrand</members>
@@ -4414,8 +4412,6 @@
     </types>
     <types>
         <members>AR_Obj1__c.ARPValidationRule1</members>
-        <members>AR_Obj1__c.ARSValidationRule1</members>
-        <members>AR_Obj1__c.ARSValidationRule3</members>
         <members>AR_Obj1__c.ARpValidationRule4</members>
         <members>EC_AccObj1__c.ECVRule1</members>
         <members>Lead.LeadValidationRule1</members>

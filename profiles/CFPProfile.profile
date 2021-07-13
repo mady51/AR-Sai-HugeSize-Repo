@@ -127,10 +127,6 @@
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
-        <apexClass>A080</apexClass>
-        <enabled>false</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>A080123</apexClass>
         <enabled>false</enabled>
     </classAccesses>
@@ -1472,11 +1468,6 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>ACR4__c.Field1__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>ACR4__c.field2__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>

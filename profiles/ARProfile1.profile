@@ -139,10 +139,6 @@
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
-        <apexClass>A080</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>A080123</apexClass>
         <enabled>true</enabled>
     </classAccesses>

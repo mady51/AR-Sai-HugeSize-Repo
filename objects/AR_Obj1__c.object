@@ -243,14 +243,6 @@
         <errorMessage>Please Enter a value</errorMessage>
     </validationRules>
     <validationRules>
-        <fullName>ARSValidationRule1</fullName>
-        <active>true</active>
-        <description>Add Comment  for this Validationrule</description>
-        <errorConditionFormula>ISBLANK(AR_SField1__c)</errorConditionFormula>
-        <errorDisplayField>AR_SField1__c</errorDisplayField>
-        <errorMessage>Please enter a phone number</errorMessage>
-    </validationRules>    
-    <validationRules>
         <fullName>ARpValidationRule4</fullName>
         <active>true</active>
         <description>Add comment</description>
