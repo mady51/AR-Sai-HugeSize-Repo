@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>51.0</version>
+    <version>49.0</version>
     <types>
         <members>A0</members>
         <members>A000</members>
@@ -183,6 +183,7 @@
         <members>CommunitiesSelfRegConfirmControllerTest</members>
         <members>CommunitiesSelfRegController</members>
         <members>CommunitiesSelfRegControllerTest</members>
+        <members>Conflict123</members>
         <members>CreateContactFrmEmail</members>
         <members>D0</members>
         <members>D3</members>
@@ -237,6 +238,7 @@
         <members>Mar20Class4</members>
         <members>MarCls1</members>
         <members>MarCls2</members>
+        <members>MyCls</members>
         <members>MyProfilePageController</members>
         <members>MyProfilePageControllerTest</members>
         <members>N897</members>
@@ -288,6 +290,7 @@
         <members>SampathAug16thClass1</members>
         <members>SampathAug19thClass1</members>
         <members>SampathClass1</members>
+        <members>Sample</members>
         <members>Sep1</members>
         <members>Sep18class1</members>
         <members>Sep18class2</members>
