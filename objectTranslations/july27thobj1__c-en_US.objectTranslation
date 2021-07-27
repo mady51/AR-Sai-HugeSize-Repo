@@ -12,19 +12,11 @@
         <label>Translate1</label>
         <name>PickList11__c</name>
         <picklistValues>
-            <masterLabel>four</masterLabel>
-            <translation></translation>
-        </picklistValues>
-        <picklistValues>
             <masterLabel>one</masterLabel>
             <translation></translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>two</masterLabel>
-            <translation></translation>
-        </picklistValues>
-        <picklistValues>
-            <masterLabel>three</masterLabel>
             <translation></translation>
         </picklistValues>
     </fields>

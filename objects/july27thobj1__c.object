@@ -176,11 +176,6 @@
                     <default>false</default>
                     <label>two</label>
                 </value>
-                <value>
-                    <fullName>four</fullName>
-                    <default>false</default>
-                    <label>four</label>
-                </value>
             </valueSetDefinition>
         </valueSet>
     </fields>
