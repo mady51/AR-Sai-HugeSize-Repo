@@ -9,48 +9,48 @@
         <value>AR-Obj1s</value>
     </caseValues>
     <fields>
-        <label><!-- AR-SField1 --></label>
+        <label></label>
         <name>AR_SField1__c</name>
     </fields>
     <fields>
-        <label><!-- AR-SField2 --></label>
+        <label></label>
         <name>AR_SField2__c</name>
     </fields>
     <fields>
-        <label><!-- AR-SField3 --></label>
+        <label></label>
         <name>AR_SField3__c</name>
     </fields>
     <fields>
-        <label><!-- AR-SField4 --></label>
+        <label></label>
         <name>AR_SField4__c</name>
     </fields>
     <fields>
-        <label><!-- F2 --></label>
+        <label></label>
         <name>F2__c</name>
     </fields>
     <fields>
-        <label><!-- Pl2 --></label>
+        <label></label>
         <name>Pl2__c</name>
         <picklistValues>
             <masterLabel>1</masterLabel>
-            <translation><!-- 1 --></translation>
+            <translation></translation>
         </picklistValues>
     </fields>
     <startsWith>Consonant</startsWith>
     <validationRules>
-        <errorMessage><!-- Please Enter a value --></errorMessage>
+        <errorMessage></errorMessage>
         <name>ARPValidationRule1</name>
     </validationRules>
     <validationRules>
-        <errorMessage><!-- Please enter a phone number --></errorMessage>
+        <errorMessage></errorMessage>
         <name>ARSValidationRule1</name>
     </validationRules>
     <validationRules>
-        <errorMessage><!-- Please enter avalue --></errorMessage>
+        <errorMessage></errorMessage>
         <name>ARSValidationRule3</name>
     </validationRules>
     <validationRules>
-        <errorMessage><!-- PLease enter avalue --></errorMessage>
+        <errorMessage></errorMessage>
         <name>ARpValidationRule4</name>
     </validationRules>
 </CustomObjectTranslation>
