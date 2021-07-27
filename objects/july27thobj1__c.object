@@ -177,11 +177,6 @@
                     <label>two</label>
                 </value>
                 <value>
-                    <fullName>three</fullName>
-                    <default>false</default>
-                    <label>three</label>
-                </value>
-                <value>
                     <fullName>four</fullName>
                     <default>false</default>
                     <label>four</label>
