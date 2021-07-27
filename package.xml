@@ -2305,6 +2305,8 @@
         <members>configobj2__c.AutorabitExtId__c</members>
         <members>configobj2__c.f1__c</members>
         <members>feb8thObj1__c.F1__c</members>
+        <members>july27thobj1__c.PickList11__c</members>
+        <members>july27thobj1__c.PickList12__c</members>
         <members>lboj879__c.f8__c</members>
         <members>lobj1__c.field1__c</members>
         <members>lobj1__c.field2__c</members>
@@ -2858,6 +2860,7 @@
         <members>Zob1__c</members>
         <members>configobj2__c</members>
         <members>feb8thObj1__c</members>
+        <members>july27thobj1__c</members>
         <members>lboj879__c</members>
         <members>lobj1__c</members>
         <members>lobj2__c</members>
@@ -3019,6 +3022,7 @@
         <members>ZObj1__c-en_US</members>
         <members>Zob1__c-en_US</members>
         <members>configobj2__c-en_US</members>
+        <members>july27thobj1__c-en_US</members>
         <members>lboj879__c-en_US</members>
         <members>lobj1__c-en_US</members>
         <members>lobj2__c-en_US</members>
