@@ -15,10 +15,6 @@
             <masterLabel>one</masterLabel>
             <translation></translation>
         </picklistValues>
-        <picklistValues>
-            <masterLabel>two</masterLabel>
-            <translation></translation>
-        </picklistValues>
     </fields>
     <fields>
         <label>Translate2</label>
