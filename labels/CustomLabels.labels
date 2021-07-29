@@ -19,7 +19,7 @@
         <language>en_US</language>
         <protected>true</protected>
         <shortDescription>ACL25</shortDescription>
-        <value>123</value>
+        <value>SourceCommit</value>
     </labels>
     <labels>
         <fullName>APXL1</fullName>
