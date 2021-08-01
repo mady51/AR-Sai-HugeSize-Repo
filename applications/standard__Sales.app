@@ -12,32 +12,10 @@
     <tabs>standard-Forecasting3</tabs>
     <tabs>standard-Contract</tabs>
     <tabs>standard-Order</tabs>
+    <tabs>standard-Invoice</tabs>
     <tabs>standard-Case</tabs>
     <tabs>standard-Solution</tabs>
     <tabs>standard-Product2</tabs>
     <tabs>standard-report</tabs>
     <tabs>standard-Dashboard</tabs>
-    <tabs>ObjAc1__c</tabs>
-    <tabs>ZObj1__c</tabs>
-    <tabs>obj800__c</tabs>
-    <tabs>Sob1__c</tabs>
-    <tabs>STObj1__c</tabs>
-    <tabs>STObj2__c</tabs>
-    <tabs>STobj3__c</tabs>
-    <tabs>ConfigObj1__c</tabs>
-    <tabs>QObj2__c</tabs>
-    <tabs>SEObject1__c</tabs>
-    <tabs>lobj1__c</tabs>
-    <tabs>lobj2__c</tabs>
-    <tabs>mob2__c</tabs>
-    <tabs>rcobj1__c</tabs>
-    <tabs>qaobj91__c</tabs>
-    <tabs>configobj2__c</tabs>
-    <tabs>Oct23obj1__c</tabs>
-    <tabs>DlConfigObj151__c</tabs>
-    <tabs>DLConfigTestObj__c</tabs>
-    <tabs>ACR2__c</tabs>
-    <tabs>ACR3__c</tabs>
-    <tabs>Sai_Obj500__c</tabs>
-    <tabs>ContactPointPhone_Contact_Point_Phone_La__c</tabs>
 </CustomApplication>

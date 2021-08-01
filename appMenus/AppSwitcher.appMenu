@@ -41,6 +41,46 @@
         <type>CustomApplication</type>
     </appMenuItems>
     <appMenuItems>
+        <name>standard__Insights</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>standard__LightningSalesConsole</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>standard__LightningService</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>standard__LightningSales</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>standard__LightningInstrumentation</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>standard__SalesforceCMS</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>standard__LightningBolt</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>standard__LightningScheduler</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>standard__AllTabSet</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>standard__QueueManagement</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
+    <appMenuItems>
         <name>Dataloader_Bulk</name>
         <type>ConnectedApp</type>
     </appMenuItems>
@@ -73,27 +113,7 @@
         <type>ConnectedApp</type>
     </appMenuItems>
     <appMenuItems>
-        <name>standard__LightningInstrumentation</name>
-        <type>CustomApplication</type>
-    </appMenuItems>
-    <appMenuItems>
-        <name>standard__LightningSales</name>
-        <type>CustomApplication</type>
-    </appMenuItems>
-    <appMenuItems>
-        <name>Catch up</name>
-        <type>Network</type>
-    </appMenuItems>
-    <appMenuItems>
-        <name>standard__SalesforceCMS</name>
-        <type>CustomApplication</type>
-    </appMenuItems>
-    <appMenuItems>
-        <name>TestCommunity</name>
-        <type>Network</type>
-    </appMenuItems>
-    <appMenuItems>
-        <name>AppTest1</name>
-        <type>CustomApplication</type>
+        <name>DEVHUB_c0c2wqyupd0ni8jldzrl</name>
+        <type>ConnectedApp</type>
     </appMenuItems>
 </AppMenu>

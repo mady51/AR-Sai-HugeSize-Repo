@@ -3,7 +3,7 @@
     <canUsersGrantLoginAccess>true</canUsersGrantLoginAccess>
     <enableAdminLoginAsAnyUser>false</enableAdminLoginAsAnyUser>
     <enableAuditFieldsInactiveOwner>false</enableAuditFieldsInactiveOwner>
-    <enableAuraSecureEvalPref>false</enableAuraSecureEvalPref>
+    <enableAuraSecureEvalPref>true</enableAuraSecureEvalPref>
     <enableRequireHttpsConnection>true</enableRequireHttpsConnection>
     <isTLSv12Required xsi:nil="true"/>
     <isTLSv12RequiredCommunities xsi:nil="true"/>
@@ -523,7 +523,6 @@
     </networkAccess>
     <passwordPolicies>
         <complexity>AlphaNumeric</complexity>
-        <enableSetPasswordInApi>true</enableSetPasswordInApi>
         <expiration>NinetyDays</expiration>
         <historyRestriction>3</historyRestriction>
         <lockoutInterval>FifteenMinutes</lockoutInterval>
@@ -535,7 +534,7 @@
     </passwordPolicies>
     <sessionSettings>
         <allowUserAuthenticationByCertificate>false</allowUserAuthenticationByCertificate>
-        <canConfirmEmailChangeInLightningCommunities>false</canConfirmEmailChangeInLightningCommunities>
+        <canConfirmEmailChangeInLightningCommunities>true</canConfirmEmailChangeInLightningCommunities>
         <canConfirmIdentityBySmsOnly>true</canConfirmIdentityBySmsOnly>
         <disableTimeoutWarning>false</disableTimeoutWarning>
         <enableCSPOnEmail>true</enableCSPOnEmail>
@@ -546,29 +545,26 @@
         <enableClickjackNonsetupUser>false</enableClickjackNonsetupUser>
         <enableClickjackNonsetupUserHeaderless>false</enableClickjackNonsetupUserHeaderless>
         <enableClickjackSetup>true</enableClickjackSetup>
-        <enableContentSniffingProtection>false</enableContentSniffingProtection>
+        <enableContentSniffingProtection>true</enableContentSniffingProtection>
         <enableLightningLogin>true</enableLightningLogin>
         <enableLightningLoginOnlyWithUserPerm>false</enableLightningLoginOnlyWithUserPerm>
         <enablePostForSessions>false</enablePostForSessions>
         <enableSMSIdentity>true</enableSMSIdentity>
         <enableU2F>false</enableU2F>
-        <enableUpgradeInsecureRequests>false</enableUpgradeInsecureRequests>
-        <enableXssProtection>false</enableXssProtection>
+        <enableXssProtection>true</enableXssProtection>
         <enforceIpRangesEveryRequest>false</enforceIpRangesEveryRequest>
         <forceLogoutOnSessionTimeout>true</forceLogoutOnSessionTimeout>
         <forceRelogin>true</forceRelogin>
         <hasRetainedLoginHints>false</hasRetainedLoginHints>
         <hasUserSwitching>true</hasUserSwitching>
-        <hstsOnForcecomSites>false</hstsOnForcecomSites>
         <identityConfirmationOnEmailChange>false</identityConfirmationOnEmailChange>
         <identityConfirmationOnTwoFactorRegistrationEnabled>true</identityConfirmationOnTwoFactorRegistrationEnabled>
         <lockSessionsToDomain>true</lockSessionsToDomain>
         <lockSessionsToIp>false</lockSessionsToIp>
-        <lockerServiceCSP>false</lockerServiceCSP>
-        <redirectionWarning>false</redirectionWarning>
+        <lockerServiceCSP>true</lockerServiceCSP>
+        <redirectionWarning>true</redirectionWarning>
         <referrerPolicy>true</referrerPolicy>
         <requireHttpOnly>false</requireHttpOnly>
-        <requireHttps>true</requireHttps>
         <sessionTimeout>TwoHours</sessionTimeout>
     </sessionSettings>
     <singleSignOnSettings>

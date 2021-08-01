@@ -12,7 +12,7 @@
     <canViewThumbnailAssets>false</canViewThumbnailAssets>
     <enableAnalyticsSharingEnable>true</enableAnalyticsSharingEnable>
     <enableAutoCompleteCombo>true</enableAutoCompleteCombo>
-    <enableDashboardComponentSnapshot>true</enableDashboardComponentSnapshot>
+    <enableDashboardComponentSnapshot>false</enableDashboardComponentSnapshot>
     <enableDashboardFlexiTable>true</enableDashboardFlexiTable>
     <enableEmailReportsToPortalUsers>false</enableEmailReportsToPortalUsers>
     <enableFirebirdEditor>false</enableFirebirdEditor>
@@ -23,7 +23,7 @@
     <enableMassEnableReportBuilder>true</enableMassEnableReportBuilder>
     <enableNewChartsEngine>true</enableNewChartsEngine>
     <enableOrgHasWatchlistEnabled>true</enableOrgHasWatchlistEnabled>
-    <enableQueryLiveConnectors>false</enableQueryLiveConnectors>
+    <enableQueryLiveConnectors>true</enableQueryLiveConnectors>
     <enableRemoveFooterForRepDisplay>false</enableRemoveFooterForRepDisplay>
     <enableRemoveFooterFromRepExp>false</enableRemoveFooterFromRepExp>
     <enableReportNotificationsEnable>true</enableReportNotificationsEnable>
