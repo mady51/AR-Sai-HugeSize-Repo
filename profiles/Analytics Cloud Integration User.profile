@@ -246,6 +246,26 @@
         <visible>false</visible>
     </applicationVisibilities>
     <classAccesses>
+        <apexClass>A0</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>A000</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>A0071</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>A14</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>A191</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>ACEBrokerages_ChatterController</apexClass>
         <enabled>false</enabled>
     </classAccesses>
@@ -3362,6 +3382,14 @@
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
+        <apexClass>SA1</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>SA2M1</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>SBCSOBActions</apexClass>
         <enabled>false</enabled>
     </classAccesses>
@@ -3699,6 +3727,10 @@
     </classAccesses>
     <classAccesses>
         <apexClass>StaticVariablesforOppTeamRolesTest</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>T1_ABC_TemperatureConverter</apexClass>
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
@@ -12970,6 +13002,81 @@
         <enabled>false</enabled>
     </classAccesses>
     <custom>false</custom>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>ACCObjTest1__c.Apr6thpicklist1__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>ACCObjTest1__c.Are_you_a_Admin__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>ACCObjTest1__c.AutorabitExtId__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>ACCObjTest1__c.N1__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>ACCObjTest1__c.PLnew3__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>ACCObjTest1__c.PLt1__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>ACCObjTest1__c.Pf3__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>ACCObjTest1__c.Plt3__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>ACCObjTest1__c.pl1__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>ACCObjt1__c.FT1__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>ACCObjt1__c.FT2__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>ACR3__c.AutorabitExtId__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>ACR3__c.field1__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>ACR4__c.Field1__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>ACR4__c.Jan23rdF1__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
         <field>ANA_Underwriting__c.ASL__c</field>
@@ -65961,6 +66068,21 @@
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
+        <editable>true</editable>
+        <field>SBM1__c.F1__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>SBM2__c.F1__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>SBM2__c.F2__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
         <editable>false</editable>
         <field>SFDC_Volunteer_Event__c.AE_Attending_Count__c</field>
         <readable>false</readable>
@@ -78553,6 +78675,16 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>dsfs__Recipient__c.dsfs__Type__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>july27thobj1__c.PickList11__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>july27thobj1__c.PickList12__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -94480,6 +94612,26 @@
         <layout>ARF__c-Action Request Form Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Account-Account Layout - Brokerage</layout>
+        <recordType>Account.Brokerage</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Account-Account Layout - Customer</layout>
+        <recordType>Account.Confidential</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Account-Account Layout - Customer</layout>
+        <recordType>Account.Customer</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Account-Account Layout - Prospect</layout>
+        <recordType>Account.Prospect</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Account-Account Layout-Vendor</layout>
+        <recordType>Account.ServiceProvider</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Account-Account Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -94521,26 +94673,6 @@
     <layoutAssignments>
         <layout>Account-Account Layout</layout>
         <recordType>Account.vlocity_ins__MobilePhoneAccount</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Account-Account Layout - Brokerage</layout>
-        <recordType>Account.Brokerage</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Account-Account Layout - Customer</layout>
-        <recordType>Account.Confidential</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Account-Account Layout - Customer</layout>
-        <recordType>Account.Customer</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Account-Account Layout - Prospect</layout>
-        <recordType>Account.Prospect</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Account-Account Layout-Vendor</layout>
-        <recordType>Account.ServiceProvider</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Account-vlocity_ins__Account %28Vlocity 2%2E7%29</layout>
@@ -94760,11 +94892,11 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Billing__c-Billing Layout</layout>
-        <recordType>Billing__c.Billing</recordType>
+        <recordType>Billing__c.BillingASO</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Billing__c-Billing Layout</layout>
-        <recordType>Billing__c.BillingASO</recordType>
+        <recordType>Billing__c.Billing</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Broker_Consultant_Commissions1__c-Broker%2FConsultant Commissions1 Layout</layout>
@@ -95801,6 +95933,22 @@
         <layout>Open_Enrollment_Meetings__c-Open Enrollment Meetings Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Opportunity-Opportunity Layout - IGAP</layout>
+        <recordType>Opportunity.In_Group_Add_Product</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Opportunity-Opportunity Layout - IGC</layout>
+        <recordType>Opportunity.In_Group_Change</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Opportunity-Opportunity Layout - New Business</layout>
+        <recordType>Opportunity.New_Business</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Opportunity-Opportunity Layout - Renewal</layout>
+        <recordType>Opportunity.Renewal</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Opportunity-Opportunity Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -95838,22 +95986,6 @@
     <layoutAssignments>
         <layout>Opportunity-Opportunity Layout</layout>
         <recordType>Opportunity.StopLoss</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Opportunity-Opportunity Layout - IGAP</layout>
-        <recordType>Opportunity.In_Group_Add_Product</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Opportunity-Opportunity Layout - IGC</layout>
-        <recordType>Opportunity.In_Group_Change</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Opportunity-Opportunity Layout - New Business</layout>
-        <recordType>Opportunity.New_Business</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Opportunity-Opportunity Layout - Renewal</layout>
-        <recordType>Opportunity.Renewal</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Opportunity-vlocity_ins__Mobile Opportunity %28Vlocity 2%2E5%29</layout>
@@ -96575,6 +96707,12 @@
         <layout>SBC__c-SBC Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>SBM1__c-SBM1 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>SBM2__c-SBM2 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>SFDC_Volunteer_Event__c-Open Enrollment Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -96707,11 +96845,11 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Support_Request__c-End User Support Request</layout>
-        <recordType>Support_Request__c.EUSR_User_Create</recordType>
+        <recordType>Support_Request__c.EUSR_User_Create1</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Support_Request__c-End User Support Request</layout>
-        <recordType>Support_Request__c.EUSR_User_Create1</recordType>
+        <recordType>Support_Request__c.EUSR_User_Create</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Support_Request__c-End User Support Request</layout>
@@ -97125,6 +97263,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>dsfs__Recipient__c-dsfs__DocuSign Recipient Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>july27thobj1__c-july27thobj1 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>rrd__CustomPointConfig__c-rrd__CustomPoint Layout</layout>
@@ -97766,11 +97907,11 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>vlocity_ins__ObjectClass__c-vlocity_ins__Object Class Layout</layout>
-        <recordType>vlocity_ins__ObjectClass__c.vlocity_ins__Object</recordType>
+        <recordType>vlocity_ins__ObjectClass__c.vlocity_ins__ObjectType</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>vlocity_ins__ObjectClass__c-vlocity_ins__Object Class Layout</layout>
-        <recordType>vlocity_ins__ObjectClass__c.vlocity_ins__ObjectType</recordType>
+        <recordType>vlocity_ins__ObjectClass__c.vlocity_ins__Object</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>vlocity_ins__ObjectElement__c-vlocity_ins__Vlocity Object Section Element Layout</layout>
@@ -98347,6 +98488,25 @@
     <layoutAssignments>
         <layout>vlocity_ins__VqResource__c-vlocity_ins__Vlocity Acuity Resource Layout</layout>
     </layoutAssignments>
+    <loginHours/>
+    <objectPermissions>
+        <allowCreate>false</allowCreate>
+        <allowDelete>false</allowDelete>
+        <allowEdit>false</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>false</modifyAllRecords>
+        <object>ACCObjTest1__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>false</allowCreate>
+        <allowDelete>false</allowDelete>
+        <allowEdit>false</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>false</modifyAllRecords>
+        <object>ACCObjt1__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
     <objectPermissions>
         <allowCreate>false</allowCreate>
         <allowDelete>false</allowDelete>
@@ -100126,6 +100286,24 @@
         <allowEdit>false</allowEdit>
         <allowRead>true</allowRead>
         <modifyAllRecords>false</modifyAllRecords>
+        <object>SBM1__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>false</allowCreate>
+        <allowDelete>false</allowDelete>
+        <allowEdit>false</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>false</modifyAllRecords>
+        <object>SBM2__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>false</allowCreate>
+        <allowDelete>false</allowDelete>
+        <allowEdit>false</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>false</modifyAllRecords>
         <object>SFDC_Volunteer_Event__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
@@ -100883,6 +101061,15 @@
         <allowRead>true</allowRead>
         <modifyAllRecords>false</modifyAllRecords>
         <object>dsfs__Recipient__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>false</allowCreate>
+        <allowDelete>false</allowDelete>
+        <allowEdit>false</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>false</modifyAllRecords>
+        <object>july27thobj1__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
@@ -104833,6 +105020,11 @@
         <enabled>true</enabled>
     </pageAccesses>
     <recordTypeVisibilities>
+        <default>true</default>
+        <recordType>ACCObjTest1__c.SairecordType1</recordType>
+        <visible>true</visible>
+    </recordTypeVisibilities>
+    <recordTypeVisibilities>
         <default>false</default>
         <recordType>Account.Brokerage</recordType>
         <visible>false</visible>
@@ -108353,11 +108545,19 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
+        <name>ShowCompanyNameAsUserBadge</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
         <name>UseWebLink</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
         <name>ViewAllData</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>ViewAllForecasts</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
@@ -108370,6 +108570,10 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>ViewEventLogFiles</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>ViewPlatformEvents</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
@@ -108386,5 +108590,9 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>ViewSetup</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>WorkDotComUserPerm</name>
     </userPermissions>
 </Profile>

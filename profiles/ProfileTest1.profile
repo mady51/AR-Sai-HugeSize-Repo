@@ -834,7 +834,15 @@
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
+        <apexClass>SA1</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>SA100</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>SA2M1</apexClass>
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
@@ -927,6 +935,10 @@
     </classAccesses>
     <classAccesses>
         <apexClass>SiteRegisterControllerTest</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>T1_ABC_TemperatureConverter</apexClass>
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
@@ -1065,9 +1077,29 @@
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
+        <editable>true</editable>
+        <field>ACCObjTest1__c.Apr6thpicklist1__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>ACCObjTest1__c.Are_you_a_Admin__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
         <editable>false</editable>
         <field>ACCObjTest1__c.AutorabitExtId__c</field>
         <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>ACCObjTest1__c.N1__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>ACCObjTest1__c.PLnew3__c</field>
+        <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
@@ -1075,9 +1107,19 @@
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
+        <editable>true</editable>
+        <field>ACCObjTest1__c.Pf3__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
         <editable>false</editable>
         <field>ACCObjTest1__c.Plt3__c</field>
         <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>ACCObjTest1__c.pl1__c</field>
+        <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
@@ -1163,6 +1205,11 @@
         <editable>true</editable>
         <field>ACR4__c.Field1__c</field>
         <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>ACR4__c.Jan23rdF1__c</field>
+        <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
@@ -3461,6 +3508,21 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>SBM1__c.F1__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>SBM2__c.F1__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>SBM2__c.F2__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>SBTWOObj1__c.SBTWOFeidl1__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -3872,6 +3934,16 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>configobj2__c.f1__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>july27thobj1__c.PickList11__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>july27thobj1__c.PickList12__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -4344,6 +4416,12 @@
         <layout>SB100__c-SB100 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>SBM1__c-SBM1 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>SBM2__c-SBM2 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>SBTWOObj1__c-SBTWOObj1 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -4510,6 +4588,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>configobj2__c-configobj2 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>july27thobj1__c-july27thobj1 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>lboj879__c-lboj879 Layout</layout>
@@ -5577,6 +5658,24 @@
         <allowEdit>false</allowEdit>
         <allowRead>true</allowRead>
         <modifyAllRecords>false</modifyAllRecords>
+        <object>SBM1__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>false</allowCreate>
+        <allowDelete>false</allowDelete>
+        <allowEdit>false</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>false</modifyAllRecords>
+        <object>SBM2__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>false</allowCreate>
+        <allowDelete>false</allowDelete>
+        <allowEdit>false</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>false</modifyAllRecords>
         <object>SBTWOObj1__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
@@ -6036,6 +6135,15 @@
         <allowEdit>false</allowEdit>
         <allowRead>true</allowRead>
         <modifyAllRecords>false</modifyAllRecords>
+        <object>july27thobj1__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>false</allowCreate>
+        <allowDelete>false</allowDelete>
+        <allowEdit>false</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>false</modifyAllRecords>
         <object>lboj879__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
@@ -6264,6 +6372,11 @@
         <apexPage>UnderConstruction</apexPage>
         <enabled>false</enabled>
     </pageAccesses>
+    <recordTypeVisibilities>
+        <default>true</default>
+        <recordType>ACCObjTest1__c.SairecordType1</recordType>
+        <visible>true</visible>
+    </recordTypeVisibilities>
     <recordTypeVisibilities>
         <default>true</default>
         <recordType>Account.ARC1</recordType>
@@ -6654,6 +6767,10 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>ViewEventLogFiles</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>ViewPlatformEvents</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
