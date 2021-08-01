@@ -114,13 +114,15 @@
     </actionOverrides>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <enableFeeds>false</enableFeeds>
-    <externalSharingModel>ReadWrite</externalSharingModel>
     <fields>
         <fullName>AccountId</fullName>
         <type>Lookup</type>
     </fields>
     <fields>
         <fullName>Amount</fullName>
+    </fields>
+    <fields>
+        <fullName>Balance</fullName>
     </fields>
     <fields>
         <fullName>Comments</fullName>
@@ -184,6 +186,12 @@
     </fields>
     <fields>
         <fullName>Status</fullName>
+    </fields>
+    <fields>
+        <fullName>TotalAuthReversalAmount</fullName>
+    </fields>
+    <fields>
+        <fullName>TotalPaymentCaptureAmount</fullName>
     </fields>
     <listViews>
         <fullName>PaymentAuthorization</fullName>

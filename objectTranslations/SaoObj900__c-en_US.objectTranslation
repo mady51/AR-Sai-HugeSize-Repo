@@ -15,10 +15,6 @@
     <fields>
         <label><!-- f1 --></label>
         <name>f1__c</name>
-        <picklistValues>
-            <masterLabel>12</masterLabel>
-            <translation><!-- 12 --></translation>
-        </picklistValues>
     </fields>
     <fields>
         <label><!-- f4 --></label>

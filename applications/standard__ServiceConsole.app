@@ -179,7 +179,43 @@
     <tabs>standard-Case</tabs>
     <tabs>standard-Opportunity</tabs>
     <tabs>standard-Lead</tabs>
+    <tabs>nov26obj1__c</tabs>
+    <tabs>decobj__c</tabs>
+    <tabs>obj1new__c</tabs>
+    <tabs>objconfig2__c</tabs>
+    <tabs>T__c</tabs>
+    <tabs>DLConfigTestObj__c</tabs>
+    <tabs>ACR2__c</tabs>
+    <tabs>ACR3__c</tabs>
+    <tabs>Sai_Mar5Obj1__c</tabs>
     <workspaceConfig>
+        <mappings>
+            <tab>ACR2__c</tab>
+        </mappings>
+        <mappings>
+            <tab>ACR3__c</tab>
+        </mappings>
+        <mappings>
+            <tab>DLConfigTestObj__c</tab>
+        </mappings>
+        <mappings>
+            <tab>Sai_Mar5Obj1__c</tab>
+        </mappings>
+        <mappings>
+            <tab>T__c</tab>
+        </mappings>
+        <mappings>
+            <tab>decobj__c</tab>
+        </mappings>
+        <mappings>
+            <tab>nov26obj1__c</tab>
+        </mappings>
+        <mappings>
+            <tab>obj1new__c</tab>
+        </mappings>
+        <mappings>
+            <tab>objconfig2__c</tab>
+        </mappings>
         <mappings>
             <tab>standard-Account</tab>
         </mappings>

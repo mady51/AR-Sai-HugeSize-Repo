@@ -152,11 +152,10 @@
     <enableSearch>false</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
-    <externalSharingModel>Private</externalSharingModel>
     <fields>
-        <fullName>F8__c</fullName>
+        <fullName>F4__c</fullName>
         <externalId>false</externalId>
-        <label>F8</label>
+        <label>F4</label>
         <length>7</length>
         <required>false</required>
         <trackTrending>false</trackTrending>
@@ -176,9 +175,14 @@
         <label>RT1</label>
     </recordTypes>
     <recordTypes>
-        <fullName>RT8</fullName>
+        <fullName>RT2</fullName>
         <active>true</active>
-        <label>RT8</label>
+        <label>RT2</label>
+    </recordTypes>
+    <recordTypes>
+        <fullName>RT7</fullName>
+        <active>true</active>
+        <label>RT7</label>
     </recordTypes>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>

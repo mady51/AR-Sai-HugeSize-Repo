@@ -16,13 +16,5 @@
         <label><!-- F2 --></label>
         <name>F2__c</name>
     </fields>
-    <fields>
-        <label><!-- F3 --></label>
-        <name>F3__c</name>
-    </fields>
-    <fields>
-        <label><!-- F4 --></label>
-        <name>F4__c</name>
-    </fields>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

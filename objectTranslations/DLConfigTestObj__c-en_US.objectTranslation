@@ -9,6 +9,10 @@
         <value>DLConfigTestObjs</value>
     </caseValues>
     <fields>
+        <label><!-- AutorabitExtId__c --></label>
+        <name>AutorabitExtId__c</name>
+    </fields>
+    <fields>
         <label><!-- Field1 --></label>
         <name>Field1__c</name>
     </fields>

@@ -8,4 +8,13 @@
     <tabs>standard-Workspace</tabs>
     <tabs>standard-ContentSearch</tabs>
     <tabs>standard-ContentSubscriptions</tabs>
+    <tabs>nov26obj1__c</tabs>
+    <tabs>decobj__c</tabs>
+    <tabs>obj1new__c</tabs>
+    <tabs>objconfig2__c</tabs>
+    <tabs>T__c</tabs>
+    <tabs>DLConfigTestObj__c</tabs>
+    <tabs>ACR2__c</tabs>
+    <tabs>ACR3__c</tabs>
+    <tabs>Sai_Mar5Obj1__c</tabs>
 </CustomApplication>

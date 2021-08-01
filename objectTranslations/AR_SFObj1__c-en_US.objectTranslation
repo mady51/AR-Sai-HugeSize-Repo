@@ -13,8 +13,20 @@
         <name>ARSFField4__c</name>
     </fields>
     <fields>
+        <label><!-- AR-SFField1 --></label>
+        <name>AR_SFField1__c</name>
+    </fields>
+    <fields>
         <label><!-- AR-SFField2 --></label>
         <name>AR_SFField2__c</name>
     </fields>
+    <fields>
+        <label><!-- f3 --></label>
+        <name>f3__c</name>
+    </fields>
     <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- Please enter a value --></errorMessage>
+        <name>ARSFvalidationRule1</name>
+    </validationRules>
 </CustomObjectTranslation>

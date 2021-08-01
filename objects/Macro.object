@@ -142,15 +142,9 @@
     </actionOverrides>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <enableFeeds>false</enableFeeds>
-    <externalSharingModel>Private</externalSharingModel>
     <fields>
         <fullName>Description</fullName>
         <trackHistory>false</trackHistory>
-    </fields>
-    <fields>
-        <fullName>FolderId</fullName>
-        <trackHistory>false</trackHistory>
-        <type>Lookup</type>
     </fields>
     <fields>
         <fullName>IsAlohaSupported</fullName>

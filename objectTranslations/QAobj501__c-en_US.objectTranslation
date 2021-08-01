@@ -9,14 +9,6 @@
         <value>QAobj501s</value>
     </caseValues>
     <fields>
-        <label><!-- F2 --></label>
-        <name>F2__c</name>
-    </fields>
-    <fields>
-        <label><!-- F3 --></label>
-        <name>F3__c</name>
-    </fields>
-    <fields>
         <label><!-- f1 --></label>
         <name>f1__c</name>
     </fields>

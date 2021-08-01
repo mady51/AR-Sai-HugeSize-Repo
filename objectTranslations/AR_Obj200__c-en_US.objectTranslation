@@ -9,16 +9,8 @@
         <value>AR-Obj200s</value>
     </caseValues>
     <fields>
-        <label><!-- EmailField --></label>
-        <name>EmailField__c</name>
-    </fields>
-    <fields>
         <label><!-- Field4 --></label>
         <name>Field4__c</name>
-    </fields>
-    <fields>
-        <label><!-- Phone --></label>
-        <name>Phone__c</name>
     </fields>
     <fields>
         <label><!-- PicklistField1 --></label>

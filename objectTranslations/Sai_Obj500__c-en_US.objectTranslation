@@ -8,17 +8,5 @@
         <plural>true</plural>
         <value>Sai-Obj500s</value>
     </caseValues>
-    <fields>
-        <label><!-- PicklistField1 --></label>
-        <name>PicklistField1__c</name>
-        <picklistValues>
-            <masterLabel>12345</masterLabel>
-            <translation><!-- 12345 --></translation>
-        </picklistValues>
-    </fields>
-    <fields>
-        <label><!-- TxtField1 --></label>
-        <name>TxtField1__c</name>
-    </fields>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

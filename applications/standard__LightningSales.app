@@ -8,7 +8,6 @@
     <label>Sales</label>
     <navType>Standard</navType>
     <tabs>standard-home</tabs>
-    <tabs>standard-WaveHome</tabs>
     <tabs>standard-Opportunity</tabs>
     <tabs>standard-Lead</tabs>
     <tabs>standard-Task</tabs>
@@ -23,6 +22,16 @@
     <tabs>standard-Event</tabs>
     <tabs>standard-OtherUserProfile</tabs>
     <tabs>standard-Case</tabs>
+    <tabs>standard-News</tabs>
     <tabs>standard-Forecasting3</tabs>
+    <tabs>nov26obj1__c</tabs>
+    <tabs>decobj__c</tabs>
+    <tabs>obj1new__c</tabs>
+    <tabs>objconfig2__c</tabs>
+    <tabs>T__c</tabs>
+    <tabs>DLConfigTestObj__c</tabs>
+    <tabs>ACR2__c</tabs>
+    <tabs>ACR3__c</tabs>
+    <tabs>Sai_Mar5Obj1__c</tabs>
     <uiType>Lightning</uiType>
 </CustomApplication>
