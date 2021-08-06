@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>51.0</version>
+    <version>52.0</version>
     <types>
         <members>A0</members>
         <members>A000</members>
@@ -13,6 +13,7 @@
         <members>A027</members>
         <members>A028</members>
         <members>A036</members>
+        <members>A0456</members>
         <members>A052</members>
         <members>A080</members>
         <members>A08089</members>
@@ -38,9 +39,15 @@
         <members>A55</members>
         <members>A8971</members>
         <members>AAClsABPSiWR</members>
+        <members>AClassJCbvVodWnR</members>
+        <members>AClassJFHYnlXnuzTs</members>
+        <members>AClassJHqLEEujkC</members>
         <members>ANewCls1</members>
         <members>ApexClassTwenty</members>
         <members>AsyncToolingSoapSforceCom</members>
+        <members>Aug21stClass3</members>
+        <members>Aug21stClass4</members>
+        <members>Aug28</members>
         <members>Auto_Test</members>
         <members>BackUpTest</members>
         <members>Class1744</members>
@@ -51,6 +58,9 @@
         <members>DemoClass</members>
         <members>HelloClass</members>
         <members>HelloTestClass</members>
+        <members>Jan5</members>
+        <members>July22nd</members>
+        <members>Jun22ndcls1</members>
         <members>Km4</members>
         <members>MySampleApexClass</members>
         <members>MySampleApexClass1</members>
@@ -102,6 +112,10 @@
     <types>
         <members>Case.Standard</members>
         <name>AssignmentRule</name>
+    </types>
+    <types>
+        <members>Case</members>
+        <name>AssignmentRules</name>
     </types>
     <types>
         <members>ARIndexCmp</members>
@@ -320,6 +334,10 @@
         <name>Flow</name>
     </types>
     <types>
+        <members>BigHack__b.BHIndex</members>
+        <name>Index</name>
+    </types>
+    <types>
         <members>A1__c-A1 Layout</members>
         <members>AAA_001__c-AAA-001 Layout</members>
         <members>ABC__c-ABC Layout</members>
@@ -402,6 +420,10 @@
     </types>
     <types>
         <members>AAA_001__c.All</members>
+        <members>ACR2__c.All</members>
+        <members>ACR3__c.All</members>
+        <members>DLCObj18__c.All</members>
+        <members>DLObj1__c.All</members>
         <members>Point_Audit__c.All</members>
         <members>Sai_Mar5Obj1__c.All</members>
         <members>rk_obj1__c.All</members>
@@ -500,6 +522,9 @@
     </types>
     <types>
         <members>AAA_001__c.AAA_001RecordType</members>
+        <members>Dbj1__c.Dbj_RC1</members>
+        <members>Dbj1__c.Dbj_RC2</members>
+        <members>Obj900__c.Obj900RC1</members>
         <members>Sep23rdObj1__c.RT1</members>
         <members>Sep23rdObj1__c.RT2</members>
         <members>Sep23rdObj1__c.RT7</members>
@@ -521,5 +546,9 @@
         <members>de</members>
         <members>en_US</members>
         <name>Translations</name>
+    </types>
+    <types>
+        <members>AR_SFObj1__c.ARSFvalidationRule1</members>
+        <name>ValidationRule</name>
     </types>
 </Package>
