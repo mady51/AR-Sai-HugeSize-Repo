@@ -3,6 +3,8 @@
     <types>
         <members>A0</members>
         <members>A000</members>
+        <members>A00000LgKTWXnk</members>
+        <members>A00000SXaQxc</members>
         <members>A0001</members>
         <members>A0071</members>
         <members>A0123</members>
@@ -103,9 +105,13 @@
         <members>AC1</members>
         <members>AC100</members>
         <members>AC11</members>
+        <members>AC133</members>
         <members>AC2</members>
         <members>ACL24</members>
         <members>ACL25</members>
+        <members>ACL4</members>
+        <members>ACL50</members>
+        <members>ACL501</members>
         <members>CustomLabelTest2</members>
         <members>CustomlabelSB3</members>
         <members>DL1</members>
@@ -121,6 +127,12 @@
         <members>Dbj1__c</members>
         <members>Obj900__c</members>
         <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Campaign</members>
+        <members>EAC</members>
+        <members>EmailAdministration</members>
+        <name>EinsteinAgentSettings</name>
     </types>
     <types>
         <members>DLCObj18__c.All</members>
