@@ -77,6 +77,10 @@
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
+        <apexClass>packClass3</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>s98765</apexClass>
         <enabled>true</enabled>
     </classAccesses>
