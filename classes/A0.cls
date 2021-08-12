@@ -1,9 +1,6 @@
 public Class A0
 {
-//hello autorabit
-// hello! 
-//Hello !!!
-//Hello !!!a
+//Hello VW
 public Account createAccount(String name)  //method to create account
 {//comment source line4 srcmodififylast
 Account QDTest= new Account();
