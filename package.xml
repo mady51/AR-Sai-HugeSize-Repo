@@ -133,6 +133,8 @@
         <members>Dbj1__c.F2__c</members>
         <members>Obj900__c.Field1__c</members>
         <members>Obj900__c.field2__c</members>
+        <members>k123__c.F1__c</members>
+        <members>k123__c.vc__c</members>
         <name>CustomField</name>
     </types>
     <types>
@@ -157,6 +159,7 @@
         <members>DObj2__c</members>
         <members>Dbj1__c</members>
         <members>Obj900__c</members>
+        <members>k123__c</members>
         <name>CustomObject</name>
     </types>
     <types>
