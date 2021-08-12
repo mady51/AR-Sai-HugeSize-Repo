@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <applicationVisibilities>
+        <application>AppTest1</application>
+        <visible>true</visible>
+    </applicationVisibilities>
+    <applicationVisibilities>
+        <application>standard__AppLauncher</application>
+        <visible>true</visible>
+    </applicationVisibilities>
     <classAccesses>
         <apexClass>A0</apexClass>
         <enabled>true</enabled>
@@ -9,59 +17,15 @@
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
-        <apexClass>A012378</apexClass>
+        <apexClass>Jun24cls1</apexClass>
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
-        <apexClass>A0233</apexClass>
+        <apexClass>y10</apexClass>
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
-        <apexClass>A0456</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
-        <apexClass>A08123</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
-        <apexClass>A090</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
-        <apexClass>A1</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
-        <apexClass>A17</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
-        <apexClass>A55</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
-        <apexClass>A57</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
-        <apexClass>A58</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
-        <apexClass>A59</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
-        <apexClass>DemoClass3</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
-        <apexClass>Feb22ndCls1</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
-        <apexClass>SKVClass1</apexClass>
+        <apexClass>y11</apexClass>
         <enabled>true</enabled>
     </classAccesses>
     <customMetadataTypeAccesses>
@@ -72,24 +36,15 @@
         <enabled>true</enabled>
         <name>TestCustomPerm1</name>
     </customPermissions>
-    <customSettingAccesses>
-        <enabled>true</enabled>
-        <name>pradeep__c</name>
-    </customSettingAccesses>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>ACDemoOBj1__c.Ftest12__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
         <field>ACRObj1__c.Field4__c</field>
         <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>Accobj4__c.Field2__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>Account.MyCoolCheckBox__c</field>
-        <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
@@ -98,28 +53,23 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>Dbj1__c.F2__c</field>
-        <readable>false</readable>
+        <field>Feb21Obj1__c.F1__c</field>
+        <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>Dbj1__c.F3__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>DemoObj007__c.F1__c</field>
-        <readable>false</readable>
+        <field>Feb21Obj1__c.F2__c</field>
+        <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
         <field>Feb22ndObj1__c.F1__c</field>
-        <readable>false</readable>
+        <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
         <field>Feb22ndObj1__c.F2__c</field>
-        <readable>false</readable>
+        <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
@@ -127,44 +77,29 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
+        <editable>true</editable>
+        <field>KN1__c.F1__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
         <editable>false</editable>
-        <field>NA17Obj1__c.F1__c</field>
-        <readable>false</readable>
+        <field>KN1__c.F2__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Mar19SaiObj1__c.F1__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Mar19SaiObj1__c.F2__c</field>
+        <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
         <field>Oct14Test1__c.F1__c</field>
         <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>Oct14Test1__c.F2__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>PackObj1__c.F1__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>PackObj1__c.F2__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>PradeepObj1__c.F1__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>RC1__c.F1__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>SSObj1__c.F1__c</field>
-        <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
@@ -185,10 +120,10 @@
     <license>Salesforce</license>
     <objectPermissions>
         <allowCreate>true</allowCreate>
-        <allowDelete>true</allowDelete>
+        <allowDelete>false</allowDelete>
         <allowEdit>true</allowEdit>
         <allowRead>true</allowRead>
-        <modifyAllRecords>true</modifyAllRecords>
+        <modifyAllRecords>false</modifyAllRecords>
         <object>ACDemoOBj1__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
@@ -202,6 +137,15 @@
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
+        <allowCreate>false</allowCreate>
+        <allowDelete>false</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>false</modifyAllRecords>
+        <object>Case</object>
+        <viewAllRecords>false</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
         <allowCreate>true</allowCreate>
         <allowDelete>true</allowDelete>
         <allowEdit>true</allowEdit>
@@ -212,9 +156,18 @@
     </objectPermissions>
     <objectPermissions>
         <allowCreate>false</allowCreate>
-        <allowDelete>false</allowDelete>
-        <allowEdit>false</allowEdit>
-        <allowRead>false</allowRead>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>false</modifyAllRecords>
+        <object>Feb21Obj1__c</object>
+        <viewAllRecords>false</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>false</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
         <modifyAllRecords>false</modifyAllRecords>
         <object>Feb22ndObj1__c</object>
         <viewAllRecords>false</viewAllRecords>
@@ -226,6 +179,15 @@
         <allowRead>true</allowRead>
         <modifyAllRecords>false</modifyAllRecords>
         <object>KCobj1__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>Mar19SaiObj1__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
@@ -247,7 +209,15 @@
         <viewAllRecords>false</viewAllRecords>
     </objectPermissions>
     <pageAccesses>
-        <apexPage>ApexPage</apexPage>
+        <apexPage>ApexPage5</apexPage>
+        <enabled>true</enabled>
+    </pageAccesses>
+    <pageAccesses>
+        <apexPage>Apexpage1</apexPage>
+        <enabled>true</enabled>
+    </pageAccesses>
+    <pageAccesses>
+        <apexPage>Apexpage6</apexPage>
         <enabled>true</enabled>
     </pageAccesses>
     <recordTypeVisibilities>
@@ -256,6 +226,30 @@
     </recordTypeVisibilities>
     <userPermissions>
         <enabled>true</enabled>
+        <name>ApexRestServices</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>ApiEnabled</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>AssignPermissionSets</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>AssignTopics</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
         <name>EditCaseComments</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>ManageInternalUsers</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>ManageIpAddresses</name>
     </userPermissions>
 </PermissionSet>
