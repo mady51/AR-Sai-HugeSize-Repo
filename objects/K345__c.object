@@ -143,7 +143,7 @@
     <allowInChatterGroups>false</allowInChatterGroups>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <deploymentStatus>Deployed</deploymentStatus>
-    <description>vcb Update1 new11111</description>
+    <description>vcb Update1 new11111vvv nxcvbxcvbc</description>
     <enableActivities>false</enableActivities>
     <enableBulkApi>true</enableBulkApi>
     <enableFeeds>false</enableFeeds>
@@ -157,7 +157,7 @@
     <fields>
         <fullName>F1__c</fullName>
         <deleteConstraint>SetNull</deleteConstraint>
-        <description>cxv</description>
+        <description>cxv new</description>
         <externalId>false</externalId>
         <label>A1</label>
         <referenceTo>A1__c</referenceTo>
@@ -170,7 +170,7 @@
     </fields>
     <fields>
         <fullName>F2__c</fullName>
-        <description>v</description>
+        <description>v nwe</description>
         <externalId>false</externalId>
         <label>A1</label>
         <referenceTo>A1__c</referenceTo>
