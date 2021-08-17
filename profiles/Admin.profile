@@ -1677,6 +1677,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>Account.Did_you_say_hello__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>Account.DunsNumber</field>
         <readable>true</readable>
     </fieldPermissions>
