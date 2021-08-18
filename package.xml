@@ -2,6 +2,7 @@
     <version>51.0</version>
     <types>
         <members>A0071</members>
+        <members>A036</members>
         <name>ApexClass</name>
     </types>
 </Package>
