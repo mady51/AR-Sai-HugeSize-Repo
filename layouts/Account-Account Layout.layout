@@ -47,6 +47,10 @@
                 <behavior>Edit</behavior>
                 <field>Did_you_say_hello__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Is_this_Ok__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>

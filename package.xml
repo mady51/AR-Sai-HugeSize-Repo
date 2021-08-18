@@ -596,6 +596,7 @@
         <members>Account.Industry</members>
         <members>Account.IsCustomerPortal</members>
         <members>Account.IsPartner</members>
+        <members>Account.Is_this_Ok__c</members>
         <members>Account.Jigsaw</members>
         <members>Account.MyCoolCheckBox__c</members>
         <members>Account.NaicsCode</members>
