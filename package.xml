@@ -4530,7 +4530,6 @@
         <members>Default_Navigation</members>
         <members>Default_Navigation1</members>
         <members>Default_Navigation2</members>
-        <members>Test1</members>
         <members>TestNM1</members>
         <name>NavigationMenu</name>
     </types>
