@@ -6,6 +6,7 @@
         <members>A15</members>
         <members>A150</members>
         <members>A151</members>
+        <members>A19</members>
         <name>ApexClass</name>
     </types>
 </Package>
