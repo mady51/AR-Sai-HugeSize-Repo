@@ -597,6 +597,7 @@
         <members>Account.IsCustomerPortal</members>
         <members>Account.IsPartner</members>
         <members>Account.Is_this_Ok__c</members>
+        <members>Account.Is_this_a_general_account__c</members>
         <members>Account.Is_this_deployed__c</members>
         <members>Account.Jigsaw</members>
         <members>Account.MyCoolCheckBox__c</members>

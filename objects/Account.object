@@ -384,6 +384,18 @@
         <type>Checkbox</type>
     </fields>
     <fields>
+        <fullName>Is_this_a_general_account__c</fullName>
+        <description>To help write the status of the account</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Please enter the status of the account.</inlineHelpText>
+        <label>Is this a general account?</label>
+        <length>32</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Is_this_deployed__c</fullName>
         <defaultValue>false</defaultValue>
         <externalId>false</externalId>
