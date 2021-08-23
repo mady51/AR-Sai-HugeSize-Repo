@@ -622,6 +622,7 @@
         <members>Account.Type</members>
         <members>Account.UpsellOpportunity__c</members>
         <members>Account.Website</members>
+        <members>Account.Whats_the_deployment_time__c</members>
         <members>Account.YearStarted</members>
         <members>AccountBrand.AccountId</members>
         <members>AccountBrand.CompanyName</members>
