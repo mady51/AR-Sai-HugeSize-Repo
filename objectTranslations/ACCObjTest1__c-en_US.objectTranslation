@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>ACCObjTest1</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>ACCObjTest1s</value>
+    </caseValues>
+    <fields>
+        <label><!-- Apr6thpicklist1 --></label>
+        <name>Apr6thpicklist1__c</name>
+        <picklistValues>
+            <masterLabel>1</masterLabel>
+            <translation><!-- 1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>10</masterLabel>
+            <translation><!-- 10 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>11</masterLabel>
+            <translation><!-- 11 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>2</masterLabel>
+            <translation><!-- 2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>3</masterLabel>
+            <translation><!-- 3 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>4</masterLabel>
+            <translation><!-- 4 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>5</masterLabel>
+            <translation><!-- 5 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>6</masterLabel>
+            <translation><!-- 6 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>7</masterLabel>
+            <translation><!-- 7 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Are you a Admin --></label>
+        <name>Are_you_a_Admin__c</name>
+    </fields>
+    <fields>
+        <label><!-- AutorabitExtId__c --></label>
+        <name>AutorabitExtId__c</name>
+    </fields>
+    <fields>
+        <label><!-- N1 --></label>
+        <name>N1__c</name>
+        <picklistValues>
+            <masterLabel>12345</masterLabel>
+            <translation><!-- 12345 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- PLnew3 --></label>
+        <name>PLnew3__c</name>
+        <picklistValues>
+            <masterLabel>sd</masterLabel>
+            <translation><!-- sd --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- PLt1 --></label>
+        <name>PLt1__c</name>
+        <picklistValues>
+            <masterLabel>2</masterLabel>
+            <translation><!-- 2 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Pf3 --></label>
+        <name>Pf3__c</name>
+        <picklistValues>
+            <masterLabel>1</masterLabel>
+            <translation><!-- 1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>test</masterLabel>
+            <translation><!-- test --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Plt3 --></label>
+        <name>Plt3__c</name>
+        <picklistValues>
+            <masterLabel>latest</masterLabel>
+            <translation><!-- latest --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- pl13 --></label>
+        <name>pl1__c</name>
+        <picklistValues>
+            <masterLabel>fg</masterLabel>
+            <translation><!-- fg --></translation>
+        </picklistValues>
+    </fields>
+    <layouts>
+        <layout>Custom-Layout1</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Fields --></label>
+            <section>Fields</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>sai</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Fields --></label>
+            <section>Fields</section>
+        </sections>
+    </layouts>
+    <recordTypes>
+        <description><!-- test --></description>
+        <label><!-- SairecordType1 --></label>
+        <name>SairecordType1</name>
+    </recordTypes>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>
