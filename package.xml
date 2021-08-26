@@ -626,6 +626,7 @@
         <members>Account.Type</members>
         <members>Account.UpsellOpportunity__c</members>
         <members>Account.Website</members>
+        <members>Account.Whats_the_Acct_GID_number__c</members>
         <members>Account.Whats_the_deployment_time__c</members>
         <members>Account.YearStarted</members>
         <members>AccountBrand.AccountId</members>
@@ -1667,6 +1668,7 @@
         <members>mob2__c.AutorabitExtId__c</members>
         <members>mob2__c.field1__c</members>
         <members>obj1__c.Field1__c</members>
+        <members>obj1s__c.SomeEmail__c</members>
         <members>obj2__c.Field2__c</members>
         <members>obj800__c.AutorabitExtId__c</members>
         <members>obj800__c.field1__c</members>

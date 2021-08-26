@@ -591,6 +591,16 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>Whats_the_Acct_GID_number__c</fullName>
+        <externalId>false</externalId>
+        <label>Whats the Acct GID number?</label>
+        <length>32</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Whats_the_deployment_time__c</fullName>
         <externalId>false</externalId>
         <label>Whats the deployment time?</label>
