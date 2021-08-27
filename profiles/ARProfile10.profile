@@ -6,6 +6,16 @@
         <visible>false</visible>
     </applicationVisibilities>
     <applicationVisibilities>
+        <application>AppTest1</application>
+        <default>false</default>
+        <visible>false</visible>
+    </applicationVisibilities>
+    <applicationVisibilities>
+        <application>AppTest1</application>
+        <default>false</default>
+        <visible>false</visible>
+    </applicationVisibilities>
+    <applicationVisibilities>
         <application>standard__AppLauncher</application>
         <default>false</default>
         <visible>true</visible>
@@ -195,6 +205,14 @@
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
+        <apexClass>A1456</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+     <classAccesses>
+        <apexClass>A1456</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+     <classAccesses>
         <apexClass>A1456</apexClass>
         <enabled>false</enabled>
     </classAccesses>
@@ -2450,6 +2468,16 @@
         <editable>true</editable>
         <field>Contact.Description</field>
         <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Contact.DoNotCall</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Contact.DoNotCall</field>
+        <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
