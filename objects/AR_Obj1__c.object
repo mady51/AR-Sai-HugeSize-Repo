@@ -249,15 +249,7 @@
         <errorConditionFormula>ISBLANK(AR_SField1__c)</errorConditionFormula>
         <errorDisplayField>AR_SField1__c</errorDisplayField>
         <errorMessage>Please enter a phone number</errorMessage>
-    </validationRules>
-    <validationRules>
-        <fullName>ARSValidationRule3</fullName>
-        <active>true</active>
-        <description>Add comment for this  ARSValidationRule3</description>
-        <errorConditionFormula>ISBLANK( AR_SField3__c )</errorConditionFormula>
-        <errorDisplayField>AR_SField3__c</errorDisplayField>
-        <errorMessage>Please enter avalue</errorMessage>
-    </validationRules>
+    </validationRules>    
     <validationRules>
         <fullName>ARpValidationRule4</fullName>
         <active>true</active>
