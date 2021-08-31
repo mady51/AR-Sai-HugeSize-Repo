@@ -152,10 +152,18 @@
     <enableSearch>false</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
-    <externalSharingModel>ReadWrite</externalSharingModel>
+    <fields>
+        <fullName>Field1__c</fullName>
+        <externalId>false</externalId>
+        <label>Field1</label>
+        <length>8</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
     <fields>
         <fullName>Field2__c</fullName>
-        <description>Test sai kumar @#$%^&amp;*()_+-=?&gt;&lt;,./&quot;:;&apos;\][}{~!</description>
         <externalId>false</externalId>
         <label>Field2</label>
         <length>7</length>
@@ -174,31 +182,49 @@
         <type>Phone</type>
     </fields>
     <fields>
-        <fullName>Field4__c</fullName>
+        <fullName>Field5__c</fullName>
         <externalId>false</externalId>
-        <label>Field4</label>
-        <length>9</length>
+        <label>Field5</label>
+        <length>7</length>
         <required>false</required>
         <trackTrending>false</trackTrending>
         <type>Text</type>
         <unique>false</unique>
     </fields>
     <fields>
-        <fullName>Field__c</fullName>
+        <fullName>Field6__c</fullName>
         <externalId>false</externalId>
-        <label>Field</label>
+        <label>Field6</label>
         <length>8</length>
         <required>false</required>
         <trackTrending>false</trackTrending>
         <type>Text</type>
         <unique>false</unique>
     </fields>
-    <label>ACRObj1</label>
+    <fields>
+        <fullName>Field8__c</fullName>
+        <externalId>false</externalId>
+        <label>Field8</label>
+        <length>8</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>field4__c</fullName>
+        <externalId>false</externalId>
+        <label>field4</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Phone</type>
+    </fields>
+    <label>ACROBj1</label>
     <nameField>
-        <label>ACRObj1 Name</label>
+        <label>ACROBj1 Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>ACRObj1s</pluralLabel>
+    <pluralLabel>ACROBj1s</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
