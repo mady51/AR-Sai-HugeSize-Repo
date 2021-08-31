@@ -1,6 +1,6 @@
 public Class A0
 {
-//Helloas! 
+//Hello World! 
 public Account createAccount(String name)  //method to create account
 {
 Account QDTest= new Account();
