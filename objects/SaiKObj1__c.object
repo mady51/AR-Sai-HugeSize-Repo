@@ -172,33 +172,6 @@
         <type>Email</type>
         <unique>false</unique>
     </fields>
-    <fields>
-        <fullName>PIckListobj1__c</fullName>
-        <externalId>false</externalId>
-        <label>PIckListobj1</label>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Picklist</type>
-        <valueSet>
-            <restricted>true</restricted>
-            <valueSetDefinition>
-                <sorted>false</sorted>
-                <value>
-                    <fullName>112</fullName>
-                    <default>false</default>
-                    <label>112</label>
-                </value>
-            </valueSetDefinition>
-        </valueSet>
-    </fields>
-    <fields>
-        <fullName>field2__c</fullName>
-        <externalId>false</externalId>
-        <label>field2</label>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Phone</type>
-    </fields>
     <label>SaiKObj1</label>
     <nameField>
         <label>SaiKObj1 Name</label>

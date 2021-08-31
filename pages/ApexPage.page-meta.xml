@@ -3,18 +3,8 @@
     <apiVersion>36.0</apiVersion>
     <availableInTouch>true</availableInTouch>
     <confirmationTokenRequired>true</confirmationTokenRequired>
-    <description>111</description>
+    <description>Add  Description 111111 Testa dsadhhsa</description>
     <label>ApexPage</label>
-    <packageVersions>
-        <majorNumber>1</majorNumber>
-        <minorNumber>157</minorNumber>
-        <namespace>agf</namespace>
-    </packageVersions>
-    <packageVersions>
-        <majorNumber>1</majorNumber>
-        <minorNumber>10</minorNumber>
-        <namespace>ldt</namespace>
-    </packageVersions>
     <packageVersions>
         <majorNumber>1</majorNumber>
         <minorNumber>7</minorNumber>

@@ -153,15 +153,6 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
-    <fields>
-        <fullName>field1__c</fullName>
-        <description>12</description>
-        <externalId>false</externalId>
-        <label>field1</label>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Phone</type>
-    </fields>
     <label>SaiKObj2</label>
     <nameField>
         <label>SaiKObj2 Name</label>

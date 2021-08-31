@@ -155,24 +155,6 @@
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
     <fields>
-        <fullName>DateField1__c</fullName>
-        <externalId>false</externalId>
-        <label>DateField1</label>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Date</type>
-    </fields>
-    <fields>
-        <fullName>EmailField1__c</fullName>
-        <description>Test</description>
-        <externalId>false</externalId>
-        <label>EmailField1</label>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Email</type>
-        <unique>false</unique>
-    </fields>
-    <fields>
         <fullName>PhoneField__c</fullName>
         <description>111111</description>
         <externalId>false</externalId>
@@ -199,35 +181,6 @@
                 </value>
             </valueSetDefinition>
         </valueSet>
-    </fields>
-    <fields>
-        <fullName>PickListField2__c</fullName>
-        <externalId>false</externalId>
-        <label>PickListField2</label>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Picklist</type>
-        <valueSet>
-            <restricted>true</restricted>
-            <valueSetDefinition>
-                <sorted>false</sorted>
-                <value>
-                    <fullName>123</fullName>
-                    <default>false</default>
-                    <label>123</label>
-                </value>
-            </valueSetDefinition>
-        </valueSet>
-    </fields>
-    <fields>
-        <fullName>TextField__c</fullName>
-        <externalId>false</externalId>
-        <label>TextField</label>
-        <length>6</length>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Text</type>
-        <unique>false</unique>
     </fields>
     <label>SaiObj10</label>
     <nameField>

@@ -183,7 +183,6 @@
     </fields>
     <fields>
         <fullName>Field2__c</fullName>
-        <description>New897654</description>
         <externalId>false</externalId>
         <label>Field2</label>
         <required>false</required>
