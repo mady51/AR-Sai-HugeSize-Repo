@@ -583,6 +583,7 @@
         <members>Account.AccountSource</members>
         <members>Account.Account_PID_Number__c</members>
         <members>Account.Active__c</members>
+        <members>Account.Alternative_Email__c</members>
         <members>Account.AnnualRevenue</members>
         <members>Account.AutorabitExtId__c</members>
         <members>Account.BillingAddress</members>
