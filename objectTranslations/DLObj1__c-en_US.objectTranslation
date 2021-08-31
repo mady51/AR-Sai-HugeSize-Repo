@@ -8,5 +8,29 @@
         <plural>true</plural>
         <value>DLObj1s</value>
     </caseValues>
+    <fields>
+        <label><!-- AutorabitExtId__c --></label>
+        <name>AutorabitExtId__c</name>
+    </fields>
+    <fields>
+        <label><!-- Field1 --></label>
+        <name>Field1__c</name>
+    </fields>
+    <fields>
+        <label><!-- Field2 --></label>
+        <name>Field2__c</name>
+    </fields>
+    <fields>
+        <label><!-- Field3 --></label>
+        <name>Field3__c</name>
+    </fields>
+    <fields>
+        <label><!-- Field4 --></label>
+        <name>Field4__c</name>
+    </fields>
+    <fields>
+        <label><!-- Field5 --></label>
+        <name>Field5__c</name>
+    </fields>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

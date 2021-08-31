@@ -8,5 +8,9 @@
         <plural>true</plural>
         <value>RObjs</value>
     </caseValues>
+    <fields>
+        <label><!-- RField1 --></label>
+        <name>RField1__c</name>
+    </fields>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

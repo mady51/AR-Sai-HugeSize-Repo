@@ -8,5 +8,9 @@
         <plural>true</plural>
         <value>E</value>
     </caseValues>
+    <fields>
+        <label><!-- &amp;lt;&amp;gt rk --></label>
+        <name>lt_gt_rk__c</name>
+    </fields>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

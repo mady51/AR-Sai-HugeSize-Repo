@@ -8,5 +8,13 @@
         <plural>true</plural>
         <value>SaiObject007s</value>
     </caseValues>
+    <fields>
+        <label><!-- EmailField --></label>
+        <name>EmailField__c</name>
+    </fields>
+    <fields>
+        <label><!-- TextField --></label>
+        <name>TextField__c</name>
+    </fields>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

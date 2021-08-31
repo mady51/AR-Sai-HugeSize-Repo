@@ -8,5 +8,15 @@
         <plural>true</plural>
         <value>K345s</value>
     </caseValues>
+    <fields>
+        <label><!-- A1 --></label>
+        <name>F1__c</name>
+        <relationshipLabel><!-- K345s --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- A1 --></label>
+        <name>F2__c</name>
+        <relationshipLabel><!-- K345s (A1) --></relationshipLabel>
+    </fields>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

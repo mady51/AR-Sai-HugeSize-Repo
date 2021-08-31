@@ -8,5 +8,21 @@
         <plural>true</plural>
         <value>AccObjs1234s</value>
     </caseValues>
+    <fields>
+        <label><!-- Pfield1 --></label>
+        <name>Pfield1__c</name>
+    </fields>
+    <fields>
+        <label><!-- PickListTest1 --></label>
+        <name>PickListTest1__c</name>
+        <picklistValues>
+            <masterLabel>1</masterLabel>
+            <translation><!-- 1 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- SFeled1 --></label>
+        <name>SFeled1__c</name>
+    </fields>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

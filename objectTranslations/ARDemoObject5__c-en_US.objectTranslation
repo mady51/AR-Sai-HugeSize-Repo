@@ -8,5 +8,9 @@
         <plural>true</plural>
         <value>ARDemoObject5s</value>
     </caseValues>
+    <fields>
+        <label><!-- TextField1 --></label>
+        <name>TextField1__c</name>
+    </fields>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

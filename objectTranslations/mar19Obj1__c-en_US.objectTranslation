@@ -8,5 +8,9 @@
         <plural>true</plural>
         <value>mar19Obj1s</value>
     </caseValues>
+    <fields>
+        <label><!-- Field1 --></label>
+        <name>Field1__c</name>
+    </fields>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

@@ -8,5 +8,25 @@
         <plural>true</plural>
         <value>DObj2s</value>
     </caseValues>
+    <fields>
+        <label><!-- Field3 --></label>
+        <name>Field3__c</name>
+    </fields>
+    <fields>
+        <label><!-- Field4 --></label>
+        <name>Field4__c</name>
+    </fields>
+    <fields>
+        <label><!-- field1 --></label>
+        <name>field1__c</name>
+    </fields>
+    <fields>
+        <label><!-- field2 --></label>
+        <name>field2__c</name>
+    </fields>
     <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- please enter a value --></errorMessage>
+        <name>Vaidationrule11</name>
+    </validationRules>
 </CustomObjectTranslation>

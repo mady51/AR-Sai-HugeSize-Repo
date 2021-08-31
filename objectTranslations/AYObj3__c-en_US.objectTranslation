@@ -8,5 +8,9 @@
         <plural>true</plural>
         <value>AYObj3s</value>
     </caseValues>
+    <fields>
+        <label><!-- Ayfd2 --></label>
+        <name>Ayfd2__c</name>
+    </fields>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

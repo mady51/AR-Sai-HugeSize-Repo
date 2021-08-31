@@ -8,5 +8,25 @@
         <plural>true</plural>
         <value>QAobj9s</value>
     </caseValues>
+    <fields>
+        <label><!-- Field4 --></label>
+        <name>Field4__c</name>
+    </fields>
+    <fields>
+        <label><!-- field1 --></label>
+        <name>field1__c</name>
+    </fields>
+    <fields>
+        <label><!-- field2 --></label>
+        <name>field2__c</name>
+    </fields>
+    <fields>
+        <label><!-- field3 --></label>
+        <name>field3__c</name>
+    </fields>
+    <fields>
+        <label><!-- field5 --></label>
+        <name>field5__c</name>
+    </fields>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

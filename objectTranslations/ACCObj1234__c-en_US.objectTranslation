@@ -8,5 +8,17 @@
         <plural>true</plural>
         <value>ACCObj1234s</value>
     </caseValues>
+    <fields>
+        <label><!-- AutorabitExtId__c --></label>
+        <name>AutorabitExtId__c</name>
+    </fields>
+    <fields>
+        <label><!-- TestFeidl1234 --></label>
+        <name>TestFeidl1234__c</name>
+    </fields>
+    <fields>
+        <label><!-- TestField3456 --></label>
+        <name>TestField3456__c</name>
+    </fields>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

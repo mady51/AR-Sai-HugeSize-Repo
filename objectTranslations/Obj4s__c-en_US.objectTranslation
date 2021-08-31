@@ -8,5 +8,13 @@
         <plural>true</plural>
         <value>Obj4</value>
     </caseValues>
+    <fields>
+        <label><!-- F1 --></label>
+        <name>F1__c</name>
+    </fields>
+    <fields>
+        <label><!-- F3 --></label>
+        <name>F3__c</name>
+    </fields>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

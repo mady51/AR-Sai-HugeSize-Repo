@@ -8,5 +8,13 @@
         <plural>true</plural>
         <value>Zobj3s</value>
     </caseValues>
+    <fields>
+        <label><!-- EField1 --></label>
+        <name>EField1__c</name>
+    </fields>
+    <fields>
+        <label><!-- fiedl1 --></label>
+        <name>fiedl1__c</name>
+    </fields>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

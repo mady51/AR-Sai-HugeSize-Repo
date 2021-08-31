@@ -8,5 +8,13 @@
         <plural>true</plural>
         <value>ACDemoOBj1s</value>
     </caseValues>
+    <fields>
+        <label><!-- AutorabitExtId__c --></label>
+        <name>AutorabitExtId__c</name>
+    </fields>
+    <fields>
+        <label><!-- Ftest12 --></label>
+        <name>Ftest12__c</name>
+    </fields>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

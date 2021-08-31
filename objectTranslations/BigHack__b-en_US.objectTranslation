@@ -8,5 +8,9 @@
         <plural>true</plural>
         <value>BigHacks</value>
     </caseValues>
+    <fields>
+        <label><!-- ID --></label>
+        <name>ID__c</name>
+    </fields>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

@@ -8,5 +8,9 @@
         <plural>true</plural>
         <value>ACOBJT1s</value>
     </caseValues>
+    <fields>
+        <label><!-- Field --></label>
+        <name>Field__c</name>
+    </fields>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

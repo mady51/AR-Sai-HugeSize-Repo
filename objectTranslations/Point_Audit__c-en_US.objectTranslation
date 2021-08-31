@@ -8,5 +8,13 @@
         <plural>true</plural>
         <value>Point Audit</value>
     </caseValues>
+    <fields>
+        <label><!-- Point Age in Days --></label>
+        <name>Point_Age_in_Days__c</name>
+    </fields>
+    <fields>
+        <label><!-- Quantity --></label>
+        <name>Quantity__c</name>
+    </fields>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

@@ -8,5 +8,10 @@
         <plural>true</plural>
         <value>Bat2s</value>
     </caseValues>
+    <fields>
+        <label><!-- Bat1 --></label>
+        <name>BBBB__c</name>
+        <relationshipLabel><!-- Bat2s --></relationshipLabel>
+    </fields>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

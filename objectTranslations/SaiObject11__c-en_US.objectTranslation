@@ -8,5 +8,21 @@
         <plural>true</plural>
         <value>SaiObject11s</value>
     </caseValues>
+    <fields>
+        <label><!-- Field1 --></label>
+        <name>Field1__c</name>
+    </fields>
+    <fields>
+        <label><!-- PickListField5 --></label>
+        <name>PickListField5__c</name>
+        <picklistValues>
+            <masterLabel>112</masterLabel>
+            <translation><!-- 112 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- field13 --></label>
+        <name>field13__c</name>
+    </fields>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

@@ -8,5 +8,17 @@
         <plural>true</plural>
         <value>zb1s</value>
     </caseValues>
+    <fields>
+        <label><!-- AutorabitExtId__c --></label>
+        <name>AutorabitExtId__c</name>
+    </fields>
+    <fields>
+        <label><!-- f1 --></label>
+        <name>f1__c</name>
+    </fields>
+    <fields>
+        <label><!-- f2 --></label>
+        <name>f2__c</name>
+    </fields>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

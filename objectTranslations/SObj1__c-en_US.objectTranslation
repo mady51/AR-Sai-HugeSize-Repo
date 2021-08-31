@@ -8,5 +8,13 @@
         <plural>true</plural>
         <value>SObj1s</value>
     </caseValues>
+    <fields>
+        <label><!-- RField1 --></label>
+        <name>RField1__c</name>
+    </fields>
+    <fields>
+        <label><!-- SfIeld1 --></label>
+        <name>SfIeld1__c</name>
+    </fields>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

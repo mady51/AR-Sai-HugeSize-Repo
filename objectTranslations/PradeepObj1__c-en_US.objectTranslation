@@ -8,5 +8,23 @@
         <plural>true</plural>
         <value>PradeepObj1s</value>
     </caseValues>
+    <fields>
+        <label><!-- F1 --></label>
+        <name>F1__c</name>
+    </fields>
+    <fields>
+        <label><!-- F2 --></label>
+        <name>F2__c</name>
+    </fields>
+    <recordTypes>
+        <description><!-- test --></description>
+        <label><!-- RT1 --></label>
+        <name>RT1</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- test --></description>
+        <label><!-- RT2 --></label>
+        <name>RT2</name>
+    </recordTypes>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

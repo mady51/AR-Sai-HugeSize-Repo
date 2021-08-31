@@ -8,5 +8,13 @@
         <plural>true</plural>
         <value>KCobj1</value>
     </caseValues>
+    <fields>
+        <label><!-- KCField1 --></label>
+        <name>KCField1__c</name>
+    </fields>
+    <fields>
+        <label><!-- KCField2 --></label>
+        <name>KCField2__c</name>
+    </fields>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

@@ -8,5 +8,9 @@
         <plural>true</plural>
         <value>saiobj200s</value>
     </caseValues>
+    <fields>
+        <label><!-- AutorabitExtId__c --></label>
+        <name>AutorabitExtId__c</name>
+    </fields>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

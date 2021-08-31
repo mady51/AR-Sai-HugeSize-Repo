@@ -8,5 +8,9 @@
         <plural>true</plural>
         <value>DXObj2s</value>
     </caseValues>
+    <fields>
+        <label><!-- F1 --></label>
+        <name>F1__c</name>
+    </fields>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>
