@@ -1,0 +1,24 @@
+<apex:page standardController="Point_Audit__c" extensions="Auto_Test"  >
+    <apex:form >
+        <apex:pageBlock title="New Point Audit" tabStyle="Point_Audit__c" >
+            
+            <apex:pageBlockSection title="Domain of New Audit" >
+            Url: {!$Label.AutoRabit_Domain}
+             </apex:pageBlockSection>
+             <apex:pageBlockSection title="Enter Detailes"  columns="2"  >
+                 <apex:pageBlockSectionItem >
+                 <apex:outputLabel >Point :</apex:outputLabel>
+                  
+                 </apex:pageBlockSectionItem>
+                 <apex:pageBlockSectionItem >
+                 <apex:outputLabel >Quantity</apex:outputLabel>
+                     <apex:inputField value="{!point.Quantity__c}" />
+                 </apex:pageBlockSectionItem>
+            </apex:pageBlockSection> 
+           
+         </apex:pageBlock>
+        <div align="center" draggable="false" >
+         <apex:commandButton value="save" action="{!NewPoint}" style="" />
+        </div>
+    </apex:form>
+</apex:page>
