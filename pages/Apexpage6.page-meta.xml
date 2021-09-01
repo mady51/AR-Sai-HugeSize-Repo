@@ -7,6 +7,11 @@
     <label>Apexpage6</label>
     <packageVersions>
         <majorNumber>1</majorNumber>
+        <minorNumber>10</minorNumber>
+        <namespace>ldt</namespace>
+    </packageVersions>
+    <packageVersions>
+        <majorNumber>1</majorNumber>
         <minorNumber>7</minorNumber>
         <namespace>sf_com_apps</namespace>
     </packageVersions>
