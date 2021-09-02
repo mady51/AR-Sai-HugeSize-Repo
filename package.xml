@@ -627,6 +627,7 @@
         <members>Account.Type</members>
         <members>Account.UpsellOpportunity__c</members>
         <members>Account.Website</members>
+        <members>Account.What_is_the_current_Email__c</members>
         <members>Account.Whats_the_Acct_GID_number__c</members>
         <members>Account.Whats_the_deployment_time__c</members>
         <members>Account.YearStarted</members>

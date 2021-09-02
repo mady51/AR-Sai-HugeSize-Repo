@@ -1837,6 +1837,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Account.What_is_the_current_Email__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Account.Whats_the_Acct_GID_number__c</field>
         <readable>true</readable>
     </fieldPermissions>

@@ -600,6 +600,15 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>What_is_the_current_Email__c</fullName>
+        <externalId>false</externalId>
+        <label>What is the current Email?</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Email</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Whats_the_Acct_GID_number__c</fullName>
         <externalId>false</externalId>
         <label>Whats the Acct GID number?</label>
