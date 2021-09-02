@@ -2,6 +2,14 @@
     <version>52.0</version>
     <types>
         <members>A0</members>
+        <members>A08123</members>
+        <members>A081234</members>
+        <members>A090</members>
+        <members>A0908</members>
+        <members>A09876</members>
+        <members>A1</members>
+        <members>A10</members>
+        <members>A13</members>
         <name>ApexClass</name>
     </types>
 </Package>
