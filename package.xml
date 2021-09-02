@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>50.0</version>
+    <version>52.0</version>
     <types>
         <members>A0</members>
         <members>A000</members>
+        <members>A00000AADmnDec</members>
+        <members>A00000ABdkKerh</members>
         <members>A00000AOZGddBpOrC</members>
         <members>A00000ASDXlkQJKQ</members>
         <members>A00000LgKTWXnk</members>
@@ -579,7 +581,9 @@
         <members>Account.AccountLookUpField__c</members>
         <members>Account.AccountNumber</members>
         <members>Account.AccountSource</members>
+        <members>Account.Account_PID_Number__c</members>
         <members>Account.Active__c</members>
+        <members>Account.Alternative_Email__c</members>
         <members>Account.AnnualRevenue</members>
         <members>Account.AutorabitExtId__c</members>
         <members>Account.BillingAddress</members>
@@ -589,11 +593,16 @@
         <members>Account.CustomerPriority__c</members>
         <members>Account.DandbCompanyId</members>
         <members>Account.Description</members>
+        <members>Account.Did_you_say_hello__c</members>
         <members>Account.DunsNumber</members>
         <members>Account.Fax</members>
+        <members>Account.HelloAccounts__c</members>
         <members>Account.Industry</members>
         <members>Account.IsCustomerPortal</members>
         <members>Account.IsPartner</members>
+        <members>Account.Is_this_Ok__c</members>
+        <members>Account.Is_this_a_general_account__c</members>
+        <members>Account.Is_this_deployed__c</members>
         <members>Account.Jigsaw</members>
         <members>Account.MyCoolCheckBox__c</members>
         <members>Account.NaicsCode</members>
@@ -618,6 +627,9 @@
         <members>Account.Type</members>
         <members>Account.UpsellOpportunity__c</members>
         <members>Account.Website</members>
+        <members>Account.What_is_the_current_Email__c</members>
+        <members>Account.Whats_the_Acct_GID_number__c</members>
+        <members>Account.Whats_the_deployment_time__c</members>
         <members>Account.YearStarted</members>
         <members>AccountBrand.AccountId</members>
         <members>AccountBrand.CompanyName</members>
@@ -1658,6 +1670,7 @@
         <members>mob2__c.AutorabitExtId__c</members>
         <members>mob2__c.field1__c</members>
         <members>obj1__c.Field1__c</members>
+        <members>obj1s__c.SomeEmail__c</members>
         <members>obj2__c.Field2__c</members>
         <members>obj800__c.AutorabitExtId__c</members>
         <members>obj800__c.field1__c</members>
