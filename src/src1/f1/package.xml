@@ -3,6 +3,8 @@
     <types>
         <members>A0</members>
         <members>A000</members>
+        <members>A151</members>
+        <members>A152</members>
         <name>ApexClass</name>
     </types>
 </Package>
