@@ -1298,6 +1298,7 @@
         <members>Opportunity.TotalOpportunityQuantity</members>
         <members>Opportunity.TrackingNumber__c</members>
         <members>Opportunity.Type</members>
+        <members>Opportunity.Whats_the_alternate_email__c</members>
         <members>OpportunityCompetitor.CompetitorName</members>
         <members>OpportunityContactRole.ContactId</members>
         <members>OpportunityContactRole.IsPrimary</members>
