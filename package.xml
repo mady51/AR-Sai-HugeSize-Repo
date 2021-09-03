@@ -295,6 +295,7 @@
         <members>SiteRegisterController</members>
         <members>SiteRegisterControllerTest</members>
         <members>Test</members>
+        <members>TestJavascript</members>
         <members>ToolingAPI</members>
         <members>ToolingAPIWSDL</members>
         <members>ToolingAPIWSDLMetadata</members>
