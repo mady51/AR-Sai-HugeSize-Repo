@@ -7,4 +7,14 @@
         <members>A152</members>
         <name>ApexClass</name>
     </types>
+    <types>
+        <members>Folder1</members>
+        <members>Folder1/DocTest1.text</members>
+        <name>Document</name>
+    </types>
+    <types>
+        <members>SaiTempfolder2</members>
+        <members>SaiTempfolder2/bbbv</members>
+        <name>EmailTemplate</name>
+    </types>
 </Package>
