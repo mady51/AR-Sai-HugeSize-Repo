@@ -393,7 +393,20 @@
         <name>AssignmentRules</name>
     </types>
     <types>
+        <members>ACCObjt1__c.FT1__c</members>
+        <members>ACCObjt1__c.FT2__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>ACCObjt1__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>AccountContactMultiRoles</members>
         <name>StandardValueSet</name>
+    </types>
+    <types>
+        <members>ACCObjt1__c.QuoteLineItem</members>
+        <name>WorkflowRule</name>
     </types>
 </Package>
