@@ -1280,6 +1280,7 @@
         <members>Opportunity.CloseDate</members>
         <members>Opportunity.ContractId</members>
         <members>Opportunity.CurrentGenerators__c</members>
+        <members>Opportunity.Date_of_Entry__c</members>
         <members>Opportunity.DeliveryInstallationStatus__c</members>
         <members>Opportunity.Description</members>
         <members>Opportunity.ExpectedRevenue</members>
