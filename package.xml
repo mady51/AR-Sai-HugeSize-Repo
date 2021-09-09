@@ -3811,17 +3811,17 @@
         <name>EmailServicesFunction</name>
     </types>
     <types>
-        <members>EmailTemp1</members>
-        <members>Emf1</members>
-        <members>Emf1/F1</members>
-        <members>Folder1</members>
-        <members>SKV5</members>
-        <members>SKv</members>
-        <members>TempFolder1</members>
-        <members>TempFolder1/NF1</members>
-        <members>TempFolder1/NF2</members>
-        <members>TempFolder1/TempFile1</members>
-        <members>TempFolder1/tempFiel2</members>
+        <members>PMO/Defect_Creation_Notification</members>
+        <members>PMO/Question_Log_Send_Email_on_Query_Assignment</members>
+        <members>PMO/Request_Description_Created_Updated</members>
+        <members>PMO/Send_Email_To_Owner_Of_the_Request</members>
+        <members>PMO/Send_Email_To_Submitter_of_the_Question</members>
+        <members>SET1</members>
+        <members>SET1/S1</members>
+        <members>Test123</members>
+        <members>Test45</members>
+        <members>Test45/TestEt1</members>
+        <members>TestEmailTemplateFolder1</members>
         <members>unfiled$public/CommunityChangePasswordEmailTemplate</members>
         <members>unfiled$public/CommunityChgEmailVerNewTemplate</members>
         <members>unfiled$public/CommunityChgEmailVerOldTemplate</members>
