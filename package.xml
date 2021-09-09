@@ -399,6 +399,7 @@
     </types>
     <types>
         <members>ACCObjt1__c</members>
+        <members>SKnew1__c</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -407,6 +408,7 @@
     </types>
     <types>
         <members>ACCObjt1__c.QuoteLineItem</members>
+        <members>SKnew1__c.Wr1</members>
         <name>WorkflowRule</name>
     </types>
 </Package>
