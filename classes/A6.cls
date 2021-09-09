@@ -1,12 +1,12 @@
-public Class A17
+public Class A6
 {
 public Account createAccount(String name)  //method to create account
 {
 //sai Add comment for Account A1
 //saikumar
-Account a171= new Account();
-a171.Name = name;
-return a171;
-//sai1
+Account a001211= new Account();
+a001211.Name = name;
+return a001211;
+//sai
 }
 }
