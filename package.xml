@@ -465,6 +465,16 @@
         <name>AutoResponseRules</name>
     </types>
     <types>
+        <members>ARBot3</members>
+        <name>Bot</name>
+    </types>
+    <types>
+        <members>ARBot3.v1</members>
+        <members>ARBot3.v2</members>
+        <members>ARBot3.v3</members>
+        <name>BotVersion</name>
+    </types>
+    <types>
         <members>Lead.LeadProcess1</members>
         <name>BusinessProcess</name>
     </types>
